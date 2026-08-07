@@ -1,0 +1,1385 @@
+{
+  "churches": [
+    {
+      "id": "roman_catholic",
+      "name": "Roman Catholic Church",
+      "tradition": "Catholic",
+      "members": 1300000000
+    },
+
+    {
+      "id": "eastern_orthodox",
+      "name": "Eastern Orthodox Church",
+      "tradition": "Eastern Orthodox",
+      "members": 220000000
+    },
+    {
+      "id": "greek_orthodox",
+      "name": "Greek Orthodox Church",
+      "tradition": "Eastern Orthodox",
+      "members": 10000000
+    },
+    {
+      "id": "russian_orthodox",
+      "name": "Russian Orthodox Church",
+      "tradition": "Eastern Orthodox",
+      "members": 100000000
+    },
+    {
+      "id": "serbian_orthodox",
+      "name": "Serbian Orthodox Church",
+      "tradition": "Eastern Orthodox",
+      "members": 8000000
+    },
+    {
+      "id": "romanian_orthodox",
+      "name": "Romanian Orthodox Church",
+      "tradition": "Eastern Orthodox",
+      "members": 16000000
+    },
+
+    {
+      "id": "coptic_orthodox",
+      "name": "Coptic Orthodox Church",
+      "tradition": "Oriental Orthodox",
+      "members": 10000000
+    },
+    {
+      "id": "armenian_apostolic",
+      "name": "Armenian Apostolic Church",
+      "tradition": "Oriental Orthodox",
+      "members": 9000000
+    },
+    {
+      "id": "syriac_orthodox",
+      "name": "Syriac Orthodox Church",
+      "tradition": "Oriental Orthodox",
+      "members": 4000000
+    },
+    {
+      "id": "ethiopian_orthodox",
+      "name": "Ethiopian Orthodox Tewahedo Church",
+      "tradition": "Oriental Orthodox",
+      "members": 50000000
+    },
+
+    {
+      "id": "assyrian_church",
+      "name": "Assyrian Church of the East",
+      "tradition": "Church of the East",
+      "members": 400000
+    },
+
+    {
+      "id": "church_of_england",
+      "name": "Church of England",
+      "tradition": "Anglican",
+      "members": 85000000
+    },
+    {
+      "id": "episcopal",
+      "name": "The Episcopal Church",
+      "tradition": "Anglican",
+      "members": 1800000
+    },
+    {
+      "id": "anglican_canada",
+      "name": "Anglican Church of Canada",
+      "tradition": "Anglican",
+      "members": 3500000
+    },
+
+    {
+      "id": "elca",
+      "name": "Evangelical Lutheran Church in America",
+      "tradition": "Lutheran",
+      "members": 3000000
+    },
+    {
+      "id": "lcms",
+      "name": "Lutheran Church Missouri Synod",
+      "tradition": "Lutheran",
+      "members": 1800000
+    },
+    {
+      "id": "wels",
+      "name": "Wisconsin Evangelical Lutheran Synod",
+      "tradition": "Lutheran",
+      "members": 350000
+    },
+
+    {
+      "id": "umc",
+      "name": "United Methodist Church",
+      "tradition": "Methodist",
+      "members": 12000000
+    },
+    {
+      "id": "global_methodist",
+      "name": "Global Methodist Church",
+      "tradition": "Methodist",
+      "members": 100000
+    },
+    {
+      "id": "wesleyan",
+      "name": "The Wesleyan Church",
+      "tradition": "Methodist",
+      "members": 500000
+    },
+
+    {
+      "id": "sbc",
+      "name": "Southern Baptist Convention",
+      "tradition": "Baptist",
+      "members": 13000000
+    },
+    {
+      "id": "abcusa",
+      "name": "American Baptist Churches USA",
+      "tradition": "Baptist",
+      "members": 1200000
+    },
+    {
+      "id": "cbf",
+      "name": "Cooperative Baptist Fellowship",
+      "tradition": "Baptist",
+      "members": 180000
+    },
+
+    {
+      "id": "crcna",
+      "name": "Christian Reformed Church in North America",
+      "tradition": "Dutch Reformed",
+      "members": 200000
+    },
+    {
+      "id": "rca",
+      "name": "Reformed Church in America",
+      "tradition": "Dutch Reformed",
+      "members": 180000
+    },
+
+    {
+      "id": "pcusa",
+      "name": "Presbyterian Church USA",
+      "tradition": "Presbyterian",
+      "members": 1400000
+    },
+    {
+      "id": "pca",
+      "name": "Presbyterian Church in America",
+      "tradition": "Presbyterian",
+      "members": 400000
+    },
+    {
+      "id": "opc",
+      "name": "Orthodox Presbyterian Church",
+      "tradition": "Presbyterian",
+      "members": 30000
+    },
+
+    {
+      "id": "ucc",
+      "name": "United Church of Christ",
+      "tradition": "Congregationalist",
+      "members": 700000
+    },
+
+    {
+      "id": "mennonite_usa",
+      "name": "Mennonite Church USA",
+      "tradition": "Anabaptist",
+      "members": 50000
+    },
+    {
+      "id": "amish",
+      "name": "Amish",
+      "tradition": "Anabaptist",
+      "members": 400000
+    },
+
+    {
+      "id": "assemblies_of_god",
+      "name": "Assemblies of God",
+      "tradition": "Pentecostal",
+      "members": 85000000
+    },
+    {
+      "id": "church_of_god",
+      "name": "Church of God (Cleveland)",
+      "tradition": "Pentecostal",
+      "members": 700000
+    },
+
+    {
+      "id": "churches_of_christ",
+      "name": "Churches of Christ",
+      "tradition": "Restorationist",
+      "members": 3000000
+    },
+    {
+      "id": "disciples_of_christ",
+      "name": "Christian Church (Disciples of Christ)",
+      "tradition": "Restorationist",
+      "members": 350000
+    },
+
+    {
+      "id": "calvary_chapel",
+      "name": "Calvary Chapel",
+      "tradition": "Non-Denominational",
+      "members": 2000000
+    },
+    {
+      "id": "vineyard",
+      "name": "Vineyard Churches",
+      "tradition": "Non-Denominational",
+      "members": 240000
+    },
+
+    {
+      "id": "seventh_day_adventist",
+      "name": "Seventh-day Adventist Church",
+      "tradition": "Adventist",
+      "members": 22000000
+    },
+    {
+      "id": "moravian",
+      "name": "Moravian Church",
+      "tradition": "Moravian",
+      "members": 1000000
+    },
+    {
+      "id": "eritrea_orthodox",
+      "name": "Eritrean Orthodox Tewahedo Church",
+      "tradition": "Oriental Orthodox",
+      "members": 3000000
+    },{
+      "id": "lutheran_church_canada",
+      "name": "Lutheran Church–Canada",
+      "tradition": "Lutheran",
+      "members": 300000
+    }
+  ],
+  "relationships": [
+
+    {
+      "source": "roman_catholic",
+      "target": "eastern_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "roman_catholic",
+      "target": "greek_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "roman_catholic",
+      "target": "russian_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "roman_catholic",
+      "target": "serbian_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "roman_catholic",
+      "target": "romanian_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+
+    {
+      "source": "roman_catholic",
+      "target": "coptic_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "roman_catholic",
+      "target": "armenian_apostolic",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "roman_catholic",
+      "target": "syriac_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "roman_catholic",
+      "target": "ethiopian_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "roman_catholic",
+      "target": "assyrian_church",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+
+    {
+      "source": "roman_catholic",
+      "target": "church_of_england",
+      "strength": 1,
+      "relationship": "Separation"
+    },
+    {
+      "source": "roman_catholic",
+      "target": "episcopal",
+      "strength": 1,
+      "relationship": "Separation"
+    },
+
+    {
+      "source": "roman_catholic",
+      "target": "elca",
+      "strength": 1,
+      "relationship": "Separation"
+    },
+    {
+      "source": "roman_catholic",
+      "target": "lcms",
+      "strength": 1,
+      "relationship": "Separation"
+    },
+
+    {
+      "source": "roman_catholic",
+      "target": "umc",
+      "strength": 1,
+      "relationship": "Separation"
+    },
+
+    {
+      "source": "roman_catholic",
+      "target": "pcusa",
+      "strength": 1,
+      "relationship": "Separation"
+    },
+    {
+      "source": "roman_catholic",
+      "target": "pca",
+      "strength": 1,
+      "relationship": "Separation"
+    },
+
+    {
+      "source": "roman_catholic",
+      "target": "sbc",
+      "strength": 1,
+      "relationship": "Separation"
+    },
+    {
+      "source": "roman_catholic",
+      "target": "abcusa",
+      "strength": 1,
+      "relationship": "Separation"
+    },
+
+    {
+      "source": "roman_catholic",
+      "target": "assemblies_of_god",
+      "strength": 1,
+      "relationship": "Separation"
+    },
+
+    {
+      "source": "roman_catholic",
+      "target": "churches_of_christ",
+      "strength": 1,
+      "relationship": "Separation"
+    },
+
+    {
+      "source": "roman_catholic",
+      "target": "seventh_day_adventist",
+      "strength": 1,
+      "relationship": "Separation"
+    },
+    
+    {
+      "source": "eastern_orthodox",
+      "target": "roman_catholic",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "eastern_orthodox",
+      "target": "coptic_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "eastern_orthodox",
+      "target": "armenian_apostolic",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "eastern_orthodox",
+      "target": "syriac_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "eastern_orthodox",
+      "target": "ethiopian_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "eastern_orthodox",
+      "target": "assyrian_church",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "greek_orthodox",
+      "target": "russian_orthodox",
+      "strength": 10,
+      "relationship": "Full Communion"
+    },
+    {
+      "source": "greek_orthodox",
+      "target": "serbian_orthodox",
+      "strength": 10,
+      "relationship": "Full Communion"
+    },
+    {
+      "source": "greek_orthodox",
+      "target": "romanian_orthodox",
+      "strength": 10,
+      "relationship": "Full Communion"
+    },
+
+    {
+      "source": "greek_orthodox",
+      "target": "roman_catholic",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+
+    {
+      "source": "greek_orthodox",
+      "target": "coptic_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "greek_orthodox",
+      "target": "armenian_apostolic",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "greek_orthodox",
+      "target": "syriac_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "greek_orthodox",
+      "target": "ethiopian_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+
+    {
+      "source": "greek_orthodox",
+      "target": "assyrian_church",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "russian_orthodox",
+      "target": "serbian_orthodox",
+      "strength": 10,
+      "relationship": "Full Communion"
+    },
+    {
+      "source": "russian_orthodox",
+      "target": "romanian_orthodox",
+      "strength": 10,
+      "relationship": "Full Communion"
+    },
+
+    {
+      "source": "russian_orthodox",
+      "target": "roman_catholic",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+
+    {
+      "source": "russian_orthodox",
+      "target": "coptic_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "russian_orthodox",
+      "target": "armenian_apostolic",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "russian_orthodox",
+      "target": "syriac_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "russian_orthodox",
+      "target": "ethiopian_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+
+    {
+      "source": "russian_orthodox",
+      "target": "assyrian_church",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+
+    {
+      "source": "russian_orthodox",
+      "target": "greek_orthodox",
+      "strength": 1,
+      "relationship": "Separation"
+    },
+    {
+      "source": "serbian_orthodox",
+      "target": "greek_orthodox",
+      "strength": 10,
+      "relationship": "Full Communion"
+    },
+    {
+      "source": "serbian_orthodox",
+      "target": "russian_orthodox",
+      "strength": 10,
+      "relationship": "Full Communion"
+    },
+    {
+      "source": "serbian_orthodox",
+      "target": "romanian_orthodox",
+      "strength": 10,
+      "relationship": "Full Communion"
+    },
+
+    {
+      "source": "serbian_orthodox",
+      "target": "roman_catholic",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+
+    {
+      "source": "serbian_orthodox",
+      "target": "coptic_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "serbian_orthodox",
+      "target": "armenian_apostolic",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "serbian_orthodox",
+      "target": "syriac_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "serbian_orthodox",
+      "target": "ethiopian_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+
+    {
+      "source": "serbian_orthodox",
+      "target": "assyrian_church",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "romanian_orthodox",
+      "target": "greek_orthodox",
+      "strength": 10,
+      "relationship": "Full Communion"
+    },
+    {
+      "source": "romanian_orthodox",
+      "target": "russian_orthodox",
+      "strength": 10,
+      "relationship": "Full Communion"
+    },
+    {
+      "source": "romanian_orthodox",
+      "target": "serbian_orthodox",
+      "strength": 10,
+      "relationship": "Full Communion"
+    },
+
+    {
+      "source": "romanian_orthodox",
+      "target": "roman_catholic",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+
+    {
+      "source": "romanian_orthodox",
+      "target": "coptic_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "romanian_orthodox",
+      "target": "armenian_apostolic",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "romanian_orthodox",
+      "target": "syriac_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "romanian_orthodox",
+      "target": "ethiopian_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+
+    {
+      "source": "romanian_orthodox",
+      "target": "assyrian_church",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "coptic_orthodox",
+      "target": "roman_catholic",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "coptic_orthodox",
+      "target": "eastern_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "coptic_orthodox",
+      "target": "greek_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "coptic_orthodox",
+      "target": "russian_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "coptic_orthodox",
+      "target": "serbian_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+      "source": "coptic_orthodox",
+      "target": "romanian_orthodox",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+
+    {
+      "source": "coptic_orthodox",
+      "target": "armenian_apostolic",
+      "strength": 10,
+      "relationship": "Full Communion"
+    },
+    {
+      "source": "coptic_orthodox",
+      "target": "syriac_orthodox",
+      "strength": 10,
+      "relationship": "Full Communion"
+    },
+    {
+      "source": "coptic_orthodox",
+      "target": "ethiopian_orthodox",
+      "strength": 10,
+      "relationship": "Full Communion"
+    },
+
+    {
+      "source": "coptic_orthodox",
+      "target": "assyrian_church",
+      "strength": 3,
+      "relationship": "Cooperation"
+    },
+    {
+  "source": "armenian_apostolic",
+  "target": "coptic_orthodox",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "armenian_apostolic",
+  "target": "syriac_orthodox",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "armenian_apostolic",
+  "target": "ethiopian_orthodox",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "armenian_apostolic",
+  "target": "eritrea_orthodox",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "armenian_apostolic",
+  "target": "roman_catholic",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "armenian_apostolic",
+  "target": "eastern_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "armenian_apostolic",
+  "target": "assyrian_church",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "syriac_orthodox",
+  "target": "coptic_orthodox",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "syriac_orthodox",
+  "target": "armenian_apostolic",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "syriac_orthodox",
+  "target": "ethiopian_orthodox",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "syriac_orthodox",
+  "target": "eritrea_orthodox",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "syriac_orthodox",
+  "target": "roman_catholic",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "syriac_orthodox",
+  "target": "eastern_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "syriac_orthodox",
+  "target": "assyrian_church",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "ethiopian_orthodox",
+  "target": "coptic_orthodox",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "ethiopian_orthodox",
+  "target": "armenian_apostolic",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "ethiopian_orthodox",
+  "target": "syriac_orthodox",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "ethiopian_orthodox",
+  "target": "eritrea_orthodox",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "ethiopian_orthodox",
+  "target": "roman_catholic",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "ethiopian_orthodox",
+  "target": "eastern_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "ethiopian_orthodox",
+  "target": "assyrian_church",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "assyrian_church",
+  "target": "roman_catholic",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "assyrian_church",
+  "target": "eastern_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "assyrian_church",
+  "target": "coptic_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "assyrian_church",
+  "target": "armenian_apostolic",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "assyrian_church",
+  "target": "syriac_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "assyrian_church",
+  "target": "ethiopian_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "church_of_england",
+  "target": "roman_catholic",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "church_of_england",
+  "target": "eastern_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "church_of_england",
+  "target": "greek_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "church_of_england",
+  "target": "russian_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "church_of_england",
+  "target": "coptic_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "church_of_england",
+  "target": "armenian_apostolic",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "church_of_england",
+  "target": "syriac_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "church_of_england",
+  "target": "elca",
+  "strength": 5,
+  "relationship": "Recognition"
+},
+{
+  "source": "church_of_england",
+  "target": "episcopal",
+  "strength": 10,
+  "relationship": "Full Communion"
+},{
+  "source": "episcopal",
+  "target": "church_of_england",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "episcopal",
+  "target": "roman_catholic",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "episcopal",
+  "target": "eastern_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "episcopal",
+  "target": "greek_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "episcopal",
+  "target": "russian_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "episcopal",
+  "target": "coptic_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "episcopal",
+  "target": "armenian_apostolic",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "episcopal",
+  "target": "syriac_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "episcopal",
+  "target": "elca",
+  "strength": 5,
+  "relationship": "Recognition"
+},
+{
+  "source": "episcopal",
+  "target": "umc",
+  "strength": 5,
+  "relationship": "Recognition"
+},{
+  "source": "anglican_canada",
+  "target": "church_of_england",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "anglican_canada",
+  "target": "episcopal",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "anglican_canada",
+  "target": "roman_catholic",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "anglican_canada",
+  "target": "eastern_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "anglican_canada",
+  "target": "greek_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "anglican_canada",
+  "target": "russian_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "anglican_canada",
+  "target": "coptic_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "anglican_canada",
+  "target": "armenian_apostolic",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "anglican_canada",
+  "target": "syriac_orthodox",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "anglican_canada",
+  "target": "elca",
+  "strength": 5,
+  "relationship": "Recognition"
+},
+{
+  "source": "anglican_canada",
+  "target": "umc",
+  "strength": 5,
+  "relationship": "Recognition"
+},{
+  "source": "elca",
+  "target": "episcopal",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "elca",
+  "target": "church_of_england",
+  "strength": 5,
+  "relationship": "Recognition"
+},
+{
+  "source": "elca",
+  "target": "anglican_canada",
+  "strength": 5,
+  "relationship": "Recognition"
+},
+{
+  "source": "elca",
+  "target": "umc",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "elca",
+  "target": "pcusa",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "elca",
+  "target": "rca",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "elca",
+  "target": "moravian",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "elca",
+  "target": "roman_catholic",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "lcms",
+  "target": "lutheran_church_canada",
+  "strength": 10,
+  "relationship": "Full Communion"
+},{
+  "source": "umc",
+  "target": "elca",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "umc",
+  "target": "episcopal",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "umc",
+  "target": "moravian",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "umc",
+  "target": "pcusa",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "umc",
+  "target": "roman_catholic",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "wesleyan",
+  "target": "global_methodist",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "abcusa",
+  "target": "pcusa",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "abcusa",
+  "target": "elca",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "abcusa",
+  "target": "umc",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "abcusa",
+  "target": "episcopal",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "crcna",
+  "target": "rca",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "crcna",
+  "target": "elca",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "crcna",
+  "target": "pcusa",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "rca",
+  "target": "crcna",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "rca",
+  "target": "elca",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "rca",
+  "target": "pcusa",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "rca",
+  "target": "umc",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "pcusa",
+  "target": "rca",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "pcusa",
+  "target": "elca",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "pcusa",
+  "target": "umc",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "pcusa",
+  "target": "abcusa",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "pcusa",
+  "target": "episcopal",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "pca",
+  "target": "opc",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "opc",
+  "target": "pca",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "ucc",
+  "target": "pcusa",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "ucc",
+  "target": "elca",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "ucc",
+  "target": "rca",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "ucc",
+  "target": "moravian",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "ucc",
+  "target": "episcopal",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "mennonite_usa",
+  "target": "roman_catholic",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "mennonite_usa",
+  "target": "elca",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "mennonite_usa",
+  "target": "ucc",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "assemblies_of_god",
+  "target": "roman_catholic",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "church_of_god",
+  "target": "assemblies_of_god",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "disciples_of_christ",
+  "target": "ucc",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "disciples_of_christ",
+  "target": "pcusa",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "disciples_of_christ",
+  "target": "elca",
+  "strength": 3,
+  "relationship": "Cooperation"
+},
+{
+  "source": "disciples_of_christ",
+  "target": "episcopal",
+  "strength": 3,
+  "relationship": "Cooperation"
+},{
+  "source": "moravian",
+  "target": "elca",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "moravian",
+  "target": "ucc",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "moravian",
+  "target": "episcopal",
+  "strength": 10,
+  "relationship": "Full Communion"
+},{
+  "source": "eritrea_orthodox",
+  "target": "coptic_orthodox",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "eritrea_orthodox",
+  "target": "armenian_apostolic",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "eritrea_orthodox",
+  "target": "syriac_orthodox",
+  "strength": 10,
+  "relationship": "Full Communion"
+},
+{
+  "source": "eritrea_orthodox",
+  "target": "ethiopian_orthodox",
+  "strength": 10,
+  "relationship": "Full Communion"
+},{
+  "source": "lutheran_church_canada",
+  "target": "lcms",
+  "strength": 10,
+  "relationship": "Full Communion"
+}
+
+  ]
+}
