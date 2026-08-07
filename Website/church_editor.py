@@ -145,19 +145,15 @@ def add_relationship(data):
 
     print("""
     Relationship types:
-    10 - Full Communion
-    5  - Recognition
-    3  - Cooperation
-    1  - Separation
-    0  - Condemnation
+    100 - Full Communion
+    25 - Ecclesial Recognition
+    5  - Cooperation
     """)
 
     relationship_types = {
-        10: "Full Communion",
-        5: "Recognition",
-        3: "Cooperation",
-        1: "Separation",
-        0: "Condemnation"
+        100: "Full Communion",
+        25: "Ecclesial Recognition",
+        5: "Cooperation"
     }
 
     strength = int(input("Strength: "))
