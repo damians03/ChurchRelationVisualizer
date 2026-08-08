@@ -10,6 +10,9 @@
       <attribute id="0" title="tradition" type="string"/>
       <attribute id="1" title="members" type="long"/>
     </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="2" title="strength" type="long"/>
+    </attributes>
     <nodes>
       <node id="roman_catholic" label="Roman Catholic Church">
         <attvalues>
@@ -17,7 +20,7 @@
           <attvalue for="1" value="1300000000"/>
         </attvalues>
         <viz:size value="60.0"/>
-        <viz:position x="-488.05966" y="-345.99548"/>
+        <viz:position x="-918.00385" y="1962.3143"/>
         <viz:color r="255" g="255" b="3"/>
       </node>
       <node id="non_denom" label="Non-Denominational Christianity">
@@ -26,7 +29,7 @@
           <attvalue for="1" value="40000000"/>
         </attvalues>
         <viz:size value="11.537343"/>
-        <viz:position x="3452.3735" y="-569.85754"/>
+        <viz:position x="-948.47925" y="-319.61935"/>
         <viz:color r="255" g="254" b="252"/>
       </node>
       <node id="greek_orthodox" label="Greek Orthodox Church">
@@ -35,7 +38,7 @@
           <attvalue for="1" value="10000000"/>
         </attvalues>
         <viz:size value="10.383471"/>
-        <viz:position x="-766.8695" y="234.90373"/>
+        <viz:position x="1887.8326" y="-289.5983"/>
         <viz:color r="255" g="165" b="69"/>
       </node>
       <node id="russian_orthodox" label="Russian Orthodox Church">
@@ -44,7 +47,7 @@
           <attvalue for="1" value="100000000"/>
         </attvalues>
         <viz:size value="13.845089"/>
-        <viz:position x="-728.5162" y="89.24919"/>
+        <viz:position x="1242.0907" y="146.47324"/>
         <viz:color r="255" g="165" b="69"/>
       </node>
       <node id="serbian_orthodox" label="Serbian Orthodox Church">
@@ -53,7 +56,7 @@
           <attvalue for="1" value="8000000"/>
         </attvalues>
         <viz:size value="10.306545"/>
-        <viz:position x="-908.68024" y="152.7303"/>
+        <viz:position x="1688.4742" y="556.2973"/>
         <viz:color r="255" g="165" b="69"/>
       </node>
       <node id="romanian_orthodox" label="Romanian Orthodox Church">
@@ -62,7 +65,7 @@
           <attvalue for="1" value="16000000"/>
         </attvalues>
         <viz:size value="10.614244"/>
-        <viz:position x="-865.78503" y="82.94232"/>
+        <viz:position x="1274.3345" y="655.1352"/>
         <viz:color r="255" g="165" b="69"/>
       </node>
       <node id="coptic_orthodox" label="Coptic Orthodox Church">
@@ -71,7 +74,7 @@
           <attvalue for="1" value="15000000"/>
         </attvalues>
         <viz:size value="10.575783"/>
-        <viz:position x="-979.65784" y="-180.23323"/>
+        <viz:position x="547.6677" y="688.46857"/>
         <viz:color r="167" g="255" b="66"/>
       </node>
       <node id="armenian_apostolic" label="Armenian Apostolic Church">
@@ -80,7 +83,7 @@
           <attvalue for="1" value="9000000"/>
         </attvalues>
         <viz:size value="10.345008"/>
-        <viz:position x="-1034.3181" y="69.45311"/>
+        <viz:position x="1365.7377" y="1455.5878"/>
         <viz:color r="167" g="255" b="66"/>
       </node>
       <node id="syriac_orthodox" label="Syriac Orthodox Church">
@@ -89,7 +92,7 @@
           <attvalue for="1" value="4000000"/>
         </attvalues>
         <viz:size value="10.152696"/>
-        <viz:position x="-880.62134" y="-72.679886"/>
+        <viz:position x="121.31685" y="1157.8878"/>
         <viz:color r="167" g="255" b="66"/>
       </node>
       <node id="ethiopian_orthodox" label="Ethiopian Orthodox Tewahedo Church">
@@ -98,7 +101,7 @@
           <attvalue for="1" value="50000000"/>
         </attvalues>
         <viz:size value="11.9219675"/>
-        <viz:position x="-1114.6663" y="-19.755354"/>
+        <viz:position x="790.8403" y="1269.1279"/>
         <viz:color r="167" g="255" b="66"/>
       </node>
       <node id="assyrian_church" label="Assyrian Church of the East">
@@ -107,7 +110,7 @@
           <attvalue for="1" value="400000"/>
         </attvalues>
         <viz:size value="10.014231"/>
-        <viz:position x="-1167.8793" y="224.06404"/>
+        <viz:position x="2262.964" y="1034.5682"/>
         <viz:color r="255" g="72" b="223"/>
       </node>
       <node id="church_of_england" label="Church of England">
@@ -116,7 +119,7 @@
           <attvalue for="1" value="25000000"/>
         </attvalues>
         <viz:size value="10.960407"/>
-        <viz:position x="120.761314" y="-77.66826"/>
+        <viz:position x="0.0030203727" y="5.3062185E-4"/>
         <viz:color r="255" g="112" b="255"/>
       </node>
       <node id="episcopal" label="The Episcopal Church">
@@ -125,7 +128,7 @@
           <attvalue for="1" value="1800000"/>
         </attvalues>
         <viz:size value="10.068078"/>
-        <viz:position x="215.45969" y="105.40799"/>
+        <viz:position x="-208.93251" y="80.30326"/>
         <viz:color r="255" g="112" b="255"/>
       </node>
       <node id="anglican_canada" label="Anglican Church of Canada">
@@ -134,7 +137,7 @@
           <attvalue for="1" value="500000"/>
         </attvalues>
         <viz:size value="10.018077"/>
-        <viz:position x="-0.0026472665" y="0.0064435326"/>
+        <viz:position x="-245.72159" y="516.6329"/>
         <viz:color r="255" g="112" b="255"/>
       </node>
       <node id="elca" label="Evangelical Lutheran Church in America">
@@ -143,7 +146,7 @@
           <attvalue for="1" value="2800000"/>
         </attvalues>
         <viz:size value="10.106541"/>
-        <viz:position x="551.7273" y="42.905838"/>
+        <viz:position x="-115.84416" y="-415.73227"/>
         <viz:color r="7" g="0" b="236"/>
       </node>
       <node id="lcms" label="Lutheran Church Missouri Synod">
@@ -152,7 +155,7 @@
           <attvalue for="1" value="1800000"/>
         </attvalues>
         <viz:size value="10.068078"/>
-        <viz:position x="526.39014" y="-339.5691"/>
+        <viz:position x="486.0106" y="-501.01245"/>
         <viz:color r="7" g="0" b="236"/>
       </node>
       <node id="wels" label="Wisconsin Evangelical Lutheran Synod">
@@ -161,7 +164,7 @@
           <attvalue for="1" value="350000"/>
         </attvalues>
         <viz:size value="10.012308"/>
-        <viz:position x="515.5859" y="-284.7983"/>
+        <viz:position x="637.6535" y="-260.87485"/>
         <viz:color r="7" g="0" b="236"/>
       </node>
       <node id="umc" label="United Methodist Church">
@@ -170,7 +173,7 @@
           <attvalue for="1" value="9000000"/>
         </attvalues>
         <viz:size value="10.345008"/>
-        <viz:position x="464.62277" y="179.773"/>
+        <viz:position x="-868.464" y="272.06097"/>
         <viz:color r="0" g="194" b="30"/>
       </node>
       <node id="global_methodist" label="Global Methodist Church">
@@ -179,7 +182,7 @@
           <attvalue for="1" value="100000"/>
         </attvalues>
         <viz:size value="10.002692"/>
-        <viz:position x="9426.361" y="2504.2783"/>
+        <viz:position x="-1030.9572" y="-727.6991"/>
         <viz:color r="0" g="194" b="30"/>
       </node>
       <node id="wesleyan" label="The Wesleyan Church">
@@ -188,7 +191,7 @@
           <attvalue for="1" value="600000"/>
         </attvalues>
         <viz:size value="10.021924"/>
-        <viz:position x="9404.054" y="2498.6917"/>
+        <viz:position x="-1149.4358" y="-768.2408"/>
         <viz:color r="0" g="194" b="30"/>
       </node>
       <node id="sbc" label="Southern Baptist Convention">
@@ -197,8 +200,8 @@
           <attvalue for="1" value="13000000"/>
         </attvalues>
         <viz:size value="10.4988575"/>
-        <viz:position x="2627.6206" y="-2300.9912"/>
-        <viz:color r="205" g="125" b="0"/>
+        <viz:position x="-600.7424" y="-1052.4113"/>
+        <viz:color r="106" g="71" b="0"/>
       </node>
       <node id="abcusa" label="American Baptist Churches USA">
         <attvalues>
@@ -206,26 +209,8 @@
           <attvalue for="1" value="1200000"/>
         </attvalues>
         <viz:size value="10.045001"/>
-        <viz:position x="591.5193" y="260.32602"/>
-        <viz:color r="205" g="125" b="0"/>
-      </node>
-      <node id="cbf" label="Cooperative Baptist Fellowship">
-        <attvalues>
-          <attvalue for="0" value="Baptist"/>
-          <attvalue for="1" value="180000"/>
-        </attvalues>
-        <viz:size value="10.00577"/>
-        <viz:position x="2479.1418" y="2595.4072"/>
-        <viz:color r="205" g="125" b="0"/>
-      </node>
-      <node id="crcna" label="Christian Reformed Church in North America">
-        <attvalues>
-          <attvalue for="0" value="Dutch Reformed"/>
-          <attvalue for="1" value="200000"/>
-        </attvalues>
-        <viz:size value="10.006538"/>
-        <viz:position x="682.9276" y="101.307945"/>
-        <viz:color r="255" g="102" b="11"/>
+        <viz:position x="-1438.6122" y="-1005.9551"/>
+        <viz:color r="106" g="71" b="0"/>
       </node>
       <node id="rca" label="Reformed Church in America">
         <attvalues>
@@ -233,8 +218,8 @@
           <attvalue for="1" value="180000"/>
         </attvalues>
         <viz:size value="10.00577"/>
-        <viz:position x="689.7805" y="139.12614"/>
-        <viz:color r="255" g="102" b="11"/>
+        <viz:position x="610.703" y="-1609.2421"/>
+        <viz:color r="174" g="40" b="255"/>
       </node>
       <node id="pcusa" label="Presbyterian Church USA">
         <attvalues>
@@ -242,7 +227,7 @@
           <attvalue for="1" value="1400000"/>
         </attvalues>
         <viz:size value="10.052693"/>
-        <viz:position x="657.58777" y="185.1244"/>
+        <viz:position x="106.55741" y="-1817.811"/>
         <viz:color r="244" g="0" b="11"/>
       </node>
       <node id="pca" label="Presbyterian Church in America">
@@ -251,7 +236,7 @@
           <attvalue for="1" value="400000"/>
         </attvalues>
         <viz:size value="10.014231"/>
-        <viz:position x="-12471.11" y="6563.816"/>
+        <viz:position x="1076.1471" y="-1987.7477"/>
         <viz:color r="244" g="0" b="11"/>
       </node>
       <node id="opc" label="Orthodox Presbyterian Church">
@@ -260,7 +245,7 @@
           <attvalue for="1" value="30000"/>
         </attvalues>
         <viz:size value="10.0"/>
-        <viz:position x="-12450.704" y="6553.3877"/>
+        <viz:position x="1302.4584" y="-1845.8044"/>
         <viz:color r="244" g="0" b="11"/>
       </node>
       <node id="ucc" label="United Church of Christ">
@@ -269,7 +254,7 @@
           <attvalue for="1" value="700000"/>
         </attvalues>
         <viz:size value="10.02577"/>
-        <viz:position x="710.7545" y="218.79579"/>
+        <viz:position x="-427.07028" y="-1656.7191"/>
         <viz:color r="125" g="255" b="255"/>
       </node>
       <node id="mennonite_usa" label="Mennonite Church USA">
@@ -278,8 +263,8 @@
           <attvalue for="1" value="50000"/>
         </attvalues>
         <viz:size value="10.00077"/>
-        <viz:position x="837.2037" y="252.51392"/>
-        <viz:color r="106" g="71" b="0"/>
+        <viz:position x="-1162.8484" y="-2314.3467"/>
+        <viz:color r="255" g="112" b="123"/>
       </node>
       <node id="amish" label="Amish">
         <attvalues>
@@ -287,8 +272,8 @@
           <attvalue for="1" value="400000"/>
         </attvalues>
         <viz:size value="10.014231"/>
-        <viz:position x="811.45984" y="3598.6184"/>
-        <viz:color r="106" g="71" b="0"/>
+        <viz:position x="-1334.5062" y="-2421.071"/>
+        <viz:color r="255" g="112" b="123"/>
       </node>
       <node id="assemblies_of_god" label="Assemblies of God">
         <attvalues>
@@ -296,8 +281,8 @@
           <attvalue for="1" value="85000000"/>
         </attvalues>
         <viz:size value="13.268152"/>
-        <viz:position x="609.3849" y="-16954.018"/>
-        <viz:color r="174" g="40" b="255"/>
+        <viz:position x="-1636.4224" y="-203.68535"/>
+        <viz:color r="205" g="125" b="0"/>
       </node>
       <node id="church_of_god" label="Church of God (Cleveland)">
         <attvalues>
@@ -305,8 +290,8 @@
           <attvalue for="1" value="7000000"/>
         </attvalues>
         <viz:size value="10.268084"/>
-        <viz:position x="611.18976" y="-16982.678"/>
-        <viz:color r="174" g="40" b="255"/>
+        <viz:position x="-2125.5142" y="394.02548"/>
+        <viz:color r="205" g="125" b="0"/>
       </node>
       <node id="churches_of_christ" label="Churches of Christ">
         <attvalues>
@@ -314,8 +299,8 @@
           <attvalue for="1" value="3000000"/>
         </attvalues>
         <viz:size value="10.114233"/>
-        <viz:position x="1815.7733" y="3141.201"/>
-        <viz:color r="255" g="112" b="123"/>
+        <viz:position x="-1819.6335" y="-1620.9669"/>
+        <viz:color r="255" g="102" b="11"/>
       </node>
       <node id="disciples_of_christ" label="Christian Church (Disciples of Christ)">
         <attvalues>
@@ -323,8 +308,8 @@
           <attvalue for="1" value="350000"/>
         </attvalues>
         <viz:size value="10.012308"/>
-        <viz:position x="727.10944" y="266.73743"/>
-        <viz:color r="255" g="112" b="123"/>
+        <viz:position x="-797.49133" y="-1810.0913"/>
+        <viz:color r="255" g="102" b="11"/>
       </node>
       <node id="calvary_chapel" label="Calvary Chapel">
         <attvalues>
@@ -332,7 +317,7 @@
           <attvalue for="1" value="2000000"/>
         </attvalues>
         <viz:size value="10.075771"/>
-        <viz:position x="3008.2092" y="1946.6608"/>
+        <viz:position x="-2173.0845" y="985.1245"/>
         <viz:color r="255" g="254" b="252"/>
       </node>
       <node id="vineyard" label="Vineyard Churches">
@@ -341,7 +326,7 @@
           <attvalue for="1" value="240000"/>
         </attvalues>
         <viz:size value="10.008077"/>
-        <viz:position x="3469.2034" y="388.5787"/>
+        <viz:position x="-1545.261" y="859.1169"/>
         <viz:color r="255" g="254" b="252"/>
       </node>
       <node id="seventh_day_adventist" label="Seventh-day Adventist Church">
@@ -350,7 +335,7 @@
           <attvalue for="1" value="22000000"/>
         </attvalues>
         <viz:size value="10.845019"/>
-        <viz:position x="3177.4116" y="-1486.4396"/>
+        <viz:position x="-2545.4688" y="-589.64105"/>
         <viz:color r="29" g="88" b="0"/>
       </node>
       <node id="moravian" label="Moravian Church">
@@ -359,7 +344,7 @@
           <attvalue for="1" value="1000000"/>
         </attvalues>
         <viz:size value="10.037309"/>
-        <viz:position x="537.2729" y="202.56349"/>
+        <viz:position x="-520.0521" y="-475.18918"/>
         <viz:color r="238" g="199" b="255"/>
       </node>
       <node id="eritrea_orthodox" label="Eritrean Orthodox Tewahedo Church">
@@ -368,7 +353,7 @@
           <attvalue for="1" value="3000000"/>
         </attvalues>
         <viz:size value="10.114233"/>
-        <viz:position x="-1066.6968" y="-91.82132"/>
+        <viz:position x="555.2337" y="1731.3701"/>
         <viz:color r="167" g="255" b="66"/>
       </node>
       <node id="lutheran_church_canada" label="Lutheran Church–Canada">
@@ -377,7 +362,7 @@
           <attvalue for="1" value="300000"/>
         </attvalues>
         <viz:size value="10.010385"/>
-        <viz:position x="537.02704" y="-362.58432"/>
+        <viz:position x="454.87347" y="-552.7583"/>
         <viz:color r="7" g="0" b="236"/>
       </node>
       <node id="church_of_nigeria" label="Church of Nigeria (Anglican Communion)">
@@ -386,8 +371,17 @@
           <attvalue for="1" value="25000000"/>
         </attvalues>
         <viz:size value="10.960407"/>
-        <viz:position x="68.605095" y="4.1460943"/>
+        <viz:position x="-28.43977" y="334.7489"/>
         <viz:color r="255" g="112" b="255"/>
+      </node>
+      <node id="crcna" label="Christian Reformed Church in North America">
+        <attvalues>
+          <attvalue for="0" value="Dutch Reformed"/>
+          <attvalue for="1" value="200000"/>
+        </attvalues>
+        <viz:size value="10.006538"/>
+        <viz:position x="1062.3633" y="-1560.2205"/>
+        <viz:color r="174" g="40" b="255"/>
       </node>
       <node id="evangelical_church_germany" label="Evangelical Church in Germany">
         <attvalues>
@@ -395,7 +389,7 @@
           <attvalue for="1" value="19000000"/>
         </attvalues>
         <viz:size value="10.729632"/>
-        <viz:position x="519.2624" y="-126.11456"/>
+        <viz:position x="677.045" y="-778.3653"/>
         <viz:color r="7" g="0" b="236"/>
       </node>
       <node id="church_of_sweden" label="Church of Sweden">
@@ -404,7 +398,7 @@
           <attvalue for="1" value="5500000"/>
         </attvalues>
         <viz:size value="10.210389"/>
-        <viz:position x="342.58987" y="-162.39336"/>
+        <viz:position x="232.0829" y="73.98931"/>
         <viz:color r="7" g="0" b="236"/>
       </node>
       <node id="church_of_norway" label="Church of Norway">
@@ -413,7 +407,7 @@
           <attvalue for="1" value="3500000"/>
         </attvalues>
         <viz:size value="10.133465"/>
-        <viz:position x="435.2676" y="-195.9607"/>
+        <viz:position x="238.58371" y="-179.95152"/>
         <viz:color r="7" g="0" b="236"/>
       </node>
       <node id="evangelical_lutheran_church_tanzania" label="Evangelical Lutheran Church in Tanzania">
@@ -422,7 +416,7 @@
           <attvalue for="1" value="8000000"/>
         </attvalues>
         <viz:size value="10.306545"/>
-        <viz:position x="518.0662" y="-249.406"/>
+        <viz:position x="471.31558" y="-260.67624"/>
         <viz:color r="7" g="0" b="236"/>
       </node>
       <node id="mekane_yesus" label="Ethiopian Evangelical Church Mekane Yesus">
@@ -431,7 +425,7 @@
           <attvalue for="1" value="12000000"/>
         </attvalues>
         <viz:size value="10.460395"/>
-        <viz:position x="484.23483" y="-299.0377"/>
+        <viz:position x="669.1284" y="-391.77713"/>
         <viz:color r="7" g="0" b="236"/>
       </node>
       <node id="malankara_orthodox" label="Malankara Orthodox Syrian Church">
@@ -440,7 +434,7 @@
           <attvalue for="1" value="2500000"/>
         </attvalues>
         <viz:size value="10.095002"/>
-        <viz:position x="-1104.8943" y="-126.96663"/>
+        <viz:position x="300.5727" y="1700.2694"/>
         <viz:color r="167" g="255" b="66"/>
       </node>
       <node id="malankara_jacobite" label="Malankara Jacobite Syrian Orthodox Church">
@@ -449,177 +443,1427 @@
           <attvalue for="1" value="1000000"/>
         </attvalues>
         <viz:size value="10.037309"/>
-        <viz:position x="-1005.7619" y="-43.237106"/>
+        <viz:position x="894.70825" y="1794.6755"/>
         <viz:color r="167" g="255" b="66"/>
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="roman_catholic" target="greek_orthodox" weight="25.0"/>
-      <edge id="1" source="roman_catholic" target="russian_orthodox" weight="25.0"/>
-      <edge id="2" source="roman_catholic" target="serbian_orthodox" weight="25.0"/>
-      <edge id="3" source="roman_catholic" target="romanian_orthodox" weight="25.0"/>
-      <edge id="4" source="roman_catholic" target="coptic_orthodox" weight="25.0"/>
-      <edge id="5" source="roman_catholic" target="armenian_apostolic" weight="25.0"/>
-      <edge id="6" source="roman_catholic" target="syriac_orthodox" weight="25.0"/>
-      <edge id="7" source="roman_catholic" target="ethiopian_orthodox" weight="25.0"/>
-      <edge id="8" source="roman_catholic" target="assyrian_church" weight="25.0"/>
-      <edge id="9" source="roman_catholic" target="church_of_england" weight="25.0"/>
-      <edge id="10" source="roman_catholic" target="episcopal" weight="5.0"/>
-      <edge id="11" source="roman_catholic" target="anglican_canada" weight="5.0"/>
-      <edge id="12" source="roman_catholic" target="elca" weight="5.0"/>
-      <edge id="13" source="roman_catholic" target="umc" weight="5.0"/>
-      <edge id="14" source="roman_catholic" target="mennonite_usa" weight="5.0"/>
-      <edge id="15" source="roman_catholic" target="assemblies_of_god" weight="5.0"/>
-      <edge id="16" source="roman_catholic" target="evangelical_church_germany" weight="5.0"/>
-      <edge id="17" source="roman_catholic" target="church_of_sweden" weight="5.0"/>
-      <edge id="18" source="roman_catholic" target="church_of_norway" weight="5.0"/>
-      <edge id="19" source="roman_catholic" target="malankara_orthodox" weight="25.0"/>
-      <edge id="20" source="roman_catholic" target="malankara_jacobite" weight="25.0"/>
-      <edge id="21" source="greek_orthodox" target="russian_orthodox" weight="100.0"/>
-      <edge id="22" source="greek_orthodox" target="serbian_orthodox" weight="100.0"/>
-      <edge id="23" source="greek_orthodox" target="romanian_orthodox" weight="100.0"/>
-      <edge id="24" source="greek_orthodox" target="coptic_orthodox" weight="25.0"/>
-      <edge id="25" source="greek_orthodox" target="armenian_apostolic" weight="25.0"/>
-      <edge id="26" source="greek_orthodox" target="syriac_orthodox" weight="25.0"/>
-      <edge id="27" source="greek_orthodox" target="ethiopian_orthodox" weight="25.0"/>
-      <edge id="28" source="greek_orthodox" target="assyrian_church" weight="5.0"/>
-      <edge id="29" source="greek_orthodox" target="church_of_england" weight="5.0"/>
-      <edge id="30" source="greek_orthodox" target="episcopal" weight="5.0"/>
-      <edge id="31" source="greek_orthodox" target="anglican_canada" weight="5.0"/>
-      <edge id="32" source="greek_orthodox" target="evangelical_church_germany" weight="5.0"/>
-      <edge id="33" source="greek_orthodox" target="malankara_orthodox" weight="25.0"/>
-      <edge id="34" source="greek_orthodox" target="malankara_jacobite" weight="25.0"/>
-      <edge id="35" source="russian_orthodox" target="serbian_orthodox" weight="100.0"/>
-      <edge id="36" source="russian_orthodox" target="romanian_orthodox" weight="100.0"/>
-      <edge id="37" source="russian_orthodox" target="coptic_orthodox" weight="25.0"/>
-      <edge id="38" source="russian_orthodox" target="armenian_apostolic" weight="25.0"/>
-      <edge id="39" source="russian_orthodox" target="syriac_orthodox" weight="25.0"/>
-      <edge id="40" source="russian_orthodox" target="ethiopian_orthodox" weight="25.0"/>
-      <edge id="41" source="russian_orthodox" target="assyrian_church" weight="5.0"/>
-      <edge id="42" source="russian_orthodox" target="church_of_england" weight="5.0"/>
-      <edge id="43" source="russian_orthodox" target="episcopal" weight="5.0"/>
-      <edge id="44" source="russian_orthodox" target="anglican_canada" weight="5.0"/>
-      <edge id="45" source="russian_orthodox" target="malankara_jacobite" weight="25.0"/>
-      <edge id="46" source="serbian_orthodox" target="romanian_orthodox" weight="100.0"/>
-      <edge id="47" source="serbian_orthodox" target="coptic_orthodox" weight="25.0"/>
-      <edge id="48" source="serbian_orthodox" target="armenian_apostolic" weight="25.0"/>
-      <edge id="49" source="serbian_orthodox" target="syriac_orthodox" weight="25.0"/>
-      <edge id="50" source="serbian_orthodox" target="ethiopian_orthodox" weight="25.0"/>
-      <edge id="51" source="serbian_orthodox" target="assyrian_church" weight="5.0"/>
-      <edge id="52" source="serbian_orthodox" target="malankara_jacobite" weight="25.0"/>
-      <edge id="53" source="romanian_orthodox" target="coptic_orthodox" weight="25.0"/>
-      <edge id="54" source="romanian_orthodox" target="armenian_apostolic" weight="25.0"/>
-      <edge id="55" source="romanian_orthodox" target="syriac_orthodox" weight="25.0"/>
-      <edge id="56" source="romanian_orthodox" target="ethiopian_orthodox" weight="25.0"/>
-      <edge id="57" source="romanian_orthodox" target="assyrian_church" weight="5.0"/>
-      <edge id="58" source="romanian_orthodox" target="malankara_jacobite" weight="25.0"/>
-      <edge id="59" source="coptic_orthodox" target="armenian_apostolic" weight="100.0"/>
-      <edge id="60" source="coptic_orthodox" target="syriac_orthodox" weight="100.0"/>
-      <edge id="61" source="coptic_orthodox" target="ethiopian_orthodox" weight="100.0"/>
-      <edge id="62" source="coptic_orthodox" target="assyrian_church" weight="25.0"/>
-      <edge id="63" source="coptic_orthodox" target="church_of_england" weight="5.0"/>
-      <edge id="64" source="coptic_orthodox" target="episcopal" weight="5.0"/>
-      <edge id="65" source="coptic_orthodox" target="anglican_canada" weight="5.0"/>
-      <edge id="66" source="coptic_orthodox" target="eritrea_orthodox" weight="100.0"/>
-      <edge id="67" source="coptic_orthodox" target="church_of_sweden" weight="5.0"/>
-      <edge id="68" source="coptic_orthodox" target="malankara_orthodox" weight="100.0"/>
-      <edge id="69" source="coptic_orthodox" target="malankara_jacobite" weight="100.0"/>
-      <edge id="70" source="armenian_apostolic" target="syriac_orthodox" weight="100.0"/>
-      <edge id="71" source="armenian_apostolic" target="ethiopian_orthodox" weight="100.0"/>
-      <edge id="72" source="armenian_apostolic" target="eritrea_orthodox" weight="100.0"/>
-      <edge id="73" source="armenian_apostolic" target="assyrian_church" weight="25.0"/>
-      <edge id="74" source="armenian_apostolic" target="church_of_england" weight="5.0"/>
-      <edge id="75" source="armenian_apostolic" target="episcopal" weight="5.0"/>
-      <edge id="76" source="armenian_apostolic" target="anglican_canada" weight="5.0"/>
-      <edge id="77" source="armenian_apostolic" target="malankara_orthodox" weight="100.0"/>
-      <edge id="78" source="armenian_apostolic" target="malankara_jacobite" weight="100.0"/>
-      <edge id="79" source="syriac_orthodox" target="ethiopian_orthodox" weight="100.0"/>
-      <edge id="80" source="syriac_orthodox" target="eritrea_orthodox" weight="100.0"/>
-      <edge id="81" source="syriac_orthodox" target="assyrian_church" weight="25.0"/>
-      <edge id="82" source="syriac_orthodox" target="church_of_england" weight="5.0"/>
-      <edge id="83" source="syriac_orthodox" target="episcopal" weight="5.0"/>
-      <edge id="84" source="syriac_orthodox" target="anglican_canada" weight="5.0"/>
-      <edge id="85" source="syriac_orthodox" target="church_of_sweden" weight="5.0"/>
-      <edge id="86" source="syriac_orthodox" target="malankara_orthodox" weight="100.0"/>
-      <edge id="87" source="syriac_orthodox" target="malankara_jacobite" weight="100.0"/>
-      <edge id="88" source="ethiopian_orthodox" target="eritrea_orthodox" weight="100.0"/>
-      <edge id="89" source="ethiopian_orthodox" target="assyrian_church" weight="25.0"/>
-      <edge id="90" source="ethiopian_orthodox" target="malankara_orthodox" weight="100.0"/>
-      <edge id="91" source="ethiopian_orthodox" target="malankara_jacobite" weight="100.0"/>
-      <edge id="92" source="church_of_england" target="elca" weight="25.0"/>
-      <edge id="93" source="church_of_england" target="episcopal" weight="100.0"/>
-      <edge id="94" source="church_of_england" target="anglican_canada" weight="100.0"/>
-      <edge id="95" source="church_of_england" target="church_of_nigeria" weight="100.0"/>
-      <edge id="96" source="church_of_england" target="evangelical_church_germany" weight="100.0"/>
-      <edge id="97" source="church_of_england" target="church_of_sweden" weight="100.0"/>
-      <edge id="98" source="church_of_england" target="church_of_norway" weight="100.0"/>
-      <edge id="99" source="episcopal" target="elca" weight="100.0"/>
-      <edge id="100" source="episcopal" target="umc" weight="100.0"/>
-      <edge id="101" source="episcopal" target="anglican_canada" weight="100.0"/>
-      <edge id="102" source="episcopal" target="abcusa" weight="25.0"/>
-      <edge id="103" source="episcopal" target="pcusa" weight="25.0"/>
-      <edge id="104" source="episcopal" target="ucc" weight="25.0"/>
-      <edge id="105" source="episcopal" target="disciples_of_christ" weight="25.0"/>
-      <edge id="106" source="episcopal" target="moravian" weight="100.0"/>
-      <edge id="107" source="episcopal" target="church_of_nigeria" weight="100.0"/>
-      <edge id="108" source="episcopal" target="church_of_sweden" weight="100.0"/>
-      <edge id="109" source="episcopal" target="church_of_norway" weight="100.0"/>
-      <edge id="110" source="anglican_canada" target="elca" weight="25.0"/>
-      <edge id="111" source="anglican_canada" target="umc" weight="25.0"/>
-      <edge id="112" source="anglican_canada" target="church_of_nigeria" weight="100.0"/>
-      <edge id="113" source="anglican_canada" target="church_of_sweden" weight="25.0"/>
-      <edge id="114" source="elca" target="umc" weight="100.0"/>
-      <edge id="115" source="elca" target="pcusa" weight="100.0"/>
-      <edge id="116" source="elca" target="rca" weight="100.0"/>
-      <edge id="117" source="elca" target="moravian" weight="100.0"/>
-      <edge id="118" source="elca" target="abcusa" weight="25.0"/>
-      <edge id="119" source="elca" target="crcna" weight="25.0"/>
-      <edge id="120" source="elca" target="ucc" weight="100.0"/>
-      <edge id="121" source="elca" target="mennonite_usa" weight="25.0"/>
-      <edge id="122" source="elca" target="disciples_of_christ" weight="25.0"/>
-      <edge id="123" source="elca" target="evangelical_church_germany" weight="100.0"/>
-      <edge id="124" source="elca" target="church_of_sweden" weight="100.0"/>
-      <edge id="125" source="elca" target="church_of_norway" weight="100.0"/>
-      <edge id="126" source="elca" target="evangelical_lutheran_church_tanzania" weight="100.0"/>
-      <edge id="127" source="elca" target="mekane_yesus" weight="25.0"/>
-      <edge id="128" source="lcms" target="lutheran_church_canada" weight="100.0"/>
-      <edge id="129" source="lcms" target="evangelical_lutheran_church_tanzania" weight="25.0"/>
-      <edge id="130" source="lcms" target="mekane_yesus" weight="25.0"/>
-      <edge id="131" source="wels" target="evangelical_lutheran_church_tanzania" weight="25.0"/>
-      <edge id="132" source="wels" target="mekane_yesus" weight="25.0"/>
-      <edge id="133" source="umc" target="moravian" weight="100.0"/>
-      <edge id="134" source="umc" target="pcusa" weight="25.0"/>
-      <edge id="135" source="umc" target="abcusa" weight="25.0"/>
-      <edge id="136" source="umc" target="rca" weight="25.0"/>
-      <edge id="137" source="umc" target="church_of_sweden" weight="25.0"/>
-      <edge id="138" source="umc" target="church_of_norway" weight="25.0"/>
-      <edge id="139" source="global_methodist" target="wesleyan" weight="25.0"/>
-      <edge id="140" source="abcusa" target="pcusa" weight="25.0"/>
-      <edge id="141" source="crcna" target="rca" weight="100.0"/>
-      <edge id="142" source="crcna" target="pcusa" weight="25.0"/>
-      <edge id="143" source="crcna" target="evangelical_church_germany" weight="25.0"/>
-      <edge id="144" source="rca" target="pcusa" weight="100.0"/>
-      <edge id="145" source="rca" target="ucc" weight="100.0"/>
-      <edge id="146" source="rca" target="evangelical_church_germany" weight="25.0"/>
-      <edge id="147" source="pcusa" target="ucc" weight="100.0"/>
-      <edge id="148" source="pcusa" target="disciples_of_christ" weight="25.0"/>
-      <edge id="149" source="pcusa" target="evangelical_church_germany" weight="25.0"/>
-      <edge id="150" source="pca" target="opc" weight="25.0"/>
-      <edge id="151" source="ucc" target="moravian" weight="100.0"/>
-      <edge id="152" source="ucc" target="mennonite_usa" weight="25.0"/>
-      <edge id="153" source="ucc" target="disciples_of_christ" weight="100.0"/>
-      <edge id="154" source="assemblies_of_god" target="church_of_god" weight="25.0"/>
-      <edge id="155" source="eritrea_orthodox" target="malankara_orthodox" weight="100.0"/>
-      <edge id="156" source="eritrea_orthodox" target="malankara_jacobite" weight="100.0"/>
-      <edge id="157" source="evangelical_church_germany" target="church_of_sweden" weight="100.0"/>
-      <edge id="158" source="evangelical_church_germany" target="church_of_norway" weight="100.0"/>
-      <edge id="159" source="evangelical_church_germany" target="evangelical_lutheran_church_tanzania" weight="100.0"/>
-      <edge id="160" source="evangelical_church_germany" target="mekane_yesus" weight="100.0"/>
-      <edge id="161" source="church_of_sweden" target="church_of_norway" weight="100.0"/>
-      <edge id="162" source="church_of_sweden" target="evangelical_lutheran_church_tanzania" weight="100.0"/>
-      <edge id="163" source="church_of_sweden" target="mekane_yesus" weight="100.0"/>
-      <edge id="164" source="church_of_norway" target="evangelical_lutheran_church_tanzania" weight="100.0"/>
-      <edge id="165" source="church_of_norway" target="mekane_yesus" weight="100.0"/>
+      <edge id="0" source="roman_catholic" target="greek_orthodox" weight="0.22793178260326385">
+        <viz:color r="168" g="220" b="206"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="1" source="roman_catholic" target="russian_orthodox" weight="0.2286532074213028">
+        <viz:color r="168" g="220" b="206"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="2" source="roman_catholic" target="serbian_orthodox" weight="0.2279151976108551">
+        <viz:color r="168" g="220" b="206"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="3" source="roman_catholic" target="romanian_orthodox" weight="0.22798140347003937">
+        <viz:color r="168" g="220" b="206"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="4" source="roman_catholic" target="coptic_orthodox" weight="0.22797314822673798">
+        <viz:color r="168" g="220" b="206"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="5" source="roman_catholic" target="armenian_apostolic" weight="0.22792349755764008">
+        <viz:color r="168" g="220" b="206"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="6" source="roman_catholic" target="syriac_orthodox" weight="0.22788193821907043">
+        <viz:color r="168" g="220" b="206"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="7" source="roman_catholic" target="ethiopian_orthodox" weight="0.22825834155082703">
+        <viz:color r="168" g="220" b="206"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="8" source="roman_catholic" target="assyrian_church" weight="0.22785192728042603">
+        <viz:color r="168" g="220" b="206"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="9" source="roman_catholic" target="church_of_england" weight="0.22805540263652802">
+        <viz:color r="168" g="220" b="206"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="10" source="roman_catholic" target="episcopal" weight="0.04557272046804428">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="11" source="roman_catholic" target="anglican_canada" weight="0.045570552349090576">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="12" source="roman_catholic" target="elca" weight="0.04557438939809799">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="13" source="roman_catholic" target="umc" weight="0.045584697276353836">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="14" source="roman_catholic" target="mennonite_usa" weight="0.04556979984045029">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="15" source="roman_catholic" target="assemblies_of_god" weight="0.04570724815130234">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="16" source="roman_catholic" target="church_of_god" weight="0.045581378042697906">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="17" source="roman_catholic" target="sbc" weight="0.0455913245677948">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="18" source="roman_catholic" target="evangelical_church_germany" weight="0.04560122266411781">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="19" source="roman_catholic" target="church_of_sweden" weight="0.045578885823488235">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="20" source="roman_catholic" target="church_of_norway" weight="0.04557555541396141">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="21" source="roman_catholic" target="malankara_orthodox" weight="0.2278694361448288">
+        <viz:color r="168" g="220" b="206"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="22" source="roman_catholic" target="malankara_jacobite" weight="0.22785693407058716">
+        <viz:color r="168" g="220" b="206"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="23" source="roman_catholic" target="seventh_day_adventist" weight="0.045606158673763275">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="24" source="roman_catholic" target="vineyard" weight="0.045570116490125656">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="25" source="roman_catholic" target="calvary_chapel" weight="0.04557305574417114">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="26" source="non_denom" target="sbc" weight="0.03862138092517853">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="27" source="non_denom" target="abcusa" weight="0.03807448595762253">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="28" source="non_denom" target="umc" weight="0.03845097869634628">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="29" source="non_denom" target="elca" weight="0.03815721720457077">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="30" source="non_denom" target="pcusa" weight="0.038085002452135086">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="31" source="non_denom" target="assemblies_of_god" weight="0.04048455134034157">
+        <viz:color r="233" g="246" b="248"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="32" source="greek_orthodox" target="russian_orthodox" weight="0.804139256477356">
+        <viz:color r="0" g="109" b="44"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="33" source="greek_orthodox" target="serbian_orthodox" weight="0.7255272269248962">
+        <viz:color r="21" g="126" b="69"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="34" source="greek_orthodox" target="romanian_orthodox" weight="0.7414973378181458">
+        <viz:color r="17" g="123" b="64"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="35" source="greek_orthodox" target="coptic_orthodox" weight="0.18494850397109985">
+        <viz:color r="183" g="226" b="216"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="36" source="greek_orthodox" target="armenian_apostolic" weight="0.1819688379764557">
+        <viz:color r="184" g="227" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="37" source="greek_orthodox" target="syriac_orthodox" weight="0.17865319550037384">
+        <viz:color r="185" g="227" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="38" source="greek_orthodox" target="ethiopian_orthodox" weight="0.19445377588272095">
+        <viz:color r="180" g="225" b="214"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="39" source="greek_orthodox" target="assyrian_church" weight="0.03508516773581505">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="40" source="greek_orthodox" target="church_of_england" weight="0.037720341235399246">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="41" source="greek_orthodox" target="episcopal" weight="0.03535940870642662">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="42" source="greek_orthodox" target="anglican_canada" weight="0.03510594740509987">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="43" source="greek_orthodox" target="assemblies_of_god" weight="0.039888616651296616">
+        <viz:color r="234" g="246" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="44" source="greek_orthodox" target="sbc" weight="0.03680863976478577">
+        <viz:color r="235" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="45" source="greek_orthodox" target="evangelical_church_germany" weight="0.037311989814043045">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="46" source="greek_orthodox" target="malankara_orthodox" weight="0.17742274701595306">
+        <viz:color r="186" g="227" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="47" source="greek_orthodox" target="malankara_jacobite" weight="0.1760348230600357">
+        <viz:color r="186" g="227" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="48" source="russian_orthodox" target="serbian_orthodox" weight="0.8033424019813538">
+        <viz:color r="0" g="109" b="44"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="49" source="russian_orthodox" target="romanian_orthodox" weight="0.8064457774162292">
+        <viz:color r="0" g="109" b="44"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="50" source="russian_orthodox" target="coptic_orthodox" weight="0.20151744782924652">
+        <viz:color r="177" g="224" b="212"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="51" source="russian_orthodox" target="armenian_apostolic" weight="0.20093566179275513">
+        <viz:color r="177" g="224" b="212"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="52" source="russian_orthodox" target="syriac_orthodox" weight="0.20042583346366882">
+        <viz:color r="178" g="224" b="213"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="53" source="russian_orthodox" target="ethiopian_orthodox" weight="0.20440228283405304">
+        <viz:color r="176" g="223" b="212"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="54" source="russian_orthodox" target="assyrian_church" weight="0.04000866785645485">
+        <viz:color r="234" g="246" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="55" source="russian_orthodox" target="church_of_england" weight="0.04048455134034157">
+        <viz:color r="233" g="246" b="248"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="56" source="russian_orthodox" target="episcopal" weight="0.040038738399744034">
+        <viz:color r="234" g="246" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="57" source="russian_orthodox" target="anglican_canada" weight="0.04001082852482796">
+        <viz:color r="234" g="246" b="249" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="58" source="russian_orthodox" target="malankara_jacobite" weight="0.20010803639888763">
+        <viz:color r="178" g="224" b="213" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="59" source="serbian_orthodox" target="romanian_orthodox" weight="0.7380211353302002">
+        <viz:color r="18" g="124" b="65"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="60" source="serbian_orthodox" target="coptic_orthodox" weight="0.18404319882392883">
+        <viz:color r="183" g="226" b="216"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="61" source="serbian_orthodox" target="armenian_apostolic" weight="0.1807612180709839">
+        <viz:color r="185" g="227" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="62" source="serbian_orthodox" target="syriac_orthodox" weight="0.17697952687740326">
+        <viz:color r="186" g="227" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="63" source="serbian_orthodox" target="ethiopian_orthodox" weight="0.19408570230007172">
+        <viz:color r="180" g="225" b="214"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="64" source="serbian_orthodox" target="assyrian_church" weight="0.03462139517068863">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="65" source="serbian_orthodox" target="malankara_jacobite" weight="0.17385606467723846">
+        <viz:color r="187" g="228" b="219"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="66" source="romanian_orthodox" target="coptic_orthodox" weight="0.18728403747081757">
+        <viz:color r="182" g="226" b="216"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="67" source="romanian_orthodox" target="armenian_apostolic" weight="0.18494850397109985">
+        <viz:color r="183" g="226" b="216"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="68" source="romanian_orthodox" target="syriac_orthodox" weight="0.18252575397491455">
+        <viz:color r="184" g="226" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="69" source="romanian_orthodox" target="ethiopian_orthodox" weight="0.1954886019229889">
+        <viz:color r="179" g="225" b="214"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="70" source="romanian_orthodox" target="assyrian_church" weight="0.03607422113418579">
+        <viz:color r="235" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="71" source="romanian_orthodox" target="malankara_jacobite" weight="0.1807612180709839">
+        <viz:color r="185" g="227" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="72" source="coptic_orthodox" target="armenian_apostolic" weight="0.7380211353302002">
+        <viz:color r="18" g="124" b="65"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="73" source="coptic_orthodox" target="syriac_orthodox" weight="0.7278753519058228">
+        <viz:color r="20" g="126" b="68"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="74" source="coptic_orthodox" target="ethiopian_orthodox" weight="0.7812913656234741">
+        <viz:color r="6" g="114" b="51"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="75" source="coptic_orthodox" target="assyrian_church" weight="0.17968802154064178">
+        <viz:color r="185" g="227" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="76" source="coptic_orthodox" target="church_of_england" weight="0.03801029920578003">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="77" source="coptic_orthodox" target="episcopal" weight="0.03612654656171799">
+        <viz:color r="235" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="78" source="coptic_orthodox" target="anglican_canada" weight="0.035951659083366394">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="79" source="coptic_orthodox" target="eritrea_orthodox" weight="0.7255272269248962">
+        <viz:color r="21" g="126" b="69"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="80" source="coptic_orthodox" target="church_of_sweden" weight="0.03655876964330673">
+        <viz:color r="235" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="81" source="coptic_orthodox" target="malankara_orthodox" weight="0.7243037819862366">
+        <viz:color r="21" g="127" b="69"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="82" source="coptic_orthodox" target="malankara_jacobite" weight="0.720412015914917">
+        <viz:color r="22" g="127" b="70"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="83" source="armenian_apostolic" target="syriac_orthodox" weight="0.7113943099975586">
+        <viz:color r="25" g="129" b="73"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="84" source="armenian_apostolic" target="ethiopian_orthodox" weight="0.7770851850509644">
+        <viz:color r="7" g="115" b="53"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="85" source="armenian_apostolic" target="eritrea_orthodox" weight="0.707918107509613">
+        <viz:color r="25" g="130" b="74"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="86" source="armenian_apostolic" target="assyrian_church" weight="0.17432819306850433">
+        <viz:color r="187" g="228" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="87" source="armenian_apostolic" target="church_of_england" weight="0.037657395005226135">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="88" source="armenian_apostolic" target="episcopal" weight="0.03516712039709091">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="89" source="armenian_apostolic" target="anglican_canada" weight="0.0348886176943779">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="90" source="armenian_apostolic" target="malankara_orthodox" weight="0.7060697674751282">
+        <viz:color r="26" g="131" b="75"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="91" source="armenian_apostolic" target="malankara_jacobite" weight="0.699999988079071">
+        <viz:color r="28" g="132" b="76"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="92" source="syriac_orthodox" target="ethiopian_orthodox" weight="0.7732393741607666">
+        <viz:color r="8" g="116" b="54"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="93" source="syriac_orthodox" target="eritrea_orthodox" weight="0.684509813785553">
+        <viz:color r="32" g="135" b="81"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="94" source="syriac_orthodox" target="assyrian_church" weight="0.1660863161087036">
+        <viz:color r="190" g="229" b="220"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="95" source="syriac_orthodox" target="church_of_england" weight="0.037311989814043045">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="96" source="syriac_orthodox" target="episcopal" weight="0.03381713852286339">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="97" source="syriac_orthodox" target="anglican_canada" weight="0.033266063779592514">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="98" source="syriac_orthodox" target="church_of_sweden" weight="0.0348886176943779">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="99" source="syriac_orthodox" target="malankara_orthodox" weight="0.6812913417816162">
+        <viz:color r="32" g="136" b="82"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="100" source="syriac_orthodox" target="malankara_jacobite" weight="0.6698970198631287">
+        <viz:color r="35" g="138" b="86"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="101" source="ethiopian_orthodox" target="eritrea_orthodox" weight="0.7724275588989258">
+        <viz:color r="8" g="116" b="54"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="102" source="ethiopian_orthodox" target="assyrian_church" weight="0.19256076216697693">
+        <viz:color r="180" g="225" b="214"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="103" source="ethiopian_orthodox" target="malankara_orthodox" weight="0.7720159292221069">
+        <viz:color r="9" g="116" b="54"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="104" source="ethiopian_orthodox" target="malankara_jacobite" weight="0.7707570195198059">
+        <viz:color r="9" g="116" b="55"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="105" source="church_of_england" target="elca" weight="0.18610112369060516">
+        <viz:color r="183" g="226" b="216"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="106" source="church_of_england" target="episcopal" weight="0.7428134679794312">
+        <viz:color r="16" g="122" b="63"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="107" source="church_of_england" target="anglican_canada" weight="0.7406539916992188">
+        <viz:color r="17" g="123" b="64"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="108" source="church_of_england" target="assemblies_of_god" weight="0.201034814119339">
+        <viz:color r="177" g="224" b="212"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="109" source="church_of_england" target="church_of_nigeria" weight="0.7698969841003418">
+        <viz:color r="9" g="117" b="55"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="110" source="church_of_england" target="evangelical_church_germany" weight="0.7643452882766724">
+        <viz:color r="11" g="118" b="57"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="111" source="church_of_england" target="church_of_sweden" weight="0.7484300136566162">
+        <viz:color r="15" g="121" b="61"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="112" source="church_of_england" target="church_of_norway" weight="0.745484471321106">
+        <viz:color r="16" g="122" b="62"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="113" source="church_of_england" target="vineyard" weight="0.037010446190834045">
+        <viz:color r="235" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="114" source="church_of_england" target="calvary_chapel" weight="0.03715682029724121">
+        <viz:color r="235" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="115" source="episcopal" target="elca" weight="0.16656894981861115">
+        <viz:color r="189" g="229" b="220"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="116" source="episcopal" target="umc" weight="0.17583559453487396">
+        <viz:color r="186" g="227" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="117" source="episcopal" target="anglican_canada" weight="0.6361728310585022">
+        <viz:color r="44" g="146" b="96"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="118" source="episcopal" target="abcusa" weight="0.16192802786827087">
+        <viz:color r="191" g="229" b="221"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="119" source="episcopal" target="pcusa" weight="0.16262875497341156">
+        <viz:color r="191" g="229" b="221"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="120" source="episcopal" target="ucc" weight="0.15994849801063538">
+        <viz:color r="192" g="230" b="222"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="121" source="episcopal" target="assemblies_of_god" weight="0.19846299290657043">
+        <viz:color r="178" g="224" b="213"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="122" source="episcopal" target="disciples_of_christ" weight="0.15831096470355988">
+        <viz:color r="192" g="230" b="222"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="123" source="episcopal" target="moravian" weight="0.6447158455848694">
+        <viz:color r="42" g="144" b="94"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="124" source="episcopal" target="church_of_nigeria" weight="0.7428134679794312">
+        <viz:color r="16" g="122" b="63"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="125" source="episcopal" target="church_of_sweden" weight="0.6863322854042053">
+        <viz:color r="31" g="135" b="81"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="126" source="episcopal" target="church_of_norway" weight="0.6724275946617126">
+        <viz:color r="35" g="138" b="85"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="127" source="episcopal" target="vineyard" weight="0.0315481536090374">
+        <viz:color r="237" g="248" b="251"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="128" source="episcopal" target="calvary_chapel" weight="0.0328989177942276">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="129" source="anglican_canada" target="elca" weight="0.16296285390853882">
+        <viz:color r="191" g="229" b="221"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="130" source="anglican_canada" target="umc" weight="0.1744430959224701">
+        <viz:color r="187" g="228" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="131" source="anglican_canada" target="church_of_nigeria" weight="0.7406539916992188">
+        <viz:color r="17" g="123" b="64"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="132" source="anglican_canada" target="church_of_sweden" weight="0.16945378482341766">
+        <viz:color r="188" g="228" b="220"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="133" source="elca" target="umc" weight="0.7071881890296936">
+        <viz:color r="26" g="130" b="74"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="134" source="elca" target="pcusa" weight="0.6623249650001526">
+        <viz:color r="37" g="140" b="88"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="135" source="elca" target="rca" weight="0.647421658039093">
+        <viz:color r="41" g="143" b="93"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="136" source="elca" target="moravian" weight="0.657978355884552">
+        <viz:color r="39" g="141" b="89"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="137" source="elca" target="abcusa" weight="0.16505150496959686">
+        <viz:color r="190" g="229" b="221"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="138" source="elca" target="crcna" weight="0.16192802786827087">
+        <viz:color r="191" g="229" b="221"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="139" source="elca" target="ucc" weight="0.6544068455696106">
+        <viz:color r="40" g="142" b="91"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="140" source="elca" target="mennonite_usa" weight="0.1613711267709732">
+        <viz:color r="191" g="229" b="221"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="141" source="elca" target="assemblies_of_god" weight="0.1985873579978943">
+        <viz:color r="178" g="224" b="213" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="142" source="elca" target="church_of_god" weight="0.17478065192699432">
+        <viz:color r="187" g="228" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="143" source="elca" target="sbc" weight="0.17996643483638763">
+        <viz:color r="185" g="227" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="144" source="elca" target="disciples_of_christ" weight="0.16245776414871216">
+        <viz:color r="191" g="229" b="221"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="145" source="elca" target="evangelical_church_germany" weight="0.7338456511497498">
+        <viz:color r="19" g="124" b="66"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="146" source="elca" target="church_of_sweden" weight="0.6919078230857849">
+        <viz:color r="30" g="134" b="79"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="147" source="elca" target="church_of_norway" weight="0.6799340844154358">
+        <viz:color r="33" g="136" b="83"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="148" source="elca" target="evangelical_lutheran_church_tanzania" weight="0.7033423781394958">
+        <viz:color r="27" g="131" b="75"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="149" source="elca" target="mekane_yesus" weight="0.17925654351711273">
+        <viz:color r="185" g="227" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="150" source="elca" target="seventh_day_adventist" weight="0.03697225823998451">
+        <viz:color r="235" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="151" source="elca" target="churches_of_christ" weight="0.03381713852286339">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="152" source="lcms" target="lutheran_church_canada" weight="0.6322219371795654">
+        <viz:color r="45" g="147" b="97"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="153" source="lcms" target="evangelical_lutheran_church_tanzania" weight="0.17478065192699432">
+        <viz:color r="187" g="228" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="154" source="lcms" target="mekane_yesus" weight="0.17849697172641754">
+        <viz:color r="185" g="227" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="155" source="wels" target="evangelical_lutheran_church_tanzania" weight="0.1730421632528305">
+        <viz:color r="187" g="228" b="219" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="156" source="wels" target="mekane_yesus" weight="0.17729167640209198">
+        <viz:color r="186" g="227" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="157" source="umc" target="moravian" weight="0.699999988079071">
+        <viz:color r="28" g="132" b="76"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="158" source="umc" target="pcusa" weight="0.17542582750320435">
+        <viz:color r="186" g="227" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="159" source="umc" target="global_methodist" weight="0.17397603392601013">
+        <viz:color r="187" g="228" b="219"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="160" source="umc" target="wesleyan" weight="0.17455677688121796">
+        <viz:color r="187" g="228" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="161" source="umc" target="abcusa" weight="0.1752150058746338">
+        <viz:color r="186" g="227" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="162" source="umc" target="rca" weight="0.1740710735321045">
+        <viz:color r="187" g="228" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="163" source="umc" target="assemblies_of_god" weight="0.1993281990289688">
+        <viz:color r="178" g="224" b="213"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="164" source="umc" target="church_of_god" weight="0.18010300397872925">
+        <viz:color r="185" g="227" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="165" source="umc" target="sbc" weight="0.1835605651140213">
+        <viz:color r="184" g="226" b="216"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="166" source="umc" target="church_of_sweden" weight="0.17903420329093933">
+        <viz:color r="185" g="227" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="167" source="umc" target="church_of_norway" weight="0.17742274701595306">
+        <viz:color r="186" g="227" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="168" source="umc" target="seventh_day_adventist" weight="0.037456806749105453">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="169" source="umc" target="vineyard" weight="0.03482836112380028">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="170" source="umc" target="calvary_chapel" weight="0.03520696237683296">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="171" source="umc" target="churches_of_christ" weight="0.03539590537548065">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="172" source="global_methodist" target="wesleyan" weight="0.14612746238708496">
+        <viz:color r="197" g="232" b="225"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="173" source="wesleyan" target="sbc" weight="0.17833846807479858">
+        <viz:color r="185" g="227" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="174" source="wesleyan" target="abcusa" weight="0.15638181567192078">
+        <viz:color r="193" g="230" b="222"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="175" source="wesleyan" target="assemblies_of_god" weight="0.19831185042858124">
+        <viz:color r="178" g="224" b="213"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="176" source="sbc" target="assemblies_of_god" weight="0.1997806578874588">
+        <viz:color r="178" g="224" b="213"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="177" source="sbc" target="church_of_god" weight="0.18252575397491455">
+        <viz:color r="184" g="226" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="178" source="sbc" target="pcusa" weight="0.17895905673503876">
+        <viz:color r="185" g="227" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="179" source="sbc" target="abcusa" weight="0.17880721390247345">
+        <viz:color r="185" g="227" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="180" source="sbc" target="disciples_of_christ" weight="0.17813703417778015">
+        <viz:color r="185" g="227" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="181" source="sbc" target="churches_of_christ" weight="0.18010300397872925">
+        <viz:color r="185" g="227" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="182" source="sbc" target="mennonite_usa" weight="0.17789027094841003">
+        <viz:color r="186" g="227" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="183" source="sbc" target="seventh_day_adventist" weight="0.037720341235399246">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="184" source="sbc" target="vineyard" weight="0.17804719507694244">
+        <viz:color r="185" g="227" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="185" source="sbc" target="calvary_chapel" weight="0.17940227687358856">
+        <viz:color r="185" g="227" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="186" source="sbc" target="opc" weight="0.1778736114501953">
+        <viz:color r="186" g="227" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="187" source="sbc" target="pca" weight="0.1781776249408722">
+        <viz:color r="185" g="227" b="218"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="188" source="abcusa" target="pcusa" weight="0.16037434339523315">
+        <viz:color r="192" g="230" b="222"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="189" source="abcusa" target="assemblies_of_god" weight="0.19838768243789673">
+        <viz:color r="178" g="224" b="213"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="190" source="abcusa" target="churches_of_christ" weight="0.03311624750494957">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="191" source="rca" target="crcna" weight="0.5579784512519836">
+        <viz:color r="65" g="163" b="120"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="192" source="rca" target="pcusa" weight="0.6198657155036926">
+        <viz:color r="49" g="149" b="101"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="193" source="rca" target="ucc" weight="0.5944483280181885">
+        <viz:color r="55" g="155" b="109"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="194" source="rca" target="evangelical_church_germany" weight="0.18207120895385742">
+        <viz:color r="184" g="227" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="195" source="rca" target="opc" weight="0.13305553793907166">
+        <viz:color r="201" g="233" b="228"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="196" source="rca" target="pca" weight="0.14408572018146515">
+        <viz:color r="197" g="232" b="225"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="197" source="pcusa" target="crcna" weight="0.15510301291942596">
+        <viz:color r="193" g="230" b="223"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="198" source="pcusa" target="ucc" weight="0.6322219371795654">
+        <viz:color r="45" g="147" b="97"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="199" source="pcusa" target="assemblies_of_god" weight="0.19841285049915314">
+        <viz:color r="178" g="224" b="213"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="200" source="pcusa" target="church_of_god" weight="0.17310698330402374">
+        <viz:color r="187" g="228" b="219"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="201" source="pcusa" target="disciples_of_christ" weight="0.15607595443725586">
+        <viz:color r="193" g="230" b="223"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="202" source="pcusa" target="evangelical_church_germany" weight="0.18274074792861938">
+        <viz:color r="184" g="226" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="203" source="pcusa" target="seventh_day_adventist" weight="0.18423040211200714">
+        <viz:color r="183" g="226" b="216"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="204" source="pcusa" target="churches_of_christ" weight="0.03321726247668266">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="205" source="pcusa" target="opc" weight="0.1538834124803543">
+        <viz:color r="194" g="230" b="223"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="206" source="pcusa" target="pca" weight="0.15638181567192078">
+        <viz:color r="193" g="230" b="222"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="207" source="pca" target="opc" weight="0.14083673059940338">
+        <viz:color r="198" g="232" b="226"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="208" source="pca" target="crcna" weight="0.14445379376411438">
+        <viz:color r="197" g="232" b="225"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="209" source="opc" target="crcna" weight="0.13404324650764465">
+        <viz:color r="201" g="233" b="227"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="210" source="ucc" target="moravian" weight="0.6230449080467224">
+        <viz:color r="48" g="149" b="100"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="211" source="ucc" target="mennonite_usa" weight="0.14687654376029968">
+        <viz:color r="196" g="231" b="225"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="212" source="ucc" target="disciples_of_christ" weight="0.602118968963623">
+        <viz:color r="53" g="153" b="107"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="213" source="mennonite_usa" target="amish" weight="0.14133033156394958">
+        <viz:color r="198" g="232" b="226" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="214" source="assemblies_of_god" target="church_of_god" weight="0.19909469783306122">
+        <viz:color r="178" g="224" b="213"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="215" source="assemblies_of_god" target="seventh_day_adventist" weight="0.04014691710472107">
+        <viz:color r="234" g="246" b="249" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="216" source="assemblies_of_god" target="vineyard" weight="0.19826608896255493">
+        <viz:color r="178" g="224" b="213"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="217" source="assemblies_of_god" target="calvary_chapel" weight="0.19848798215389252">
+        <viz:color r="178" g="224" b="213"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="218" source="assemblies_of_god" target="churches_of_christ" weight="0.03972241282463074">
+        <viz:color r="234" g="246" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="219" source="church_of_god" target="seventh_day_adventist" weight="0.037311989814043045">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="220" source="church_of_god" target="vineyard" weight="0.17149347066879272">
+        <viz:color r="188" g="228" b="219"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="221" source="church_of_god" target="calvary_chapel" weight="0.17385606467723846">
+        <viz:color r="187" g="228" b="219"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="222" source="church_of_god" target="churches_of_christ" weight="0.03500000014901161">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="2" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="223" source="churches_of_christ" target="disciples_of_christ" weight="0.1631261259317398">
+        <viz:color r="191" g="229" b="221"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="224" source="eritrea_orthodox" target="malankara_orthodox" weight="0.6740362644195557">
+        <viz:color r="34" g="138" b="85"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="225" source="eritrea_orthodox" target="malankara_jacobite" weight="0.6602060198783875">
+        <viz:color r="38" g="141" b="89"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="226" source="crcna" target="evangelical_church_germany" weight="0.18208253383636475">
+        <viz:color r="184" g="227" b="217"/>
+        <attvalues>
+          <attvalue for="2" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="227" source="evangelical_church_germany" target="church_of_sweden" weight="0.7389166355133057">
+        <viz:color r="17" g="123" b="64"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="228" source="evangelical_church_germany" target="church_of_norway" weight="0.7352182269096375">
+        <viz:color r="18" g="124" b="66"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="229" source="evangelical_church_germany" target="evangelical_lutheran_church_tanzania" weight="0.7431364059448242">
+        <viz:color r="16" g="122" b="63"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="230" source="evangelical_church_germany" target="mekane_yesus" weight="0.7491361498832703">
+        <viz:color r="15" g="121" b="61"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="231" source="church_of_sweden" target="church_of_norway" weight="0.6954242587089539">
+        <viz:color r="29" g="133" b="78"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="232" source="church_of_sweden" target="evangelical_lutheran_church_tanzania" weight="0.7130333781242371">
+        <viz:color r="24" g="129" b="72"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="233" source="church_of_sweden" target="mekane_yesus" weight="0.7243037819862366">
+        <viz:color r="21" g="127" b="69"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="234" source="church_of_norway" target="evangelical_lutheran_church_tanzania" weight="0.7060697674751282">
+        <viz:color r="26" g="131" b="75"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="235" source="church_of_norway" target="mekane_yesus" weight="0.7190331816673279">
+        <viz:color r="23" g="128" b="71"/>
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
     </edges>
   </graph>
 </gexf>

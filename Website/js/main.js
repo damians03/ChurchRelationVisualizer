@@ -68,9 +68,9 @@ function initSigma(config) {
     else
     	graphProps={
         minNodeSize: 1,
-        maxNodeSize: 7,
-        minEdgeSize: 0.2,
-        maxEdgeSize: 0.5
+        maxNodeSize: 20,
+        minEdgeSize: 0.1,
+        maxEdgeSize: 0.8
     	};
 	
 	if (config.sigma && config.sigma.mouseProperties) 
@@ -97,6 +97,7 @@ function initSigma(config) {
 				// note: index may not be consistent for all nodes. Should calculate each time. 
 				 // alert(JSON.stringify(b.attr.attributes[5].val));
 				// alert(b.x);
+
 				a.clusters[b.color] || (a.clusters[b.color] = []);
 				a.clusters[b.color].push(b.id);//SAH: push id not label
 			}
@@ -111,9 +112,17 @@ function initSigma(config) {
 		configSigmaElements(config);
 	}
     console.log(a)
-    if (data.indexOf("gexf")>0 || data.indexOf("xml")>0)
+    if (data.indexOf("gexf")>0 || data.indexOf("xml")>0){
         a.parseGexf(data,dataReady);
-    else
+        a.iterEdges(function(e) {
+            var strength = parseFloat(e.attr.attributes.strength);
+
+            if (!isNaN(strength)) {
+                e.displaySize = 1000;
+            }
+            console.log(e)
+        });
+    }else
 	    a.parseJson(data,dataReady);
     gexf = sigmaInst = null;
 }
@@ -212,6 +221,7 @@ function configSigmaElements(config) {
 		var nodes = event.content;
 		var neighbors = {};
 		sigInst.iterEdges(function(e){
+            
 		if(nodes.indexOf(e.source)<0 && nodes.indexOf(e.target)<0){
 			if(!e.attr['grey']){
 				e.attr['true_color'] = e.color;
@@ -253,6 +263,7 @@ function configSigmaElements(config) {
 			var nodes = event.content;
 			var neighbors = {};
 		sigInst.iterEdges(function(e){
+            
 			if(nodes.indexOf(e.source)>=0 || nodes.indexOf(e.target)>=0){
 		    	neighbors[e.source] = 1;
 		    	neighbors[e.target] = 1;
@@ -426,13 +437,16 @@ function showGroups(a) {
 
 function nodeNormal() {
     !0 != $GP.calculating && !1 != sigInst.detail && (showGroups(!1), $GP.calculating = !0, sigInst.detail = !0, $GP.info.delay(400).animate({width:'hide'},350),$GP.cluster.hide(), sigInst.iterEdges(function (a) {
+        
         a.attr.color = !1;
         a.hidden = !1
     }), sigInst.iterNodes(function (a) {
         a.hidden = !1;
         a.attr.color = !1;
+        //console.log(a.attr.color)
         a.attr.lineWidth = !1;
         a.attr.size = !1
+        
         if(a.active == true)
         {
             a.active = false;
@@ -485,6 +499,7 @@ function nodeActive(a) {
         a.hidden = !0;
         a.attr.lineWidth = !1;
         a.attr.color = a.color
+        
 
     });
     
@@ -510,6 +525,7 @@ function nodeActive(a) {
         d.hidden = !1;
         d.attr.lineWidth = !1;
         d.attr.color = c[g].colour;
+        
         a != g && e.push({
             id: g,
             name: d.label,
@@ -549,12 +565,7 @@ function nodeActive(a) {
 		return f;
 	}
 	
-	/*console.log("mutual:");
-	console.log(mutual);
-	console.log("incoming:");
-	console.log(incoming);
-	console.log("outgoing:");
-	console.log(outgoing);*/
+	
 	
 	
 	var f=[];
@@ -625,7 +636,7 @@ function nodeActive(a) {
 }
 
 function showCluster(a) {
-    console.log("Shpw cluster called ")
+    console.log("Show cluster called ")
     var b = sigInst.clusters[a];
     if (b && 0 < b.length) {
         showGroups(!1);

@@ -213,11 +213,6 @@
   "name": "Evangelical Church in Germany",
   "tradition": "Lutheran",
   "members": 19000000
-},{
-  "id": "crcna",
-  "name": "Christian Reformed Church in North America",
-  "tradition": "Dutch Reformed",
-  "members": 200000
 },
   {
     "id": "church_of_sweden",

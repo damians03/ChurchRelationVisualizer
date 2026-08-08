@@ -1,4 +1,4 @@
-// Mathieu Jacomy @ Sciences Po Médialab & WebAtlas
+// Mathieu Jacomy @ Sciences Po Mï¿½dialab & WebAtlas
 // (requires sigma.js to be loaded)
 sigma.publicPrototype.parseGexf = function(gexfPath,callback) {
   // Load XML file:
@@ -149,6 +149,11 @@ sigma.publicPrototype.parseGexf = function(gexfPath,callback) {
           if(n == 'source' || n =='target' || n=='label')
               continue;
           edge.attributes[n]=attrs[i].value;
+      }
+
+      var weight = edgeNode.getAttribute('weight');
+      if(weight!=undefined){
+        edge['weight'] = weight;
       }
 
       var attvalueNodes = edgeNode.getElementsByTagName('attvalue');
