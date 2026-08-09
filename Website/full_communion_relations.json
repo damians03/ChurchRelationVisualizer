@@ -1,0 +1,4307 @@
+{"relationships":[
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "anglican_church_of_australia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "anglican_church_of_burundi",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "anglican_church_of_canada",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "anglican_church_of_kenya",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "anglican_church_of_korea",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "anglican_church_of_melanesia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "anglican_church_of_papua_new_guinea",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "anglican_church_of_south_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "anglican_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "anglican_church_of_tanzania",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_in_the_province_of_the_west_indies",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_in_wales",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_of_bangladesh",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_of_ceylon",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_of_england",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_in_aotearoa_new_zealand_and_polynesia",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "anglican_church_of_burundi",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "anglican_church_of_canada",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "anglican_church_of_kenya",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "anglican_church_of_korea",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "anglican_church_of_melanesia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "anglican_church_of_papua_new_guinea",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "anglican_church_of_south_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "anglican_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "anglican_church_of_tanzania",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_in_the_province_of_the_west_indies",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_in_wales",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_of_bangladesh",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_of_ceylon",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_of_england",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_australia",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "anglican_church_of_canada",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "anglican_church_of_kenya",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "anglican_church_of_korea",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "anglican_church_of_melanesia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "anglican_church_of_papua_new_guinea",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "anglican_church_of_south_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "anglican_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "anglican_church_of_tanzania",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_in_the_province_of_the_west_indies",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_in_wales",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_of_bangladesh",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_of_ceylon",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_of_england",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_burundi",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "anglican_church_of_kenya",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "anglican_church_of_korea",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "anglican_church_of_melanesia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "anglican_church_of_papua_new_guinea",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "anglican_church_of_south_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "anglican_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "anglican_church_of_tanzania",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_in_the_province_of_the_west_indies",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_in_wales",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_of_bangladesh",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_of_ceylon",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_of_england",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_canada",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "anglican_church_of_korea",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "anglican_church_of_melanesia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "anglican_church_of_papua_new_guinea",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "anglican_church_of_south_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "anglican_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "anglican_church_of_tanzania",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_in_the_province_of_the_west_indies",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_in_wales",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_of_bangladesh",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_of_ceylon",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_of_england",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_kenya",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "anglican_church_of_melanesia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "anglican_church_of_papua_new_guinea",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "anglican_church_of_south_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "anglican_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "anglican_church_of_tanzania",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_in_the_province_of_the_west_indies",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_in_wales",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_of_bangladesh",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_of_ceylon",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_of_england",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_korea",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "anglican_church_of_papua_new_guinea",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "anglican_church_of_south_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "anglican_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "anglican_church_of_tanzania",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_in_the_province_of_the_west_indies",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_in_wales",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_of_bangladesh",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_of_ceylon",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_of_england",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_melanesia",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "anglican_church_of_south_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "anglican_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "anglican_church_of_tanzania",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_in_the_province_of_the_west_indies",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_in_wales",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_of_bangladesh",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_of_ceylon",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_of_england",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_papua_new_guinea",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "anglican_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "anglican_church_of_tanzania",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_in_the_province_of_the_west_indies",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_in_wales",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_of_bangladesh",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_of_ceylon",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_of_england",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_south_america",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "anglican_church_of_tanzania",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_in_the_province_of_the_west_indies",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_in_wales",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_of_bangladesh",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_of_ceylon",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_of_england",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_southern_africa",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_in_the_province_of_the_west_indies",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_in_wales",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_of_bangladesh",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_of_ceylon",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_of_england",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_tanzania",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "church_in_wales",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "church_of_bangladesh",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "church_of_ceylon",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "church_of_england",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_in_the_province_of_the_west_indies",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "church_of_bangladesh",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "church_of_ceylon",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "church_of_england",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_in_wales",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "church_of_ceylon",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "church_of_england",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_bangladesh",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "church_of_england",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ceylon",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "church_of_ireland",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_england",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_ireland",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_nigeria",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "church_of_south_india",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "church_of_the_province_of_central_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "church_of_the_province_of_myanmar",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_central_africa",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "church_of_the_province_of_the_indian_ocean",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_myanmar",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "church_of_the_province_of_uganda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_the_indian_ocean",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "church_of_the_province_of_west_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_uganda",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "church_of_the_province_of_south_east_asia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_west_africa",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_south_east_asia",
+    "target": "episcopal_anglican_province_of_alexandria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_south_east_asia",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_south_east_asia",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_south_east_asia",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_south_east_asia",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_south_east_asia",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_south_east_asia",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_south_east_asia",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_south_east_asia",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_south_east_asia",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_south_east_asia",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_south_east_asia",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_south_east_asia",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_south_east_asia",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_province_of_south_east_asia",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_anglican_province_of_alexandria",
+    "target": "episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_anglican_province_of_alexandria",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_anglican_province_of_alexandria",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_anglican_province_of_alexandria",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_anglican_province_of_alexandria",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_anglican_province_of_alexandria",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_anglican_province_of_alexandria",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_anglican_province_of_alexandria",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_anglican_province_of_alexandria",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_anglican_province_of_alexandria",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_anglican_province_of_alexandria",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_anglican_province_of_alexandria",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_anglican_province_of_alexandria",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_anglican_province_of_alexandria",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church",
+    "target": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "target": "episcopal_church_in_the_philippines",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_jerusalem_and_the_middle_east",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_the_philippines",
+    "target": "anglican_church_of_rwanda",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_the_philippines",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_the_philippines",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_the_philippines",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_the_philippines",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_the_philippines",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_the_philippines",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_the_philippines",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_the_philippines",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_the_philippines",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "episcopal_church_in_the_philippines",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_rwanda",
+    "target": "hong_kong_sheng_kung_hui",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_rwanda",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_rwanda",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_rwanda",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_rwanda",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_rwanda",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_rwanda",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_rwanda",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_rwanda",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "anglican_church_of_rwanda",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "hong_kong_sheng_kung_hui",
+    "target": "iglesia_anglicana_de_chile",
+    "strength": 100
+  },
+  {
+    "source": "hong_kong_sheng_kung_hui",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "hong_kong_sheng_kung_hui",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "hong_kong_sheng_kung_hui",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "hong_kong_sheng_kung_hui",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "hong_kong_sheng_kung_hui",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "hong_kong_sheng_kung_hui",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "hong_kong_sheng_kung_hui",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "hong_kong_sheng_kung_hui",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "iglesia_anglicana_de_chile",
+    "target": "iglesia_anglicana_de_la_region_central_de_america",
+    "strength": 100
+  },
+  {
+    "source": "iglesia_anglicana_de_chile",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "iglesia_anglicana_de_chile",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "iglesia_anglicana_de_chile",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "iglesia_anglicana_de_chile",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "iglesia_anglicana_de_chile",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "iglesia_anglicana_de_chile",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "iglesia_anglicana_de_chile",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "iglesia_anglicana_de_la_region_central_de_america",
+    "target": "igreja_anglicana_de_mocambique_e_angola",
+    "strength": 100
+  },
+  {
+    "source": "iglesia_anglicana_de_la_region_central_de_america",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "iglesia_anglicana_de_la_region_central_de_america",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "iglesia_anglicana_de_la_region_central_de_america",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "iglesia_anglicana_de_la_region_central_de_america",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "iglesia_anglicana_de_la_region_central_de_america",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "iglesia_anglicana_de_la_region_central_de_america",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "igreja_anglicana_de_mocambique_e_angola",
+    "target": "igreja_episcopal_anglicana_do_brasil",
+    "strength": 100
+  },
+  {
+    "source": "igreja_anglicana_de_mocambique_e_angola",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "igreja_anglicana_de_mocambique_e_angola",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "igreja_anglicana_de_mocambique_e_angola",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "igreja_anglicana_de_mocambique_e_angola",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "igreja_anglicana_de_mocambique_e_angola",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "igreja_episcopal_anglicana_do_brasil",
+    "target": "la_iglesia_anglicana_de_mexico",
+    "strength": 100
+  },
+  {
+    "source": "igreja_episcopal_anglicana_do_brasil",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "igreja_episcopal_anglicana_do_brasil",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "igreja_episcopal_anglicana_do_brasil",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "igreja_episcopal_anglicana_do_brasil",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "la_iglesia_anglicana_de_mexico",
+    "target": "province_de_leglise_anglicane_du_congo",
+    "strength": 100
+  },
+  {
+    "source": "la_iglesia_anglicana_de_mexico",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "la_iglesia_anglicana_de_mexico",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "la_iglesia_anglicana_de_mexico",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "province_de_leglise_anglicane_du_congo",
+    "target": "province_of_the_episcopal_church_of_south_sudan",
+    "strength": 100
+  },
+  {
+    "source": "province_de_leglise_anglicane_du_congo",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "province_de_leglise_anglicane_du_congo",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "province_of_the_episcopal_church_of_south_sudan",
+    "target": "province_of_the_episcopal_church_of_sudan",
+    "strength": 100
+  },
+  {
+    "source": "province_of_the_episcopal_church_of_south_sudan",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  },
+  {
+    "source": "province_of_the_episcopal_church_of_sudan",
+    "target": "nippon_sei_ko_kai",
+    "strength": 100
+  }
+]}

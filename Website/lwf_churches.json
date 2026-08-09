@@ -1,0 +1,746 @@
+[
+    {
+      "id": "andhra_evangelical_lutheran_church",
+      "name": "Andhra Evangelical Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 3000000
+    },
+    {
+      "id": "arcot_lutheran_church",
+      "name": "Arcot Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 44689
+    },
+    {
+      "id": "augustinian_lutheran_church_of_guatemala",
+      "name": "Augustinian Lutheran Church of Guatemala",
+      "tradition": "Lutheran",
+      "members": 2892
+    },
+    {
+      "id": "batak_christian_community_church_gpkb",
+      "name": "Batak Christian Community Church (GPKB)",
+      "tradition": "Lutheran",
+      "members": 37718
+    },
+    {
+      "id": "bodo_evangelical_lutheran_church_belc",
+      "name": "Bodo Evangelical Lutheran Church (BELC)",
+      "tradition": "Lutheran",
+      "members": 12479
+    },
+    {
+      "id": "bolivian_evangelical_lutheran_church",
+      "name": "Bolivian Evangelical Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 3731
+    },
+    {
+      "id": "christ_lutheran_church",
+      "name": "Christ Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 15900
+    },
+    {
+      "id": "christian_communion_of_indonesia_church_in_nias_gereja_amin",
+      "name": "Christian Communion of Indonesia Church in Nias (Gereja AMIN)",
+      "tradition": "Lutheran",
+      "members": 26250
+    },
+    {
+      "id": "christian_lutheran_church_of_honduras",
+      "name": "Christian Lutheran Church of Honduras",
+      "tradition": "Lutheran",
+      "members": 2005
+    },
+    {
+      "id": "christian_protestant_angkola_church_gkpa",
+      "name": "Christian Protestant Angkola Church (GKPA)",
+      "tradition": "Lutheran",
+      "members": 30128
+    },
+    {
+      "id": "church_of_lippe_lutheran_section",
+      "name": "Church of Lippe (Lutheran Section)",
+      "tradition": "Lutheran",
+      "members": 22400
+    },
+    {
+      "id": "church_of_norway",
+      "name": "Church of Norway",
+      "tradition": "Lutheran",
+      "members": 3611670
+    },
+    {
+      "id": "church_of_sweden",
+      "name": "Church of Sweden",
+      "tradition": "Lutheran",
+      "members": 5484000
+    },
+    {
+      "id": "communion_of_protestant_christian_church_onkp",
+      "name": "Communion of Protestant Christian Church (ONKP)",
+      "tradition": "Lutheran",
+      "members": 51125
+    },
+    {
+      "id": "estonian_evangelical_lutheran_church",
+      "name": "Estonian Evangelical Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 160000
+    },
+    {
+      "id": "evangelical_church_in_central_germany",
+      "name": "Evangelical Church in Central Germany",
+      "tradition": "Lutheran",
+      "members": 615855
+    },
+    {
+      "id": "evangelical_church_of_czech_brethren",
+      "name": "Evangelical Church of Czech Brethren",
+      "tradition": "Lutheran",
+      "members": 58521
+    },
+    {
+      "id": "evangelical_church_of_the_augsburg_confession_in_austria",
+      "name": "Evangelical Church of the Augsburg Confession in Austria",
+      "tradition": "Lutheran",
+      "members": 247834
+    },
+    {
+      "id": "evangelical_church_of_the_augsburg_confession_in_poland",
+      "name": "Evangelical Church of the Augsburg Confession in Poland",
+      "tradition": "Lutheran",
+      "members": 60244
+    },
+    {
+      "id": "evangelical_church_of_the_augsburg_confession_in_romania",
+      "name": "Evangelical Church of the Augsburg Confession in Romania",
+      "tradition": "Lutheran",
+      "members": 10773
+    },
+    {
+      "id": "evangelical_church_of_the_augsburg_confession_in_the_slovak_republic",
+      "name": "Evangelical Church of the Augsburg Confession in the Slovak Republic",
+      "tradition": "Lutheran",
+      "members": 193995
+    },
+    {
+      "id": "evangelical_church_of_the_lutheran_confession_in_brazil",
+      "name": "Evangelical Church of the Lutheran Confession in Brazil",
+      "tradition": "Lutheran",
+      "members": 614555
+    },
+    {
+      "id": "evangelical_church_of_the_river_plate",
+      "name": "Evangelical Church of the River Plate",
+      "tradition": "Lutheran",
+      "members": 25000
+    },
+    {
+      "id": "evangelical_lutheran_church_in_america",
+      "name": "Evangelical Lutheran Church in America",
+      "tradition": "Lutheran",
+      "members": 2904686
+    },
+    {
+      "id": "evangelical_lutheran_church_in_baden",
+      "name": "Evangelical Lutheran Church in Baden",
+      "tradition": "Lutheran",
+      "members": 2444
+    },
+    {
+      "id": "evangelical_lutheran_church_in_bavaria",
+      "name": "Evangelical Lutheran Church in Bavaria",
+      "tradition": "Lutheran",
+      "members": 2143233
+    },
+    {
+      "id": "evangelical_lutheran_church_in_botswana",
+      "name": "Evangelical Lutheran Church in Botswana",
+      "tradition": "Lutheran",
+      "members": 26023
+    },
+    {
+      "id": "evangelical_lutheran_church_in_brunswick",
+      "name": "Evangelical Lutheran Church in Brunswick",
+      "tradition": "Lutheran",
+      "members": 293979
+    },
+    {
+      "id": "evangelical_lutheran_church_in_canada",
+      "name": "Evangelical Lutheran Church in Canada",
+      "tradition": "Lutheran",
+      "members": 80002
+    },
+    {
+      "id": "evangelical_lutheran_church_in_chile",
+      "name": "Evangelical Lutheran Church in Chile",
+      "tradition": "Lutheran",
+      "members": 2500
+    },
+    {
+      "id": "evangelical_lutheran_church_in_congo",
+      "name": "Evangelical Lutheran Church in Congo",
+      "tradition": "Lutheran",
+      "members": 98123
+    },
+    {
+      "id": "evangelical_lutheran_church_in_denmark",
+      "name": "Evangelical Lutheran Church in Denmark",
+      "tradition": "Lutheran",
+      "members": 4253575
+    },
+    {
+      "id": "evangelical_lutheran_church_in_italy",
+      "name": "Evangelical Lutheran Church in Italy",
+      "tradition": "Lutheran",
+      "members": 6000
+    },
+    {
+      "id": "evangelical_lutheran_church_in_madhya_pradesh",
+      "name": "Evangelical Lutheran Church in Madhya Pradesh",
+      "tradition": "Lutheran",
+      "members": 23000
+    },
+    {
+      "id": "evangelical_lutheran_church_in_malawi",
+      "name": "Evangelical Lutheran Church in Malawi",
+      "tradition": "Lutheran",
+      "members": 150000
+    },
+    {
+      "id": "evangelical_lutheran_church_in_mozambique",
+      "name": "Evangelical Lutheran Church in Mozambique",
+      "tradition": "Lutheran",
+      "members": 18163
+    },
+    {
+      "id": "evangelical_lutheran_church_in_myanmar_lutheran_bethlehem_church",
+      "name": "Evangelical Lutheran Church in Myanmar (Lutheran Bethlehem Church)",
+      "tradition": "Lutheran",
+      "members": 3395
+    },
+    {
+      "id": "evangelical_lutheran_church_in_namibia_elcin_gelc",
+      "name": "Evangelical Lutheran Church in Namibia (ELCIN-GELC)",
+      "tradition": "Lutheran",
+      "members": 4200
+    },
+    {
+      "id": "evangelical_lutheran_church_in_northern_germany",
+      "name": "Evangelical Lutheran Church in Northern Germany",
+      "tradition": "Lutheran",
+      "members": 1772953
+    },
+    {
+      "id": "evangelical_lutheran_church_in_oldenburg",
+      "name": "Evangelical Lutheran Church in Oldenburg",
+      "tradition": "Lutheran",
+      "members": 371688
+    },
+    {
+      "id": "evangelical_lutheran_church_in_romania",
+      "name": "Evangelical Lutheran Church in Romania",
+      "tradition": "Lutheran",
+      "members": 23700
+    },
+    {
+      "id": "evangelical_lutheran_church_in_sierra_leone",
+      "name": "Evangelical Lutheran Church in Sierra Leone",
+      "tradition": "Lutheran",
+      "members": 6565
+    },
+    {
+      "id": "evangelical_lutheran_church_in_southern_africa_cape_church",
+      "name": "Evangelical Lutheran Church in Southern Africa (Cape Church)",
+      "tradition": "Lutheran",
+      "members": 3950
+    },
+    {
+      "id": "evangelical_lutheran_church_in_southern_africa_elcsa",
+      "name": "Evangelical Lutheran Church in Southern Africa (ELCSA)",
+      "tradition": "Lutheran",
+      "members": 580000
+    },
+    {
+      "id": "evangelical_lutheran_church_in_tanzania",
+      "name": "Evangelical Lutheran Church in Tanzania",
+      "tradition": "Lutheran",
+      "members": 8500000
+    },
+    {
+      "id": "evangelical_lutheran_church_in_the_himalayan_states",
+      "name": "Evangelical Lutheran Church in the Himalayan States",
+      "tradition": "Lutheran",
+      "members": 40064
+    },
+    {
+      "id": "evangelical_lutheran_church_in_the_republic_of_namibia_elcrn",
+      "name": "Evangelical Lutheran Church in the Republic of Namibia (ELCRN)",
+      "tradition": "Lutheran",
+      "members": 420000
+    },
+    {
+      "id": "evangelical_lutheran_church_in_venezuela",
+      "name": "Evangelical Lutheran Church in Venezuela",
+      "tradition": "Lutheran",
+      "members": 1250
+    },
+    {
+      "id": "evangelical_lutheran_church_in_w_rttemberg",
+      "name": "Evangelical Lutheran Church in Württemberg",
+      "tradition": "Lutheran",
+      "members": 1821266
+    },
+    {
+      "id": "evangelical_lutheran_church_in_zambia",
+      "name": "Evangelical Lutheran Church in Zambia",
+      "tradition": "Lutheran",
+      "members": 5284
+    },
+    {
+      "id": "evangelical_lutheran_church_in_zimbabwe",
+      "name": "Evangelical Lutheran Church in Zimbabwe",
+      "tradition": "Lutheran",
+      "members": 309881
+    },
+    {
+      "id": "evangelical_lutheran_church_of_colombia",
+      "name": "Evangelical Lutheran Church of Colombia",
+      "tradition": "Lutheran",
+      "members": 2100
+    },
+    {
+      "id": "evangelical_lutheran_church_of_congo",
+      "name": "Evangelical Lutheran Church of Congo",
+      "tradition": "Lutheran",
+      "members": 3908
+    },
+    {
+      "id": "evangelical_lutheran_church_of_finland",
+      "name": "Evangelical Lutheran Church of Finland",
+      "tradition": "Lutheran",
+      "members": 3579616
+    },
+    {
+      "id": "evangelical_lutheran_church_of_hanover",
+      "name": "Evangelical Lutheran Church of Hanover",
+      "tradition": "Lutheran",
+      "members": 2302547
+    },
+    {
+      "id": "evangelical_lutheran_church_of_latvia",
+      "name": "Evangelical Lutheran Church of Latvia",
+      "tradition": "Lutheran",
+      "members": 250000
+    },
+    {
+      "id": "evangelical_lutheran_church_of_lithuania",
+      "name": "Evangelical Lutheran Church of Lithuania",
+      "tradition": "Lutheran",
+      "members": 18100
+    },
+    {
+      "id": "evangelical_lutheran_church_of_papua_new_guinea",
+      "name": "Evangelical Lutheran Church of Papua New Guinea",
+      "tradition": "Lutheran",
+      "members": 1500000
+    },
+    {
+      "id": "evangelical_lutheran_church_of_saxony",
+      "name": "Evangelical Lutheran Church of Saxony",
+      "tradition": "Lutheran",
+      "members": 610503
+    },
+    {
+      "id": "evangelical_lutheran_church_of_schaumburg_lippe",
+      "name": "Evangelical Lutheran Church of Schaumburg-Lippe",
+      "tradition": "Lutheran",
+      "members": 45764
+    },
+    {
+      "id": "fed_of_evang_luth_churches_in_switzerland_in_the_principality_of_liechtenstein",
+      "name": "Fed. of Evang. Luth. Churches in Switzerland & in the Principality of Liechtenstein",
+      "tradition": "Lutheran",
+      "members": 3150
+    },
+    {
+      "id": "federation_of_evangelical_lutheran_churches_in_russia_and_other_states",
+      "name": "Federation of Evangelical Lutheran Churches in Russia and Other States",
+      "tradition": "Lutheran",
+      "members": 20000
+    },
+    {
+      "id": "german_evangelical_lutheran_church_of_ukraine_gelcu",
+      "name": "German Evangelical Lutheran Church of Ukraine (GELCU)",
+      "tradition": "Lutheran",
+      "members": 1000
+    },
+    {
+      "id": "good_shepherd_evangelical_lutheran_church",
+      "name": "Good Shepherd Evangelical Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 20926
+    },
+    {
+      "id": "gossner_evangelical_lutheran_church_in_chotanagpur_and_assam",
+      "name": "Gossner Evangelical Lutheran Church in Chotanagpur and Assam",
+      "tradition": "Lutheran",
+      "members": 242803
+    },
+    {
+      "id": "guatemala_lutheran_church",
+      "name": "Guatemala Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 950
+    },
+    {
+      "id": "gutnius_lutheran_church_papua_new_guinea",
+      "name": "Gutnius Lutheran Church - Papua New Guinea",
+      "tradition": "Lutheran",
+      "members": 149869
+    },
+    {
+      "id": "indonesian_christian_lutheran_church_gkli",
+      "name": "Indonesian Christian Lutheran Church (GKLI)",
+      "tradition": "Lutheran",
+      "members": 23000
+    },
+    {
+      "id": "japan_evangelical_lutheran_church",
+      "name": "Japan Evangelical Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 21558
+    },
+    {
+      "id": "japan_lutheran_church",
+      "name": "Japan Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 694
+    },
+    {
+      "id": "kenya_evangelical_lutheran_church",
+      "name": "Kenya Evangelical Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 15000
+    },
+    {
+      "id": "kinki_evangelical_lutheran_church",
+      "name": "Kinki Evangelical Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 2535
+    },
+    {
+      "id": "latvian_evangelical_lutheran_church_worldwide_lelcw",
+      "name": "Latvian Evangelical Lutheran Church Worldwide (LELCW)",
+      "tradition": "Lutheran",
+      "members": 4800
+    },
+    {
+      "id": "lutheran_church_in_cambodia",
+      "name": "Lutheran Church in Cambodia",
+      "tradition": "Lutheran",
+      "members": 1080
+    },
+    {
+      "id": "lutheran_church_in_chile",
+      "name": "Lutheran Church in Chile",
+      "tradition": "Lutheran",
+      "members": 9900
+    },
+    {
+      "id": "lutheran_church_in_korea",
+      "name": "Lutheran Church in Korea",
+      "tradition": "Lutheran",
+      "members": 2228
+    },
+    {
+      "id": "lutheran_church_in_singapore",
+      "name": "Lutheran Church in Singapore",
+      "tradition": "Lutheran",
+      "members": 2727
+    },
+    {
+      "id": "lutheran_church_in_the_philippines",
+      "name": "Lutheran Church in the Philippines",
+      "tradition": "Lutheran",
+      "members": 58000
+    },
+    {
+      "id": "lutheran_church_of_australia",
+      "name": "Lutheran Church of Australia",
+      "tradition": "Lutheran",
+      "members": 140000
+    },
+    {
+      "id": "lutheran_church_of_myanmar",
+      "name": "Lutheran Church of Myanmar",
+      "tradition": "Lutheran",
+      "members": 2000
+    },
+    {
+      "id": "lutheran_church_of_peru",
+      "name": "Lutheran Church of Peru",
+      "tradition": "Lutheran",
+      "members": 853
+    },
+    {
+      "id": "lutheran_costa_rican_church",
+      "name": "Lutheran Costa Rican Church",
+      "tradition": "Lutheran",
+      "members": 500
+    },
+    {
+      "id": "malagasy_lutheran_church",
+      "name": "Malagasy Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 4000000
+    },
+    {
+      "id": "malagasy_protestant_church_in_france",
+      "name": "Malagasy Protestant Church in France",
+      "tradition": "Lutheran",
+      "members": 10000
+    },
+    {
+      "id": "manipur_evangelical_lutheran_church_melc",
+      "name": "Manipur Evangelical Lutheran Church (MELC)",
+      "tradition": "Lutheran",
+      "members": 11527
+    },
+    {
+      "id": "mexican_lutheran_church",
+      "name": "Mexican Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 1200
+    },
+    {
+      "id": "moravian_church_in_south_africa",
+      "name": "Moravian Church in South Africa",
+      "tradition": "Lutheran",
+      "members": 80000
+    },
+    {
+      "id": "myanmar_lutheran_church",
+      "name": "Myanmar Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 3830
+    },
+    {
+      "id": "nepal_evangelical_lutheran_church",
+      "name": "Nepal Evangelical Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 1385
+    },
+    {
+      "id": "northeastern_evangelical_lutheran_church_in_south_africa_nelcsa",
+      "name": "Northeastern Evangelical Lutheran Church in South Africa (NELCSA)",
+      "tradition": "Lutheran",
+      "members": 9300
+    },
+    {
+      "id": "northern_evangelical_lutheran_church",
+      "name": "Northern Evangelical Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 101722
+    },
+    {
+      "id": "pakpak_dairi_christian_protestant_church_gkppd",
+      "name": "Pakpak Dairi Christian Protestant Church (GKPPD)",
+      "tradition": "Lutheran",
+      "members": 42785
+    },
+    {
+      "id": "protestant_christian_batak_church_hkbp",
+      "name": "Protestant Christian Batak Church (HKBP)",
+      "tradition": "Lutheran",
+      "members": 6333000
+    },
+    {
+      "id": "protestant_christian_church_in_mentawai_gkpm",
+      "name": "Protestant Christian Church in Mentawai (GKPM)",
+      "tradition": "Lutheran",
+      "members": 39892
+    },
+    {
+      "id": "protestant_church_in_the_netherlands",
+      "name": "Protestant Church in the Netherlands",
+      "tradition": "Lutheran",
+      "members": 1425000
+    },
+    {
+      "id": "salvadoran_lutheran_church",
+      "name": "Salvadoran Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 15500
+    },
+    {
+      "id": "silesian_evangelical_church_of_the_augsburg_confession",
+      "name": "Silesian Evangelical Church of the Augsburg Confession",
+      "tradition": "Lutheran",
+      "members": 13919
+    },
+    {
+      "id": "simalungun_protestant_christian_church_gkps",
+      "name": "Simalungun Protestant Christian Church (GKPS)",
+      "tradition": "Lutheran",
+      "members": 227690
+    },
+    {
+      "id": "south_andhra_lutheran_church",
+      "name": "South Andhra Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 95000
+    },
+    {
+      "id": "taiwan_lutheran_church",
+      "name": "Taiwan Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 9502
+    },
+    {
+      "id": "the_ethiopian_evangelical_church_mekane_yesus",
+      "name": "The Ethiopian Evangelical Church Mekane Yesus",
+      "tradition": "Lutheran",
+      "members": 12000000
+    },
+    {
+      "id": "the_evangelical_lutheran_church_in_hungary",
+      "name": "The Evangelical Lutheran Church in Hungary",
+      "tradition": "Lutheran",
+      "members": 176000
+    },
+    {
+      "id": "the_evangelical_lutheran_church_in_jordan_and_the_holy_land",
+      "name": "The Evangelical Lutheran Church in Jordan and the Holy Land",
+      "tradition": "Lutheran",
+      "members": 2500
+    },
+    {
+      "id": "the_evangelical_lutheran_church_in_namibia_elcin",
+      "name": "The Evangelical Lutheran Church in Namibia (ELCIN)",
+      "tradition": "Lutheran",
+      "members": 853522
+    },
+    {
+      "id": "the_evangelical_lutheran_church_in_thailand",
+      "name": "The Evangelical Lutheran Church in Thailand",
+      "tradition": "Lutheran",
+      "members": 4000
+    },
+    {
+      "id": "the_evangelical_lutheran_church_of_eritrea",
+      "name": "The Evangelical Lutheran Church of Eritrea",
+      "tradition": "Lutheran",
+      "members": 11000
+    },
+    {
+      "id": "the_evangelical_lutheran_church_of_iceland",
+      "name": "The Evangelical Lutheran Church of Iceland",
+      "tradition": "Lutheran",
+      "members": 227259
+    },
+    {
+      "id": "the_evangelical_lutheran_church_of_ingria_in_russia",
+      "name": "The Evangelical Lutheran Church of Ingria in Russia",
+      "tradition": "Lutheran",
+      "members": 25000
+    },
+    {
+      "id": "the_evangelical_lutheran_free_church_of_norway",
+      "name": "The Evangelical Lutheran Free Church of Norway",
+      "tradition": "Lutheran",
+      "members": 21351
+    },
+    {
+      "id": "the_lutheran_church_in_great_britain",
+      "name": "The Lutheran Church in Great Britain",
+      "tradition": "Lutheran",
+      "members": 1500
+    },
+    {
+      "id": "the_lutheran_church_of_christ_in_nigeria",
+      "name": "The Lutheran Church of Christ in Nigeria",
+      "tradition": "Lutheran",
+      "members": 2200000
+    },
+    {
+      "id": "the_lutheran_church_of_nigeria",
+      "name": "The Lutheran Church of Nigeria",
+      "tradition": "Lutheran",
+      "members": 65000
+    },
+    {
+      "id": "the_lutheran_church_of_senegal",
+      "name": "The Lutheran Church of Senegal",
+      "tradition": "Lutheran",
+      "members": 8000
+    },
+    {
+      "id": "the_lutheran_church_of_taiwan_republic_of_china",
+      "name": "The Lutheran Church of Taiwan (Republic of China)",
+      "tradition": "Lutheran",
+      "members": 1517
+    },
+    {
+      "id": "the_lutheran_church_of_the_republic_of_china",
+      "name": "The Lutheran Church of the Republic of China",
+      "tradition": "Lutheran",
+      "members": 431
+    },
+    {
+      "id": "the_mara_evangelical_church",
+      "name": "The Mara Evangelical Church",
+      "tradition": "Lutheran",
+      "members": 21879
+    },
+    {
+      "id": "the_nicaraguan_lutheran_church_of_faith_and_hope",
+      "name": "The Nicaraguan Lutheran Church of Faith and Hope",
+      "tradition": "Lutheran",
+      "members": 10200
+    },
+    {
+      "id": "the_protestant_christian_church_bnkp",
+      "name": "The Protestant Christian Church (BNKP)",
+      "tradition": "Lutheran",
+      "members": 464012
+    },
+    {
+      "id": "the_protestant_church_of_niha_keriso_in_indonesia_gnkp_indonesia",
+      "name": "The Protestant Church of Niha Keriso in Indonesia (GNKP-Indonesia)",
+      "tradition": "Lutheran",
+      "members": 42536
+    },
+    {
+      "id": "the_tamil_evangelical_lutheran_church",
+      "name": "The Tamil Evangelical Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 100000
+    },
+    {
+      "id": "the_united_protestant_church_gpp",
+      "name": "The United Protestant Church (GPP)",
+      "tradition": "Lutheran",
+      "members": 20000
+    },
+    {
+      "id": "union_of_protestant_churches_of_alsace_and_lorraine",
+      "name": "Union of Protestant Churches of Alsace and Lorraine",
+      "tradition": "Lutheran",
+      "members": 220000
+    },
+    {
+      "id": "united_evangelical_lutheran_church",
+      "name": "United Evangelical Lutheran Church",
+      "tradition": "Lutheran",
+      "members": 6000
+    },
+    {
+      "id": "united_protestant_church_of_france",
+      "name": "United Protestant Church of France",
+      "tradition": "Lutheran",
+      "members": 25000
+    }
+  ]

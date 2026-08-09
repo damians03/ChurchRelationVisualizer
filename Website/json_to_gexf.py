@@ -34,7 +34,7 @@ for relationship in data["relationships"]:
 
     # Combined membership, with logarithmic scaling
     combined_members = members[source] + members[target]
-    weight = (strength * math.log10(combined_members + 1))/1000 #*log(members) to account for split nodes
+    weight = (strength * math.log10(combined_members + 1))/100 #*log(members) to account for split nodes
 
     G.add_edge(
         source,

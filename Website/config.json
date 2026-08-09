@@ -8,14 +8,15 @@
     "text": ""
   },
   "text": {
-    "more": "<div style='padding-bottom: 10px; font-size: 2em; font-weight: bold; line-height: 1.2em; text-align: center;'>What is this?</div><p style='line-height: 1.35em; font-size: 17.5px'><b>This is an algorithmically generated map of Twitch</b><ul style='font-size: 1.25em;margin-left: 15px; padding-bottom: 5px; line-height: 1.5em; font-size: 1.4em; list-style-type: circle;'><li>Each bubble is a Twitch channel.</li> <li>Each edge represents the overlap of chatters between those two channels. All edges on this map represent an overlap of at least 1000 chatters.</li> <li>The colors are algorithmically assigned by detecting communities.</li> <li>The layout of the map was constructed using force directed layout algorithms.</li></ul><br><br><p style='line-height: 1.35em; font-size: 17.5px'><b>Website Controls</b><ul style='font-size: 1.25em;margin-left: 15px; padding-bottom: 5px; line-height: 1.5em; font-size: 1.4em; list-style-type: circle;'><li>Left click and drag to pan.</li> <li>Scroll to zoom. Trackpad zoom might not work very well but the zoom in, out, and center buttons at the bottom should help out in that case.</li> <li>Click on a channel to see channel info and filter the map to only that channel's connections (ie. channels that have more share more than 1000 chatters with the selected channel).</li><li>The label behavior can be a bit strange, center the map via the bottom button to reset everything.</li><li>Mobile viewing is currently not supported.</li></ul> <p style='font-size: 17.5px; line-height: 1.35em;'><br>I have not done much web development like this so please be patient as I learn what works and what doesn't. A large map of YouTube project is nearing completion so look out for that if your interested!<br><br>This project was made with <a href='http://sigmajs.org/'>SigmaJS</a> and <a href='https://gephi.org/'>Gephi</a>. In solidarity with Twitch, I leaked my own source <a href='https://github.com/KiranGershenfeld/VisualizingTwitchCommunities'>code</a>.</p>",
-    "intro": "Generated based on relationships between churches/denominations",
+    "more": "<div style='padding-bottom: 10px; font-size: 2em; font-weight: bold; line-height: 1.2em; text-align: center;'>What is this?</div><p style='line-height: 1.35em; font-size: 17.5px'><b>This is an interactive map of relationships between Christian churches and denominations.</b></p><ul style='font-size: 1.4em; margin-left: 15px; padding-bottom: 5px; line-height: 1.5em; list-style-type: circle;'><li>Each bubble represents a church or Christian denomination.</li><li>The colors represent broad traditions or communities of churches.</li><li>Each edge represents a relationship between two churches or denominations.</li><li>The strength of an edge represents the level of relationship between the two churches.</li><li>The layout was constructed using a force-directed graph algorithm, which places churches with stronger or more numerous connections closer together.</li></ul><br><br><p style='line-height: 1.35em; font-size: 17.5px'><b>Relationship Levels</b></p><ul style='font-size: 1.4em; margin-left: 15px; padding-bottom: 5px; line-height: 1.5em; list-style-type: circle;'><li><b>100 — Full Communion:</b> The churches recognize one another as fully united in the Church and share the highest level of ecclesial fellowship.</li><li><b>25 — True Church:</b> The churches recognize one another as true Christian churches, while not being in full communion with one another.</li><li><b>5 — Cooperation:</b> The churches recognize one another as fellow Christians and have a relationship of cooperation, without necessarily recognizing one another as being in full ecclesial communion.</li></ul><br><br><p style='line-height: 1.35em; font-size: 17.5px'><b>Website Controls</b></p><ul style='font-size: 1.4em; margin-left: 15px; padding-bottom: 5px; line-height: 1.5em; list-style-type: circle;'><li>Left click and drag to pan.</li><li>Scroll to zoom. The zoom in, zoom out, and center buttons at the bottom can also be used.</li><li>Click on a church to see its information and connections to other churches.</li><li>When a church is selected, the map is filtered to highlight its connections.</li><li>The right-hand panel displays information about the selected church, including its tradition, attributes, and related churches.</li></ul><p style='font-size: 17.5px; line-height: 1.35em;'><br>This project is an attempt to visualize the relationships between Christian churches and denominations in a single network. The classifications and relationships represented on the map are interpretive and may not reflect how every church understands itself or its relationship with other traditions.<br><br>This project was made with <a href='http://sigmajs.org/'>SigmaJS</a> and <a href='https://gephi.org/'>Gephi</a>.</p>",
+    "intro": "An interactive map of relationships between Christian churches and denominations.",
     "title": "Church Atlas"
-  },
+    },
+
   "legend": {
-    "edgeLabel": "Shared Chatters",
-    "colorLabel": "Detected Community",
-    "nodeLabel": "Channel"
+    "edgeLabel": "Relationship Status",
+    "colorLabel": "Detected Church",
+    "nodeLabel": "Church"
   },
   "features": {
     "search": true,
@@ -42,7 +43,7 @@
       "autoRescale": ["nodePosition, nodeSize"]
     },
     "graphProperties": {
-      "maxEdgeSize": 0.8,
+      "maxEdgeSize": 2,
       "minEdgeSize": 0.1,
       "minNodeSize": 1,
       "maxNodeSize": 10

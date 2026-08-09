@@ -113,14 +113,38 @@ function initSigma(config) {
 	}
     console.log(a)
     if (data.indexOf("gexf")>0 || data.indexOf("xml")>0){
-        a.parseGexf(data,dataReady);
-        a.iterEdges(function(e) {
-            var strength = parseFloat(e.attr.attributes.strength);
+        a.parseGexf(data, function() {
+            a.iterEdges(function(e) {//assigns node colors to edges and dims edges according to strength
+                var sourceNode = a._core.graph.nodesIndex[e.source];
 
-            if (!isNaN(strength)) {
-                e.displaySize = 1000;
-            }
-            console.log(e)
+                if (!sourceNode || !sourceNode.color) return;
+
+                var strength = parseFloat(e.attr.attributes.strength);
+
+                if (isNaN(strength)) {
+                    e.color = sourceNode.color;
+                    return;
+                }
+
+                // 0.25 at strength 0, 1.0 at strength 100
+                var scale = 0.05 + (strength / 100) * 0.95;
+
+                // Convert #RRGGBB to RGB
+                var hex = sourceNode.color.replace('#', '');
+
+                var r = parseInt(hex.substring(0, 2), 16);
+                var g = parseInt(hex.substring(2, 4), 16);
+                var b = parseInt(hex.substring(4, 6), 16);
+
+                // Dim the color
+                r = Math.round(r * scale);
+                g = Math.round(g * scale);
+                b = Math.round(b * scale);
+
+                // Convert back to hex
+                e.color = '#' + sigma.tools.rgbToHex(r, g, b);
+            });
+            dataReady();
         });
     }else
 	    a.parseJson(data,dataReady);
@@ -456,6 +480,19 @@ function nodeNormal() {
     }), sigInst.draw(2, 2, 2, 2), sigInst.neighbors = {}, sigInst.active = !1, $GP.calculating = !1, window.location.hash = "")
 }
 
+function getRelationType(strength) {
+    strength = parseFloat(strength);
+
+    if (strength >= 100)
+        return "FULL COMMUNION";
+    if (strength >= 25)
+        return "TRUE CHURCH";
+    if (strength >= 5)
+        return "COOPERATION";
+
+    return "";
+}
+
 function nodeActive(a) {
     
 	var groupByDirection=false;
@@ -484,9 +521,10 @@ function nodeActive(a) {
         b.attr.lineWidth = !1;
         b.hidden = !0;
         
-        n={
+        n = {
             name: b.label,
-            colour: b.color
+            colour: b.color,
+            relation: getRelationType(b.attr.attributes.strength)
         };
         
    	   if (a==b.source) outgoing[b.target]=n;		//SAH
@@ -529,8 +567,9 @@ function nodeActive(a) {
         a != g && e.push({
             id: g,
             name: d.label,
-            group: (c[g].name)? c[g].name:"",
-            colour: c[g].colour
+            group: (c[g].name) ? c[g].name : "",
+            colour: c[g].colour,
+            relation: c[g].relation
         })
     }
     e.sort(function (a, b) {
@@ -560,7 +599,19 @@ function nodeActive(a) {
             });*/
 
             
-			f.push('<li class="membership"><a href="#' + c.name + '" onmouseover="sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex[\'' + c.id + '\'])\" onclick=\"nodeActive(\'' + c.id + '\')" onmouseout="sigInst.refresh()">' + c.name + "</a></li>");
+			f.push(
+                '<li class="membership">' +
+                    '<a href="#' + c.name + '" ' +
+                    'onmouseover="sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex[\'' + c.id + '\'])" ' +
+                    'onclick="nodeActive(\'' + c.id + '\')" ' +
+                    'onmouseout="sigInst.refresh()">' +
+                        '<div>' + c.name + '</div>' +
+                        '<div style="font-size:11px; color:#777; margin-top:3px;">' +
+                            c.relation +
+                        '</div>' +
+                    '</a>' +
+                '</li>'
+            );
 		}
 		return f;
 	}
@@ -621,7 +672,24 @@ function nodeActive(a) {
         	//image_index = jQuery.inArray(image_attribute, temp_array);
         	$GP.info_name.html("<div><img src=" + f.attributes[image_attribute] + " style=\"vertical-align:middle\" /> <span onmouseover=\"sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex['" + b.id + '\'])" onmouseout="sigInst.refresh()">' + b.label + "</span></div>");
         } else {
-        	$GP.info_name.html("<div><span onmouseover=\"sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex['" + b.id + '\'])" onmouseout="sigInst.refresh()">' + b.label + "</span></div>");
+            var tradition = b.attr.attributes.tradition;
+            var image = "";
+            if (tradition) {
+                var imageName = tradition.replace(/ /g, "-");
+
+                image = '<img src="images/' + imageName + '.png" ' +
+                        'style="display:block; max-width:150px; max-height:150px; margin:0 auto 10px auto;">';
+            }
+
+            $GP.info_name.html(
+                "<div style=\"text-align:center;\">" +
+                image +
+                "<div onmouseover=\"sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex['" +
+                b.id +
+                "'])\" onmouseout=\"sigInst.refresh()\">" +
+                b.label +
+                "</div></div>"
+            );
         }
         // Image field for attribute pane
         $GP.info_data.html(e.join("<br/>"))
@@ -634,6 +702,8 @@ function nodeActive(a) {
     sigInst.active = a;
     window.location.hash = b.label;
 }
+
+
 
 function showCluster(a) {
     console.log("Show cluster called ")

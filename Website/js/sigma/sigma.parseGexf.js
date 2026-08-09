@@ -151,7 +151,7 @@ sigma.publicPrototype.parseGexf = function(gexfPath,callback) {
           edge.attributes[n]=attrs[i].value;
       }
 
-      var weight = edgeNode.getAttribute('weight');
+      var weight = edgeNode.getAttribute('weight');//I added this
       if(weight!=undefined){
         edge['weight'] = weight;
       }
