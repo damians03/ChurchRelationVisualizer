@@ -1,952 +1,142 @@
 [
   {
-    "source": "latin_church",
-    "target": "coptic_catholic_church",
+    "source": "reformed_church_hungary",
+    "target": "protestant_church_switzerland",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "eritrean_catholic_church",
+    "source": "reformed_church_hungary",
+    "target": "pcusa",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "ethiopian_catholic_church",
+    "source": "reformed_church_hungary",
+    "target": "ucc",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "maronite_church",
+    "source": "reformed_church_hungary",
+    "target": "protestant_church_netherlands",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "syriac_catholic_church",
+    "source": "reformed_church_hungary",
+    "target": "presbyterian_church_korea",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "syro_malankara_catholic_church",
+    "source": "reformed_church_hungary",
+    "target": "presbyterian_church_east_africa",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "armenian_catholic_church",
+    "source": "reformed_church_hungary",
+    "target": "church_of_south_india",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "bulgarian_greek_catholic_church",
+    "source": "protestant_church_switzerland",
+    "target": "pcusa",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "greek_catholic_church_of_croatia_and_serbia",
+    "source": "protestant_church_switzerland",
+    "target": "ucc",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "hungarian_greek_catholic_church",
+    "source": "protestant_church_switzerland",
+    "target": "protestant_church_netherlands",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "italo_albanian_catholic_church",
+    "source": "protestant_church_switzerland",
+    "target": "presbyterian_church_korea",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "macedonian_greek_catholic_church",
+    "source": "protestant_church_switzerland",
+    "target": "presbyterian_church_east_africa",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "melkite_greek_catholic_church",
+    "source": "protestant_church_switzerland",
+    "target": "church_of_south_india",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "romanian_greek_catholic_church",
+    "source": "pcusa",
+    "target": "ucc",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "ruthenian_greek_catholic_church",
+    "source": "pcusa",
+    "target": "protestant_church_netherlands",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "slovak_greek_catholic_church",
+    "source": "pcusa",
+    "target": "presbyterian_church_korea",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "ukrainian_greek_catholic_church",
+    "source": "pcusa",
+    "target": "presbyterian_church_east_africa",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "chaldean_catholic_church",
+    "source": "pcusa",
+    "target": "church_of_south_india",
     "strength": 100
   },
   {
-    "source": "latin_church",
-    "target": "syro_malabar_catholic_church",
+    "source": "ucc",
+    "target": "protestant_church_netherlands",
     "strength": 100
   },
   {
-    "source": "coptic_catholic_church",
-    "target": "eritrean_catholic_church",
+    "source": "ucc",
+    "target": "presbyterian_church_korea",
     "strength": 100
   },
   {
-    "source": "coptic_catholic_church",
-    "target": "ethiopian_catholic_church",
+    "source": "ucc",
+    "target": "presbyterian_church_east_africa",
     "strength": 100
   },
   {
-    "source": "coptic_catholic_church",
-    "target": "maronite_church",
+    "source": "ucc",
+    "target": "church_of_south_india",
     "strength": 100
   },
   {
-    "source": "coptic_catholic_church",
-    "target": "syriac_catholic_church",
+    "source": "protestant_church_netherlands",
+    "target": "presbyterian_church_korea",
     "strength": 100
   },
   {
-    "source": "coptic_catholic_church",
-    "target": "syro_malankara_catholic_church",
+    "source": "protestant_church_netherlands",
+    "target": "presbyterian_church_east_africa",
     "strength": 100
   },
   {
-    "source": "coptic_catholic_church",
-    "target": "armenian_catholic_church",
+    "source": "protestant_church_netherlands",
+    "target": "church_of_south_india",
     "strength": 100
   },
   {
-    "source": "coptic_catholic_church",
-    "target": "bulgarian_greek_catholic_church",
+    "source": "presbyterian_church_korea",
+    "target": "presbyterian_church_east_africa",
     "strength": 100
   },
   {
-    "source": "coptic_catholic_church",
-    "target": "greek_catholic_church_of_croatia_and_serbia",
+    "source": "presbyterian_church_korea",
+    "target": "church_of_south_india",
     "strength": 100
   },
   {
-    "source": "coptic_catholic_church",
-    "target": "hungarian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "coptic_catholic_church",
-    "target": "italo_albanian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "coptic_catholic_church",
-    "target": "macedonian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "coptic_catholic_church",
-    "target": "melkite_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "coptic_catholic_church",
-    "target": "romanian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "coptic_catholic_church",
-    "target": "ruthenian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "coptic_catholic_church",
-    "target": "slovak_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "coptic_catholic_church",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "coptic_catholic_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "coptic_catholic_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "ethiopian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "maronite_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "syriac_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "syro_malankara_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "armenian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "bulgarian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "greek_catholic_church_of_croatia_and_serbia",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "hungarian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "italo_albanian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "macedonian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "melkite_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "romanian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "ruthenian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "slovak_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "eritrean_catholic_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "maronite_church",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "syriac_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "syro_malankara_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "armenian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "bulgarian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "greek_catholic_church_of_croatia_and_serbia",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "hungarian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "italo_albanian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "macedonian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "melkite_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "romanian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "ruthenian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "slovak_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ethiopian_catholic_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "maronite_church",
-    "target": "syriac_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "maronite_church",
-    "target": "syro_malankara_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "maronite_church",
-    "target": "armenian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "maronite_church",
-    "target": "bulgarian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "maronite_church",
-    "target": "greek_catholic_church_of_croatia_and_serbia",
-    "strength": 100
-  },
-  {
-    "source": "maronite_church",
-    "target": "hungarian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "maronite_church",
-    "target": "italo_albanian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "maronite_church",
-    "target": "macedonian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "maronite_church",
-    "target": "melkite_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "maronite_church",
-    "target": "romanian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "maronite_church",
-    "target": "ruthenian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "maronite_church",
-    "target": "slovak_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "maronite_church",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "maronite_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "maronite_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syriac_catholic_church",
-    "target": "syro_malankara_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syriac_catholic_church",
-    "target": "armenian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syriac_catholic_church",
-    "target": "bulgarian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syriac_catholic_church",
-    "target": "greek_catholic_church_of_croatia_and_serbia",
-    "strength": 100
-  },
-  {
-    "source": "syriac_catholic_church",
-    "target": "hungarian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syriac_catholic_church",
-    "target": "italo_albanian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syriac_catholic_church",
-    "target": "macedonian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syriac_catholic_church",
-    "target": "melkite_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syriac_catholic_church",
-    "target": "romanian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syriac_catholic_church",
-    "target": "ruthenian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syriac_catholic_church",
-    "target": "slovak_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syriac_catholic_church",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syriac_catholic_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syriac_catholic_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syro_malankara_catholic_church",
-    "target": "armenian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syro_malankara_catholic_church",
-    "target": "bulgarian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syro_malankara_catholic_church",
-    "target": "greek_catholic_church_of_croatia_and_serbia",
-    "strength": 100
-  },
-  {
-    "source": "syro_malankara_catholic_church",
-    "target": "hungarian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syro_malankara_catholic_church",
-    "target": "italo_albanian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syro_malankara_catholic_church",
-    "target": "macedonian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syro_malankara_catholic_church",
-    "target": "melkite_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syro_malankara_catholic_church",
-    "target": "romanian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syro_malankara_catholic_church",
-    "target": "ruthenian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syro_malankara_catholic_church",
-    "target": "slovak_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syro_malankara_catholic_church",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syro_malankara_catholic_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "syro_malankara_catholic_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "armenian_catholic_church",
-    "target": "bulgarian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "armenian_catholic_church",
-    "target": "greek_catholic_church_of_croatia_and_serbia",
-    "strength": 100
-  },
-  {
-    "source": "armenian_catholic_church",
-    "target": "hungarian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "armenian_catholic_church",
-    "target": "italo_albanian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "armenian_catholic_church",
-    "target": "macedonian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "armenian_catholic_church",
-    "target": "melkite_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "armenian_catholic_church",
-    "target": "romanian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "armenian_catholic_church",
-    "target": "ruthenian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "armenian_catholic_church",
-    "target": "slovak_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "armenian_catholic_church",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "armenian_catholic_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "armenian_catholic_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "bulgarian_greek_catholic_church",
-    "target": "greek_catholic_church_of_croatia_and_serbia",
-    "strength": 100
-  },
-  {
-    "source": "bulgarian_greek_catholic_church",
-    "target": "hungarian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "bulgarian_greek_catholic_church",
-    "target": "italo_albanian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "bulgarian_greek_catholic_church",
-    "target": "macedonian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "bulgarian_greek_catholic_church",
-    "target": "melkite_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "bulgarian_greek_catholic_church",
-    "target": "romanian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "bulgarian_greek_catholic_church",
-    "target": "ruthenian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "bulgarian_greek_catholic_church",
-    "target": "slovak_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "bulgarian_greek_catholic_church",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "bulgarian_greek_catholic_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "bulgarian_greek_catholic_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "greek_catholic_church_of_croatia_and_serbia",
-    "target": "hungarian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "greek_catholic_church_of_croatia_and_serbia",
-    "target": "italo_albanian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "greek_catholic_church_of_croatia_and_serbia",
-    "target": "macedonian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "greek_catholic_church_of_croatia_and_serbia",
-    "target": "melkite_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "greek_catholic_church_of_croatia_and_serbia",
-    "target": "romanian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "greek_catholic_church_of_croatia_and_serbia",
-    "target": "ruthenian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "greek_catholic_church_of_croatia_and_serbia",
-    "target": "slovak_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "greek_catholic_church_of_croatia_and_serbia",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "greek_catholic_church_of_croatia_and_serbia",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "greek_catholic_church_of_croatia_and_serbia",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "hungarian_greek_catholic_church",
-    "target": "italo_albanian_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "hungarian_greek_catholic_church",
-    "target": "macedonian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "hungarian_greek_catholic_church",
-    "target": "melkite_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "hungarian_greek_catholic_church",
-    "target": "romanian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "hungarian_greek_catholic_church",
-    "target": "ruthenian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "hungarian_greek_catholic_church",
-    "target": "slovak_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "hungarian_greek_catholic_church",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "hungarian_greek_catholic_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "hungarian_greek_catholic_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "italo_albanian_catholic_church",
-    "target": "macedonian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "italo_albanian_catholic_church",
-    "target": "melkite_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "italo_albanian_catholic_church",
-    "target": "romanian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "italo_albanian_catholic_church",
-    "target": "ruthenian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "italo_albanian_catholic_church",
-    "target": "slovak_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "italo_albanian_catholic_church",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "italo_albanian_catholic_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "italo_albanian_catholic_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "macedonian_greek_catholic_church",
-    "target": "melkite_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "macedonian_greek_catholic_church",
-    "target": "romanian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "macedonian_greek_catholic_church",
-    "target": "ruthenian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "macedonian_greek_catholic_church",
-    "target": "slovak_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "macedonian_greek_catholic_church",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "macedonian_greek_catholic_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "macedonian_greek_catholic_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "melkite_greek_catholic_church",
-    "target": "romanian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "melkite_greek_catholic_church",
-    "target": "ruthenian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "melkite_greek_catholic_church",
-    "target": "slovak_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "melkite_greek_catholic_church",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "melkite_greek_catholic_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "melkite_greek_catholic_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "romanian_greek_catholic_church",
-    "target": "ruthenian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "romanian_greek_catholic_church",
-    "target": "slovak_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "romanian_greek_catholic_church",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "romanian_greek_catholic_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "romanian_greek_catholic_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ruthenian_greek_catholic_church",
-    "target": "slovak_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ruthenian_greek_catholic_church",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ruthenian_greek_catholic_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ruthenian_greek_catholic_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "slovak_greek_catholic_church",
-    "target": "ukrainian_greek_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "slovak_greek_catholic_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "slovak_greek_catholic_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ukrainian_greek_catholic_church",
-    "target": "chaldean_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "ukrainian_greek_catholic_church",
-    "target": "syro_malabar_catholic_church",
-    "strength": 100
-  },
-  {
-    "source": "chaldean_catholic_church",
-    "target": "syro_malabar_catholic_church",
+    "source": "presbyterian_church_east_africa",
+    "target": "church_of_south_india",
     "strength": 100
   }
 ]

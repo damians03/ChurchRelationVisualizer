@@ -1,122 +1,50 @@
 [
-  {
-    "id": "latin_church",
-    "name": "Latin Church",
-    "tradition": "Catholic",
-    "members": 1300000000
-  },
-  {
-    "id": "coptic_catholic_church",
-    "name": "Coptic Catholic Church",
-    "tradition": "Catholic",
-    "members": 174902
-  },
-  {
-    "id": "eritrean_catholic_church",
-    "name": "Eritrean Catholic Church",
-    "tradition": "Catholic",
-    "members": 162528
-  },
-  {
-    "id": "ethiopian_catholic_church",
-    "name": "Ethiopian Catholic Church",
-    "tradition": "Catholic",
-    "members": 70755
-  },
-  {
-    "id": "maronite_church",
-    "name": "Maronite Church",
-    "tradition": "Catholic",
-    "members": 3537690
-  },
-  {
-    "id": "syriac_catholic_church",
-    "name": "Syriac Catholic Church",
-    "tradition": "Catholic",
-    "members": 205440
-  },
-  {
-    "id": "syro_malankara_catholic_church",
-    "name": "Syro-Malankara Catholic Church",
-    "tradition": "Catholic",
-    "members": 450553
-  },
-  {
-    "id": "armenian_catholic_church",
-    "name": "Armenian Catholic Church",
-    "tradition": "Catholic",
-    "members": 736134
-  },
-  {
-    "id": "bulgarian_greek_catholic_church",
-    "name": "Bulgarian Greek Catholic Church",
-    "tradition": "Catholic",
-    "members": 10000
-  },
-  {
-    "id": "greek_catholic_church_of_croatia_and_serbia",
-    "name": "Greek Catholic Church of Croatia and Serbia",
-    "tradition": "Catholic",
-    "members": 44000
-  },
-  {
-    "id": "hungarian_greek_catholic_church",
-    "name": "Hungarian Greek Catholic Church",
-    "tradition": "Catholic",
-    "members": 255000
-  },
-  {
-    "id": "italo_albanian_catholic_church",
-    "name": "Italo-Albanian Catholic Church",
-    "tradition": "Catholic",
-    "members": 56412
-  },
-  {
-    "id": "macedonian_greek_catholic_church",
-    "name": "Macedonian Greek Catholic Church",
-    "tradition": "Catholic",
-    "members": 11491
-  },
-  {
-    "id": "melkite_greek_catholic_church",
-    "name": "Melkite Greek Catholic Church",
-    "tradition": "Catholic",
-    "members": 1522802
-  },
-  {
-    "id": "romanian_greek_catholic_church",
-    "name": "Romanian Greek Catholic Church",
-    "tradition": "Catholic",
-    "members": 512726
-  },
-  {
-    "id": "ruthenian_greek_catholic_church",
-    "name": "Ruthenian Greek Catholic Church",
-    "tradition": "Catholic",
-    "members": 419500
-  },
-  {
-    "id": "slovak_greek_catholic_church",
-    "name": "Slovak Greek Catholic Church",
-    "tradition": "Catholic",
-    "members": 211820
-  },
-  {
-    "id": "ukrainian_greek_catholic_church",
-    "name": "Ukrainian Greek Catholic Church",
-    "tradition": "Catholic",
-    "members": 4636958
-  },
-  {
-    "id": "chaldean_catholic_church",
-    "name": "Chaldean Catholic Church",
-    "tradition": "Catholic",
-    "members": 640828
-  },
-  {
-    "id": "syro_malabar_catholic_church",
-    "name": "Syro-Malabar Church",
-    "tradition": "Catholic",
-    "members": 4189349
-  }
+  
+{
+  "id": "reformed_church_hungary",
+  "name": "Reformed Church in Hungary",
+  "tradition": "Reformed",
+  "members": 1623991
+},
+{
+  "id": "protestant_church_switzerland",
+  "name": "Protestant Church in Switzerland",
+  "tradition": "Reformed",
+  "members": 1782513
+},
+{
+  "id": "pcusa",
+  "name": "Presbyterian Church (USA)",
+  "tradition": "Reformed",
+  "members": 1230000
+},
+{
+  "id": "ucc",
+  "name": "United Church of Christ",
+  "tradition": "Congregationalist",
+  "members": 1180000
+},
+{
+  "id": "protestant_church_netherlands",
+  "name": "Protestant Church in the Netherlands",
+  "tradition": "Dutch_Reformed",
+  "members": 1400000
+},
+{
+  "id": "presbyterian_church_korea",
+  "name": "Presbyterian Church of Korea",
+  "tradition": "Reformed",
+  "members": 2190919
+},{
+  "id": "presbyterian_church_east_africa",
+  "name": "Presbyterian Church of East Africa",
+  "tradition": "Reformed",
+  "members": 4000000
+},
+{
+  "id": "church_of_south_india",
+  "name": "Church of South India",
+  "tradition": "United Protestant",
+  "members": 4000000
+}
 ]
