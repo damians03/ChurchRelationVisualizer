@@ -1,6 +1,6 @@
 import json
 
-INPUT_FILE = "church_data.json"
+INPUT_FILE = "church_data_filtered.json"
 OUTPUT_FILE = "church_data_clean.json"
 
 with open(INPUT_FILE, "r", encoding="utf-8") as file:

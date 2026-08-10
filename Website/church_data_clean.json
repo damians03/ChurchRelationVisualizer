@@ -1,10 +1,94 @@
 {
   "churches": [
     {
-      "id": "roman_catholic",
-      "name": "Roman Catholic Church",
+      "id": "latin_church",
+      "name": "Latin Church",
       "tradition": "Catholic",
       "members": 1300000000
+    },
+    {
+      "id": "coptic_catholic_church",
+      "name": "Coptic Catholic Church",
+      "tradition": "Catholic",
+      "members": 174902
+    },
+    {
+      "id": "eritrean_catholic_church",
+      "name": "Eritrean Catholic Church",
+      "tradition": "Catholic",
+      "members": 162528
+    },
+    {
+      "id": "maronite_church",
+      "name": "Maronite Church",
+      "tradition": "Catholic",
+      "members": 3537690
+    },
+    {
+      "id": "syriac_catholic_church",
+      "name": "Syriac Catholic Church",
+      "tradition": "Catholic",
+      "members": 205440
+    },
+    {
+      "id": "syro_malankara_catholic_church",
+      "name": "Syro-Malankara Catholic Church",
+      "tradition": "Catholic",
+      "members": 450553
+    },
+    {
+      "id": "armenian_catholic_church",
+      "name": "Armenian Catholic Church",
+      "tradition": "Catholic",
+      "members": 736134
+    },
+    {
+      "id": "hungarian_greek_catholic_church",
+      "name": "Hungarian Greek Catholic Church",
+      "tradition": "Catholic",
+      "members": 255000
+    },
+    {
+      "id": "melkite_greek_catholic_church",
+      "name": "Melkite Greek Catholic Church",
+      "tradition": "Catholic",
+      "members": 1522802
+    },
+    {
+      "id": "romanian_greek_catholic_church",
+      "name": "Romanian Greek Catholic Church",
+      "tradition": "Catholic",
+      "members": 512726
+    },
+    {
+      "id": "ruthenian_greek_catholic_church",
+      "name": "Ruthenian Greek Catholic Church",
+      "tradition": "Catholic",
+      "members": 419500
+    },
+    {
+      "id": "slovak_greek_catholic_church",
+      "name": "Slovak Greek Catholic Church",
+      "tradition": "Catholic",
+      "members": 211820
+    },
+    {
+      "id": "ukrainian_greek_catholic_church",
+      "name": "Ukrainian Greek Catholic Church",
+      "tradition": "Catholic",
+      "members": 4636958
+    },
+    {
+      "id": "chaldean_catholic_church",
+      "name": "Chaldean Catholic Church",
+      "tradition": "Catholic",
+      "members": 640828
+    },
+    {
+      "id": "syro_malabar_catholic_church",
+      "name": "Syro-Malabar Church",
+      "tradition": "Catholic",
+      "members": 4189349
     },
     {
       "id": "non_denom",
@@ -271,7 +355,7 @@
       "members": 1009000
     },
     {
-      "id": "evangelical_lutheran_church_of_iceland",
+      "id": "the_evangelical_lutheran_church_of_iceland",
       "name": "Evangelical Lutheran Church of Iceland",
       "tradition": "Lutheran",
       "members": 227259
@@ -365,24 +449,6 @@
       "name": "Anglican Church of Tanzania",
       "tradition": "Anglican",
       "members": 2000000
-    },
-    {
-      "id": "church_of_england",
-      "name": "Church of England",
-      "tradition": "Anglican",
-      "members": 1009000
-    },
-    {
-      "id": "church_of_ireland",
-      "name": "Church of Ireland",
-      "tradition": "Anglican",
-      "members": 343000
-    },
-    {
-      "id": "church_of_nigeria",
-      "name": "Church of Nigeria",
-      "tradition": "Anglican",
-      "members": 18000000
     },
     {
       "id": "church_of_north_india",
@@ -487,24 +553,6 @@
       "members": 3000000
     },
     {
-      "id": "church_of_norway",
-      "name": "Church of Norway",
-      "tradition": "Lutheran",
-      "members": 3611670
-    },
-    {
-      "id": "church_of_sweden",
-      "name": "Church of Sweden",
-      "tradition": "Lutheran",
-      "members": 5484000
-    },
-    {
-      "id": "estonian_evangelical_lutheran_church",
-      "name": "Estonian Evangelical Lutheran Church",
-      "tradition": "Lutheran",
-      "members": 160000
-    },
-    {
       "id": "evangelical_church_in_central_germany",
       "name": "Evangelical Church in Central Germany",
       "tradition": "Lutheran",
@@ -601,12 +649,6 @@
       "members": 309881
     },
     {
-      "id": "evangelical_lutheran_church_of_finland",
-      "name": "Evangelical Lutheran Church of Finland",
-      "tradition": "Lutheran",
-      "members": 3579616
-    },
-    {
       "id": "evangelical_lutheran_church_of_hanover",
       "name": "Evangelical Lutheran Church of Hanover",
       "tradition": "Lutheran",
@@ -679,43 +721,37 @@
       "members": 227690
     },
     {
-      "id": "ethiopian_evangelical_church_mekane_yesus",
+      "id": "the_ethiopian_evangelical_church_mekane_yesus",
       "name": "The Ethiopian Evangelical Church Mekane Yesus",
       "tradition": "Lutheran",
       "members": 12000000
     },
     {
-      "id": "evangelical_lutheran_church_in_hungary",
+      "id": "the_evangelical_lutheran_church_in_hungary",
       "name": "The Evangelical Lutheran Church in Hungary",
       "tradition": "Lutheran",
       "members": 176000
     },
     {
-      "id": "evangelical_lutheran_church_in_namibia_elcin",
+      "id": "the_evangelical_lutheran_church_in_namibia_elcin",
       "name": "The Evangelical Lutheran Church in Namibia (ELCIN)",
       "tradition": "Lutheran",
       "members": 853522
     },
     {
-      "id": "evangelical_lutheran_church_of_iceland",
-      "name": "The Evangelical Lutheran Church of Iceland",
-      "tradition": "Lutheran",
-      "members": 227259
-    },
-    {
-      "id": "lutheran_church_of_christ_in_nigeria",
+      "id": "the_lutheran_church_of_christ_in_nigeria",
       "name": "The Lutheran Church of Christ in Nigeria",
       "tradition": "Lutheran",
       "members": 2200000
     },
     {
-      "id": "protestant_christian_church_bnkp",
+      "id": "the_protestant_christian_church_bnkp",
       "name": "The Protestant Christian Church (BNKP)",
       "tradition": "Lutheran",
       "members": 464012
     },
     {
-      "id": "tamil_evangelical_lutheran_church",
+      "id": "the_tamil_evangelical_lutheran_church",
       "name": "The Tamil Evangelical Lutheran Church",
       "tradition": "Lutheran",
       "members": 100000
@@ -729,47 +765,47 @@
   ],
   "relationships": [
     {
-      "source": "roman_catholic",
+      "source": "latin_church",
       "target": "greek_orthodox",
       "strength": 25
     },
     {
-      "source": "roman_catholic",
+      "source": "latin_church",
       "target": "russian_orthodox",
       "strength": 25
     },
     {
-      "source": "roman_catholic",
+      "source": "latin_church",
       "target": "serbian_orthodox",
       "strength": 25
     },
     {
-      "source": "roman_catholic",
+      "source": "latin_church",
       "target": "romanian_orthodox",
       "strength": 25
     },
     {
-      "source": "roman_catholic",
+      "source": "latin_church",
       "target": "coptic_orthodox",
       "strength": 25
     },
     {
-      "source": "roman_catholic",
+      "source": "latin_church",
       "target": "armenian_apostolic",
       "strength": 25
     },
     {
-      "source": "roman_catholic",
+      "source": "latin_church",
       "target": "syriac_orthodox",
       "strength": 25
     },
     {
-      "source": "roman_catholic",
+      "source": "latin_church",
       "target": "ethiopian_orthodox",
       "strength": 25
     },
     {
-      "source": "roman_catholic",
+      "source": "latin_church",
       "target": "assyrian_church",
       "strength": 25
     },
@@ -787,11 +823,6 @@
       "source": "greek_orthodox",
       "target": "romanian_orthodox",
       "strength": 100
-    },
-    {
-      "source": "greek_orthodox",
-      "target": "roman_catholic",
-      "strength": 25
     },
     {
       "source": "greek_orthodox",
@@ -830,11 +861,6 @@
     },
     {
       "source": "russian_orthodox",
-      "target": "roman_catholic",
-      "strength": 25
-    },
-    {
-      "source": "russian_orthodox",
       "target": "coptic_orthodox",
       "strength": 25
     },
@@ -857,16 +883,6 @@
       "source": "russian_orthodox",
       "target": "assyrian_church",
       "strength": 5
-    },
-    {
-      "source": "serbian_orthodox",
-      "target": "greek_orthodox",
-      "strength": 100
-    },
-    {
-      "source": "serbian_orthodox",
-      "target": "russian_orthodox",
-      "strength": 100
     },
     {
       "source": "serbian_orthodox",
@@ -875,11 +891,6 @@
     },
     {
       "source": "serbian_orthodox",
-      "target": "roman_catholic",
-      "strength": 25
-    },
-    {
-      "source": "serbian_orthodox",
       "target": "coptic_orthodox",
       "strength": 25
     },
@@ -902,26 +913,6 @@
       "source": "serbian_orthodox",
       "target": "assyrian_church",
       "strength": 5
-    },
-    {
-      "source": "romanian_orthodox",
-      "target": "greek_orthodox",
-      "strength": 100
-    },
-    {
-      "source": "romanian_orthodox",
-      "target": "russian_orthodox",
-      "strength": 100
-    },
-    {
-      "source": "romanian_orthodox",
-      "target": "serbian_orthodox",
-      "strength": 100
-    },
-    {
-      "source": "romanian_orthodox",
-      "target": "roman_catholic",
-      "strength": 25
     },
     {
       "source": "romanian_orthodox",
@@ -950,31 +941,6 @@
     },
     {
       "source": "coptic_orthodox",
-      "target": "roman_catholic",
-      "strength": 25
-    },
-    {
-      "source": "coptic_orthodox",
-      "target": "greek_orthodox",
-      "strength": 25
-    },
-    {
-      "source": "coptic_orthodox",
-      "target": "russian_orthodox",
-      "strength": 25
-    },
-    {
-      "source": "coptic_orthodox",
-      "target": "serbian_orthodox",
-      "strength": 25
-    },
-    {
-      "source": "coptic_orthodox",
-      "target": "romanian_orthodox",
-      "strength": 25
-    },
-    {
-      "source": "coptic_orthodox",
       "target": "armenian_apostolic",
       "strength": 100
     },
@@ -992,11 +958,6 @@
       "source": "coptic_orthodox",
       "target": "assyrian_church",
       "strength": 25
-    },
-    {
-      "source": "armenian_apostolic",
-      "target": "coptic_orthodox",
-      "strength": 100
     },
     {
       "source": "armenian_apostolic",
@@ -1015,23 +976,8 @@
     },
     {
       "source": "armenian_apostolic",
-      "target": "roman_catholic",
-      "strength": 25
-    },
-    {
-      "source": "armenian_apostolic",
       "target": "assyrian_church",
       "strength": 25
-    },
-    {
-      "source": "syriac_orthodox",
-      "target": "coptic_orthodox",
-      "strength": 100
-    },
-    {
-      "source": "syriac_orthodox",
-      "target": "armenian_apostolic",
-      "strength": 100
     },
     {
       "source": "syriac_orthodox",
@@ -1045,28 +991,8 @@
     },
     {
       "source": "syriac_orthodox",
-      "target": "roman_catholic",
-      "strength": 25
-    },
-    {
-      "source": "syriac_orthodox",
       "target": "assyrian_church",
       "strength": 25
-    },
-    {
-      "source": "ethiopian_orthodox",
-      "target": "coptic_orthodox",
-      "strength": 100
-    },
-    {
-      "source": "ethiopian_orthodox",
-      "target": "armenian_apostolic",
-      "strength": 100
-    },
-    {
-      "source": "ethiopian_orthodox",
-      "target": "syriac_orthodox",
-      "strength": 100
     },
     {
       "source": "ethiopian_orthodox",
@@ -1075,42 +1001,12 @@
     },
     {
       "source": "ethiopian_orthodox",
-      "target": "roman_catholic",
-      "strength": 25
-    },
-    {
-      "source": "ethiopian_orthodox",
       "target": "assyrian_church",
-      "strength": 25
-    },
-    {
-      "source": "assyrian_church",
-      "target": "roman_catholic",
-      "strength": 25
-    },
-    {
-      "source": "assyrian_church",
-      "target": "coptic_orthodox",
-      "strength": 25
-    },
-    {
-      "source": "assyrian_church",
-      "target": "armenian_apostolic",
-      "strength": 25
-    },
-    {
-      "source": "assyrian_church",
-      "target": "syriac_orthodox",
-      "strength": 25
-    },
-    {
-      "source": "assyrian_church",
-      "target": "ethiopian_orthodox",
       "strength": 25
     },
     {
       "source": "church_of_england",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 25
     },
     {
@@ -1150,12 +1046,7 @@
     },
     {
       "source": "episcopal",
-      "target": "church_of_england",
-      "strength": 100
-    },
-    {
-      "source": "episcopal",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 5
     },
     {
@@ -1205,7 +1096,7 @@
     },
     {
       "source": "anglican_canada",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 5
     },
     {
@@ -1241,21 +1132,6 @@
     {
       "source": "anglican_canada",
       "target": "umc",
-      "strength": 25
-    },
-    {
-      "source": "elca",
-      "target": "episcopal",
-      "strength": 100
-    },
-    {
-      "source": "elca",
-      "target": "church_of_england",
-      "strength": 25
-    },
-    {
-      "source": "elca",
-      "target": "anglican_canada",
       "strength": 25
     },
     {
@@ -1280,22 +1156,12 @@
     },
     {
       "source": "elca",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 5
     },
     {
       "source": "lcms",
       "target": "lutheran_church_canada",
-      "strength": 100
-    },
-    {
-      "source": "umc",
-      "target": "elca",
-      "strength": 100
-    },
-    {
-      "source": "umc",
-      "target": "episcopal",
       "strength": 100
     },
     {
@@ -1310,7 +1176,7 @@
     },
     {
       "source": "umc",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 5
     },
     {
@@ -1355,42 +1221,12 @@
     },
     {
       "source": "rca",
-      "target": "crcna",
-      "strength": 100
-    },
-    {
-      "source": "rca",
-      "target": "elca",
-      "strength": 100
-    },
-    {
-      "source": "rca",
       "target": "pcusa",
       "strength": 100
     },
     {
       "source": "rca",
       "target": "umc",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "rca",
-      "strength": 100
-    },
-    {
-      "source": "pcusa",
-      "target": "elca",
-      "strength": 100
-    },
-    {
-      "source": "pcusa",
-      "target": "umc",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "abcusa",
       "strength": 25
     },
     {
@@ -1465,18 +1301,13 @@
     },
     {
       "source": "assemblies_of_god",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 5
     },
     {
       "source": "assemblies_of_god",
       "target": "greek_orthodox",
       "strength": 5
-    },
-    {
-      "source": "church_of_god",
-      "target": "assemblies_of_god",
-      "strength": 25
     },
     {
       "source": "church_of_god",
@@ -1500,18 +1331,8 @@
     },
     {
       "source": "church_of_god",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 5
-    },
-    {
-      "source": "sbc",
-      "target": "assemblies_of_god",
-      "strength": 25
-    },
-    {
-      "source": "sbc",
-      "target": "church_of_god",
-      "strength": 25
     },
     {
       "source": "sbc",
@@ -1550,7 +1371,7 @@
     },
     {
       "source": "sbc",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 5
     },
     {
@@ -1580,42 +1401,12 @@
     },
     {
       "source": "moravian",
-      "target": "elca",
-      "strength": 100
-    },
-    {
-      "source": "moravian",
-      "target": "ucc",
-      "strength": 100
-    },
-    {
-      "source": "moravian",
       "target": "episcopal",
       "strength": 100
     },
     {
       "source": "eritrea_orthodox",
       "target": "coptic_orthodox",
-      "strength": 100
-    },
-    {
-      "source": "eritrea_orthodox",
-      "target": "armenian_apostolic",
-      "strength": 100
-    },
-    {
-      "source": "eritrea_orthodox",
-      "target": "syriac_orthodox",
-      "strength": 100
-    },
-    {
-      "source": "eritrea_orthodox",
-      "target": "ethiopian_orthodox",
-      "strength": 100
-    },
-    {
-      "source": "lutheran_church_canada",
-      "target": "lcms",
       "strength": 100
     },
     {
@@ -1670,7 +1461,7 @@
     },
     {
       "source": "evangelical_church_germany",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 5
     },
     {
@@ -1700,17 +1491,12 @@
     },
     {
       "source": "church_of_sweden",
-      "target": "evangelical_church_germany",
-      "strength": 100
-    },
-    {
-      "source": "church_of_sweden",
       "target": "umc",
       "strength": 25
     },
     {
       "source": "church_of_sweden",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 5
     },
     {
@@ -1740,11 +1526,6 @@
     },
     {
       "source": "church_of_norway",
-      "target": "evangelical_church_germany",
-      "strength": 100
-    },
-    {
-      "source": "church_of_norway",
       "target": "episcopal",
       "strength": 100
     },
@@ -1755,7 +1536,7 @@
     },
     {
       "source": "church_of_norway",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 5
     },
     {
@@ -1845,7 +1626,7 @@
     },
     {
       "source": "malankara_orthodox",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 25
     },
     {
@@ -1880,7 +1661,7 @@
     },
     {
       "source": "malankara_jacobite",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 25
     },
     {
@@ -1935,7 +1716,7 @@
     },
     {
       "source": "seventh_day_adventist",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 5
     },
     {
@@ -1970,7 +1751,7 @@
     },
     {
       "source": "vineyard",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 5
     },
     {
@@ -2005,13 +1786,8 @@
     },
     {
       "source": "calvary_chapel",
-      "target": "roman_catholic",
+      "target": "latin_church",
       "strength": 5
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "sbc",
-      "strength": 25
     },
     {
       "source": "churches_of_christ",
@@ -2090,7 +1866,7 @@
     },
     {
       "source": "estonian_evangelical_lutheran_church",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
@@ -2105,22 +1881,12 @@
     },
     {
       "source": "church_of_sweden",
-      "target": "church_of_norway",
-      "strength": 100
-    },
-    {
-      "source": "church_of_sweden",
       "target": "church_of_ireland",
       "strength": 100
     },
     {
       "source": "church_of_sweden",
-      "target": "church_of_england",
-      "strength": 100
-    },
-    {
-      "source": "church_of_sweden",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
@@ -2140,12 +1906,7 @@
     },
     {
       "source": "church_of_norway",
-      "target": "church_of_england",
-      "strength": 100
-    },
-    {
-      "source": "church_of_norway",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
@@ -2165,7 +1926,7 @@
     },
     {
       "source": "church_of_ireland",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
@@ -2180,7 +1941,7 @@
     },
     {
       "source": "church_of_england",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
@@ -2194,12 +1955,12 @@
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_of_iceland",
+      "source": "the_evangelical_lutheran_church_of_iceland",
       "target": "evangelical_lutheran_church_of_finland",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_of_iceland",
+      "source": "the_evangelical_lutheran_church_of_iceland",
       "target": "evangelical_lutheran_church_of_denmark",
       "strength": 100
     },
@@ -3245,16 +3006,6 @@
     },
     {
       "source": "church_of_england",
-      "target": "church_of_ireland",
-      "strength": 100
-    },
-    {
-      "source": "church_of_england",
-      "target": "church_of_nigeria",
-      "strength": 100
-    },
-    {
-      "source": "church_of_england",
       "target": "church_of_north_india",
       "strength": 100
     },
@@ -4260,52 +4011,42 @@
     },
     {
       "source": "andhra_evangelical_lutheran_church",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "andhra_evangelical_lutheran_church",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "andhra_evangelical_lutheran_church",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "andhra_evangelical_lutheran_church",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "andhra_evangelical_lutheran_church",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "andhra_evangelical_lutheran_church",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "andhra_evangelical_lutheran_church",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
       "source": "andhra_evangelical_lutheran_church",
       "target": "union_of_protestant_churches_of_alsace_and_lorraine",
-      "strength": 100
-    },
-    {
-      "source": "church_of_norway",
-      "target": "church_of_sweden",
-      "strength": 100
-    },
-    {
-      "source": "church_of_norway",
-      "target": "estonian_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -4390,11 +4131,6 @@
     },
     {
       "source": "church_of_norway",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 100
-    },
-    {
-      "source": "church_of_norway",
       "target": "evangelical_lutheran_church_of_hanover",
       "strength": 100
     },
@@ -4455,47 +4191,37 @@
     },
     {
       "source": "church_of_norway",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "church_of_norway",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "church_of_norway",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "church_of_norway",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "church_of_norway",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "church_of_norway",
-      "target": "protestant_christian_church_bnkp",
-      "strength": 100
-    },
-    {
-      "source": "church_of_norway",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
       "source": "church_of_norway",
       "target": "union_of_protestant_churches_of_alsace_and_lorraine",
-      "strength": 100
-    },
-    {
-      "source": "church_of_sweden",
-      "target": "estonian_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -4580,11 +4306,6 @@
     },
     {
       "source": "church_of_sweden",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 100
-    },
-    {
-      "source": "church_of_sweden",
       "target": "evangelical_lutheran_church_of_hanover",
       "strength": 100
     },
@@ -4645,37 +4366,32 @@
     },
     {
       "source": "church_of_sweden",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "church_of_sweden",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "church_of_sweden",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "church_of_sweden",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "church_of_sweden",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "church_of_sweden",
-      "target": "protestant_christian_church_bnkp",
-      "strength": 100
-    },
-    {
-      "source": "church_of_sweden",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -4765,11 +4481,6 @@
     },
     {
       "source": "estonian_evangelical_lutheran_church",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 100
-    },
-    {
-      "source": "estonian_evangelical_lutheran_church",
       "target": "evangelical_lutheran_church_of_hanover",
       "strength": 100
     },
@@ -4830,37 +4541,32 @@
     },
     {
       "source": "estonian_evangelical_lutheran_church",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "estonian_evangelical_lutheran_church",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "estonian_evangelical_lutheran_church",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "estonian_evangelical_lutheran_church",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "estonian_evangelical_lutheran_church",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "estonian_evangelical_lutheran_church",
-      "target": "protestant_christian_church_bnkp",
-      "strength": 100
-    },
-    {
-      "source": "estonian_evangelical_lutheran_church",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -5010,37 +4716,37 @@
     },
     {
       "source": "evangelical_church_in_central_germany",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_church_in_central_germany",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_church_in_central_germany",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_church_in_central_germany",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_church_in_central_germany",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_church_in_central_germany",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_church_in_central_germany",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -5185,37 +4891,37 @@
     },
     {
       "source": "evangelical_church_of_the_augsburg_confession_in_austria",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_augsburg_confession_in_austria",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_augsburg_confession_in_austria",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_augsburg_confession_in_austria",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_augsburg_confession_in_austria",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_augsburg_confession_in_austria",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_augsburg_confession_in_austria",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -5355,37 +5061,37 @@
     },
     {
       "source": "evangelical_church_of_the_augsburg_confession_in_the_slovak_republic",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_augsburg_confession_in_the_slovak_republic",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_augsburg_confession_in_the_slovak_republic",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_augsburg_confession_in_the_slovak_republic",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_augsburg_confession_in_the_slovak_republic",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_augsburg_confession_in_the_slovak_republic",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_augsburg_confession_in_the_slovak_republic",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -5520,37 +5226,37 @@
     },
     {
       "source": "evangelical_church_of_the_lutheran_confession_in_brazil",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_lutheran_confession_in_brazil",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_lutheran_confession_in_brazil",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_lutheran_confession_in_brazil",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_lutheran_confession_in_brazil",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_lutheran_confession_in_brazil",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_church_of_the_lutheran_confession_in_brazil",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -5680,37 +5386,37 @@
     },
     {
       "source": "evangelical_lutheran_church_in_america",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_america",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_america",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_america",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_america",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_america",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_america",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -5835,37 +5541,37 @@
     },
     {
       "source": "evangelical_lutheran_church_in_bavaria",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_bavaria",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_bavaria",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_bavaria",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_bavaria",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_bavaria",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_bavaria",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -5985,37 +5691,37 @@
     },
     {
       "source": "evangelical_lutheran_church_in_brunswick",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_brunswick",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_brunswick",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_brunswick",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_brunswick",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_brunswick",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_brunswick",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -6130,37 +5836,37 @@
     },
     {
       "source": "evangelical_lutheran_church_in_denmark",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_denmark",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_denmark",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_denmark",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_denmark",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_denmark",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_denmark",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -6270,37 +5976,37 @@
     },
     {
       "source": "evangelical_lutheran_church_in_malawi",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_malawi",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_malawi",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_malawi",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_malawi",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_malawi",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_malawi",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -6405,37 +6111,37 @@
     },
     {
       "source": "evangelical_lutheran_church_in_northern_germany",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_northern_germany",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_northern_germany",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_northern_germany",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_northern_germany",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_northern_germany",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_northern_germany",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -6535,37 +6241,37 @@
     },
     {
       "source": "evangelical_lutheran_church_in_oldenburg",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_oldenburg",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_oldenburg",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_oldenburg",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_oldenburg",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_oldenburg",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_oldenburg",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -6660,37 +6366,37 @@
     },
     {
       "source": "evangelical_lutheran_church_in_southern_africa_elcsa",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_southern_africa_elcsa",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_southern_africa_elcsa",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_southern_africa_elcsa",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_southern_africa_elcsa",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_southern_africa_elcsa",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_southern_africa_elcsa",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -6780,37 +6486,37 @@
     },
     {
       "source": "evangelical_lutheran_church_in_tanzania",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_tanzania",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_tanzania",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_tanzania",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_tanzania",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_tanzania",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_tanzania",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -6895,37 +6601,37 @@
     },
     {
       "source": "evangelical_lutheran_church_in_the_republic_of_namibia_elcrn",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_the_republic_of_namibia_elcrn",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_the_republic_of_namibia_elcrn",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_the_republic_of_namibia_elcrn",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_the_republic_of_namibia_elcrn",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_the_republic_of_namibia_elcrn",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_the_republic_of_namibia_elcrn",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -7005,37 +6711,37 @@
     },
     {
       "source": "evangelical_lutheran_church_in_w_rttemberg",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_w_rttemberg",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_w_rttemberg",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_w_rttemberg",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_w_rttemberg",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_w_rttemberg",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_w_rttemberg",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -7110,37 +6816,37 @@
     },
     {
       "source": "evangelical_lutheran_church_in_zimbabwe",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_zimbabwe",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_zimbabwe",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_zimbabwe",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_zimbabwe",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_zimbabwe",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_in_zimbabwe",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -7210,37 +6916,32 @@
     },
     {
       "source": "evangelical_lutheran_church_of_finland",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_finland",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_finland",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_finland",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_finland",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_finland",
-      "target": "protestant_christian_church_bnkp",
-      "strength": 100
-    },
-    {
-      "source": "evangelical_lutheran_church_of_finland",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -7305,37 +7006,37 @@
     },
     {
       "source": "evangelical_lutheran_church_of_hanover",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_hanover",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_hanover",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_hanover",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_hanover",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_hanover",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_hanover",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -7395,37 +7096,37 @@
     },
     {
       "source": "evangelical_lutheran_church_of_latvia",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_latvia",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_latvia",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_latvia",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_latvia",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_latvia",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_latvia",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -7480,37 +7181,37 @@
     },
     {
       "source": "evangelical_lutheran_church_of_papua_new_guinea",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_papua_new_guinea",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_papua_new_guinea",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_papua_new_guinea",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_papua_new_guinea",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_papua_new_guinea",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_papua_new_guinea",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -7560,37 +7261,37 @@
     },
     {
       "source": "evangelical_lutheran_church_of_saxony",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_saxony",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_saxony",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_saxony",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_saxony",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_saxony",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_saxony",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -7635,37 +7336,37 @@
     },
     {
       "source": "gossner_evangelical_lutheran_church_in_chotanagpur_and_assam",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "gossner_evangelical_lutheran_church_in_chotanagpur_and_assam",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "gossner_evangelical_lutheran_church_in_chotanagpur_and_assam",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "gossner_evangelical_lutheran_church_in_chotanagpur_and_assam",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "gossner_evangelical_lutheran_church_in_chotanagpur_and_assam",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "gossner_evangelical_lutheran_church_in_chotanagpur_and_assam",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "gossner_evangelical_lutheran_church_in_chotanagpur_and_assam",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -7705,37 +7406,37 @@
     },
     {
       "source": "gutnius_lutheran_church_papua_new_guinea",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "gutnius_lutheran_church_papua_new_guinea",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "gutnius_lutheran_church_papua_new_guinea",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "gutnius_lutheran_church_papua_new_guinea",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "gutnius_lutheran_church_papua_new_guinea",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "gutnius_lutheran_church_papua_new_guinea",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "gutnius_lutheran_church_papua_new_guinea",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -7770,37 +7471,37 @@
     },
     {
       "source": "lutheran_church_of_australia",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "lutheran_church_of_australia",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "lutheran_church_of_australia",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "lutheran_church_of_australia",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "lutheran_church_of_australia",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "lutheran_church_of_australia",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "lutheran_church_of_australia",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -7830,37 +7531,37 @@
     },
     {
       "source": "malagasy_lutheran_church",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "malagasy_lutheran_church",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "malagasy_lutheran_church",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "malagasy_lutheran_church",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "malagasy_lutheran_church",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "malagasy_lutheran_church",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "malagasy_lutheran_church",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -7885,37 +7586,37 @@
     },
     {
       "source": "northern_evangelical_lutheran_church",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "northern_evangelical_lutheran_church",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "northern_evangelical_lutheran_church",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "northern_evangelical_lutheran_church",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "northern_evangelical_lutheran_church",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "northern_evangelical_lutheran_church",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "northern_evangelical_lutheran_church",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -7935,37 +7636,37 @@
     },
     {
       "source": "protestant_christian_batak_church_hkbp",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "protestant_christian_batak_church_hkbp",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "protestant_christian_batak_church_hkbp",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "protestant_christian_batak_church_hkbp",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "protestant_christian_batak_church_hkbp",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "protestant_christian_batak_church_hkbp",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "protestant_christian_batak_church_hkbp",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -7980,37 +7681,37 @@
     },
     {
       "source": "protestant_church_in_the_netherlands",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "protestant_church_in_the_netherlands",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "protestant_church_in_the_netherlands",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "protestant_church_in_the_netherlands",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "protestant_church_in_the_netherlands",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "protestant_church_in_the_netherlands",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "protestant_church_in_the_netherlands",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -8020,37 +7721,37 @@
     },
     {
       "source": "simalungun_protestant_christian_church_gkps",
-      "target": "ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_ethiopian_evangelical_church_mekane_yesus",
       "strength": 100
     },
     {
       "source": "simalungun_protestant_christian_church_gkps",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
       "source": "simalungun_protestant_christian_church_gkps",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
       "source": "simalungun_protestant_christian_church_gkps",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
       "source": "simalungun_protestant_christian_church_gkps",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
       "source": "simalungun_protestant_christian_church_gkps",
-      "target": "protestant_christian_church_bnkp",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
       "source": "simalungun_protestant_christian_church_gkps",
-      "target": "tamil_evangelical_lutheran_church",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
@@ -8059,143 +7760,668 @@
       "strength": 100
     },
     {
-      "source": "ethiopian_evangelical_church_mekane_yesus",
-      "target": "evangelical_lutheran_church_in_hungary",
+      "source": "the_ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_evangelical_lutheran_church_in_hungary",
       "strength": 100
     },
     {
-      "source": "ethiopian_evangelical_church_mekane_yesus",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "source": "the_ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
-      "source": "ethiopian_evangelical_church_mekane_yesus",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "source": "the_ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
-      "source": "ethiopian_evangelical_church_mekane_yesus",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "source": "the_ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
-      "source": "ethiopian_evangelical_church_mekane_yesus",
-      "target": "protestant_christian_church_bnkp",
+      "source": "the_ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
-      "source": "ethiopian_evangelical_church_mekane_yesus",
-      "target": "tamil_evangelical_lutheran_church",
+      "source": "the_ethiopian_evangelical_church_mekane_yesus",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
-      "source": "ethiopian_evangelical_church_mekane_yesus",
+      "source": "the_ethiopian_evangelical_church_mekane_yesus",
       "target": "union_of_protestant_churches_of_alsace_and_lorraine",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_hungary",
-      "target": "evangelical_lutheran_church_in_namibia_elcin",
+      "source": "the_evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_in_namibia_elcin",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_hungary",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "source": "the_evangelical_lutheran_church_in_hungary",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_hungary",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "source": "the_evangelical_lutheran_church_in_hungary",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_hungary",
-      "target": "protestant_christian_church_bnkp",
+      "source": "the_evangelical_lutheran_church_in_hungary",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_hungary",
-      "target": "tamil_evangelical_lutheran_church",
+      "source": "the_evangelical_lutheran_church_in_hungary",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_hungary",
+      "source": "the_evangelical_lutheran_church_in_hungary",
       "target": "union_of_protestant_churches_of_alsace_and_lorraine",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_namibia_elcin",
-      "target": "evangelical_lutheran_church_of_iceland",
+      "source": "the_evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_evangelical_lutheran_church_of_iceland",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_namibia_elcin",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "source": "the_evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_namibia_elcin",
-      "target": "protestant_christian_church_bnkp",
+      "source": "the_evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_namibia_elcin",
-      "target": "tamil_evangelical_lutheran_church",
+      "source": "the_evangelical_lutheran_church_in_namibia_elcin",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_namibia_elcin",
+      "source": "the_evangelical_lutheran_church_in_namibia_elcin",
       "target": "union_of_protestant_churches_of_alsace_and_lorraine",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_of_iceland",
-      "target": "lutheran_church_of_christ_in_nigeria",
+      "source": "the_evangelical_lutheran_church_of_iceland",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_of_iceland",
-      "target": "protestant_christian_church_bnkp",
+      "source": "the_evangelical_lutheran_church_of_iceland",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_of_iceland",
-      "target": "tamil_evangelical_lutheran_church",
+      "source": "the_evangelical_lutheran_church_of_iceland",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_of_iceland",
+      "source": "the_evangelical_lutheran_church_of_iceland",
       "target": "union_of_protestant_churches_of_alsace_and_lorraine",
       "strength": 100
     },
     {
-      "source": "lutheran_church_of_christ_in_nigeria",
-      "target": "protestant_christian_church_bnkp",
+      "source": "the_lutheran_church_of_christ_in_nigeria",
+      "target": "the_protestant_christian_church_bnkp",
       "strength": 100
     },
     {
-      "source": "lutheran_church_of_christ_in_nigeria",
-      "target": "tamil_evangelical_lutheran_church",
+      "source": "the_lutheran_church_of_christ_in_nigeria",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
-      "source": "lutheran_church_of_christ_in_nigeria",
+      "source": "the_lutheran_church_of_christ_in_nigeria",
       "target": "union_of_protestant_churches_of_alsace_and_lorraine",
       "strength": 100
     },
     {
-      "source": "protestant_christian_church_bnkp",
-      "target": "tamil_evangelical_lutheran_church",
+      "source": "the_protestant_christian_church_bnkp",
+      "target": "the_tamil_evangelical_lutheran_church",
       "strength": 100
     },
     {
-      "source": "protestant_christian_church_bnkp",
+      "source": "the_protestant_christian_church_bnkp",
       "target": "union_of_protestant_churches_of_alsace_and_lorraine",
       "strength": 100
     },
     {
-      "source": "tamil_evangelical_lutheran_church",
+      "source": "the_tamil_evangelical_lutheran_church",
       "target": "union_of_protestant_churches_of_alsace_and_lorraine",
+      "strength": 100
+    },
+    {
+      "source": "latin_church",
+      "target": "coptic_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "latin_church",
+      "target": "eritrean_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "latin_church",
+      "target": "maronite_church",
+      "strength": 100
+    },
+    {
+      "source": "latin_church",
+      "target": "syriac_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "latin_church",
+      "target": "syro_malankara_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "latin_church",
+      "target": "armenian_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "latin_church",
+      "target": "hungarian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "latin_church",
+      "target": "melkite_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "latin_church",
+      "target": "romanian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "latin_church",
+      "target": "ruthenian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "latin_church",
+      "target": "slovak_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "latin_church",
+      "target": "ukrainian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "latin_church",
+      "target": "chaldean_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "latin_church",
+      "target": "syro_malabar_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "coptic_catholic_church",
+      "target": "eritrean_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "coptic_catholic_church",
+      "target": "maronite_church",
+      "strength": 100
+    },
+    {
+      "source": "coptic_catholic_church",
+      "target": "syriac_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "coptic_catholic_church",
+      "target": "syro_malankara_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "coptic_catholic_church",
+      "target": "armenian_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "coptic_catholic_church",
+      "target": "hungarian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "coptic_catholic_church",
+      "target": "melkite_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "coptic_catholic_church",
+      "target": "romanian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "coptic_catholic_church",
+      "target": "ruthenian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "coptic_catholic_church",
+      "target": "slovak_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "coptic_catholic_church",
+      "target": "ukrainian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "coptic_catholic_church",
+      "target": "chaldean_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "coptic_catholic_church",
+      "target": "syro_malabar_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "eritrean_catholic_church",
+      "target": "maronite_church",
+      "strength": 100
+    },
+    {
+      "source": "eritrean_catholic_church",
+      "target": "syriac_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "eritrean_catholic_church",
+      "target": "syro_malankara_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "eritrean_catholic_church",
+      "target": "armenian_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "eritrean_catholic_church",
+      "target": "hungarian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "eritrean_catholic_church",
+      "target": "melkite_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "eritrean_catholic_church",
+      "target": "romanian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "eritrean_catholic_church",
+      "target": "ruthenian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "eritrean_catholic_church",
+      "target": "slovak_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "eritrean_catholic_church",
+      "target": "ukrainian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "eritrean_catholic_church",
+      "target": "chaldean_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "eritrean_catholic_church",
+      "target": "syro_malabar_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "maronite_church",
+      "target": "syriac_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "maronite_church",
+      "target": "syro_malankara_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "maronite_church",
+      "target": "armenian_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "maronite_church",
+      "target": "hungarian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "maronite_church",
+      "target": "melkite_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "maronite_church",
+      "target": "romanian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "maronite_church",
+      "target": "ruthenian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "maronite_church",
+      "target": "slovak_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "maronite_church",
+      "target": "ukrainian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "maronite_church",
+      "target": "chaldean_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "maronite_church",
+      "target": "syro_malabar_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syriac_catholic_church",
+      "target": "syro_malankara_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syriac_catholic_church",
+      "target": "armenian_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syriac_catholic_church",
+      "target": "hungarian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syriac_catholic_church",
+      "target": "melkite_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syriac_catholic_church",
+      "target": "romanian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syriac_catholic_church",
+      "target": "ruthenian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syriac_catholic_church",
+      "target": "slovak_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syriac_catholic_church",
+      "target": "ukrainian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syriac_catholic_church",
+      "target": "chaldean_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syriac_catholic_church",
+      "target": "syro_malabar_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syro_malankara_catholic_church",
+      "target": "armenian_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syro_malankara_catholic_church",
+      "target": "hungarian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syro_malankara_catholic_church",
+      "target": "melkite_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syro_malankara_catholic_church",
+      "target": "romanian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syro_malankara_catholic_church",
+      "target": "ruthenian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syro_malankara_catholic_church",
+      "target": "slovak_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syro_malankara_catholic_church",
+      "target": "ukrainian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syro_malankara_catholic_church",
+      "target": "chaldean_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "syro_malankara_catholic_church",
+      "target": "syro_malabar_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "armenian_catholic_church",
+      "target": "hungarian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "armenian_catholic_church",
+      "target": "melkite_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "armenian_catholic_church",
+      "target": "romanian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "armenian_catholic_church",
+      "target": "ruthenian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "armenian_catholic_church",
+      "target": "slovak_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "armenian_catholic_church",
+      "target": "ukrainian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "armenian_catholic_church",
+      "target": "chaldean_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "armenian_catholic_church",
+      "target": "syro_malabar_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "hungarian_greek_catholic_church",
+      "target": "melkite_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "hungarian_greek_catholic_church",
+      "target": "romanian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "hungarian_greek_catholic_church",
+      "target": "ruthenian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "hungarian_greek_catholic_church",
+      "target": "slovak_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "hungarian_greek_catholic_church",
+      "target": "ukrainian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "hungarian_greek_catholic_church",
+      "target": "chaldean_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "hungarian_greek_catholic_church",
+      "target": "syro_malabar_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "melkite_greek_catholic_church",
+      "target": "romanian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "melkite_greek_catholic_church",
+      "target": "ruthenian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "melkite_greek_catholic_church",
+      "target": "slovak_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "melkite_greek_catholic_church",
+      "target": "ukrainian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "melkite_greek_catholic_church",
+      "target": "chaldean_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "melkite_greek_catholic_church",
+      "target": "syro_malabar_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "romanian_greek_catholic_church",
+      "target": "ruthenian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "romanian_greek_catholic_church",
+      "target": "slovak_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "romanian_greek_catholic_church",
+      "target": "ukrainian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "romanian_greek_catholic_church",
+      "target": "chaldean_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "romanian_greek_catholic_church",
+      "target": "syro_malabar_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "ruthenian_greek_catholic_church",
+      "target": "slovak_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "ruthenian_greek_catholic_church",
+      "target": "ukrainian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "ruthenian_greek_catholic_church",
+      "target": "chaldean_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "ruthenian_greek_catholic_church",
+      "target": "syro_malabar_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "slovak_greek_catholic_church",
+      "target": "ukrainian_greek_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "slovak_greek_catholic_church",
+      "target": "chaldean_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "slovak_greek_catholic_church",
+      "target": "syro_malabar_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "ukrainian_greek_catholic_church",
+      "target": "chaldean_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "ukrainian_greek_catholic_church",
+      "target": "syro_malabar_catholic_church",
+      "strength": 100
+    },
+    {
+      "source": "chaldean_catholic_church",
+      "target": "syro_malabar_catholic_church",
       "strength": 100
     }
   ]
