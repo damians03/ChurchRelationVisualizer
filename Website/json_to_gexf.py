@@ -2,7 +2,7 @@ import json
 import math
 import networkx as nx
 
-INPUT_FILE = "church_data_clean.json"
+INPUT_FILE = "church_data_25.json"
 OUTPUT_FILE = "church_network.gexf"
 
 # Load JSON data
