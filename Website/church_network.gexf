@@ -12703,72 +12703,72 @@
           <attvalue for="2" value="25" />
         </attvalues>
       </edge>
-      <edge source="abcusa" target="united_church_of_zambia" id="2413" weight="0.167900085678824">
+      <edge source="abcusa" target="brazilian_baptist_convention" id="2413" weight="0.6479166158065305">
+        <attvalues>
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="abcusa" target="baptist_community_of_the_congo_river" id="2414" weight="0.6472675285693958">
+        <attvalues>
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="abcusa" target="kenya_baptist_convention" id="2415" weight="0.6505150114036911">
+        <attvalues>
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="abcusa" target="myanmar_baptist_convention" id="2416" weight="0.6465903246726203">
+        <attvalues>
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="abcusa" target="nigerian_baptist_convention" id="2417" weight="0.7009238413483833">
+        <attvalues>
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="abcusa" target="baptist_church_of_tanzania" id="2418" weight="0.6590192916693718">
+        <attvalues>
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="abcusa" target="national_baptist_convention_international" id="2419" weight="0.6672097950338789">
+        <attvalues>
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="abcusa" target="national_baptist_convention_usa" id="2420" weight="0.6982949333742929">
+        <attvalues>
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="abcusa" target="progressive_national_baptist_convention" id="2421" weight="0.6431363925008766">
+        <attvalues>
+          <attvalue for="2" value="100" />
+        </attvalues>
+      </edge>
+      <edge source="abcusa" target="united_church_of_zambia" id="2422" weight="0.167900085678824">
         <attvalues>
           <attvalue for="2" value="25" />
         </attvalues>
       </edge>
-      <edge source="abcusa" target="church_of_the_nazarene" id="2414" weight="0.16495390536290608">
+      <edge source="abcusa" target="church_of_the_nazarene" id="2423" weight="0.16495390536290608">
         <attvalues>
           <attvalue for="2" value="25" />
         </attvalues>
       </edge>
-      <edge source="abcusa" target="methodist_church_of_southern_africa" id="2415" weight="0.16449459277262043">
+      <edge source="abcusa" target="methodist_church_of_southern_africa" id="2424" weight="0.16449459277262043">
         <attvalues>
           <attvalue for="2" value="25" />
         </attvalues>
       </edge>
-      <edge source="abcusa" target="african_methodist_episcopal_church" id="2416" weight="0.16420504603609662">
+      <edge source="abcusa" target="african_methodist_episcopal_church" id="2425" weight="0.16420504603609662">
         <attvalues>
           <attvalue for="2" value="25" />
         </attvalues>
       </edge>
-      <edge source="abcusa" target="methodist_church_of_nigeria" id="2417" weight="0.16262875285092276">
-        <attvalues>
-          <attvalue for="2" value="25" />
-        </attvalues>
-      </edge>
-      <edge source="abcusa" target="brazilian_baptist_convention" id="2418" weight="0.16197915395163262">
-        <attvalues>
-          <attvalue for="2" value="25" />
-        </attvalues>
-      </edge>
-      <edge source="abcusa" target="baptist_community_of_the_congo_river" id="2419" weight="0.16181688214234896">
-        <attvalues>
-          <attvalue for="2" value="25" />
-        </attvalues>
-      </edge>
-      <edge source="abcusa" target="kenya_baptist_convention" id="2420" weight="0.16262875285092276">
-        <attvalues>
-          <attvalue for="2" value="25" />
-        </attvalues>
-      </edge>
-      <edge source="abcusa" target="myanmar_baptist_convention" id="2421" weight="0.16164758116815509">
-        <attvalues>
-          <attvalue for="2" value="25" />
-        </attvalues>
-      </edge>
-      <edge source="abcusa" target="nigerian_baptist_convention" id="2422" weight="0.17523096033709581">
-        <attvalues>
-          <attvalue for="2" value="25" />
-        </attvalues>
-      </edge>
-      <edge source="abcusa" target="baptist_church_of_tanzania" id="2423" weight="0.16475482291734295">
-        <attvalues>
-          <attvalue for="2" value="25" />
-        </attvalues>
-      </edge>
-      <edge source="abcusa" target="national_baptist_convention_international" id="2424" weight="0.16680244875846972">
-        <attvalues>
-          <attvalue for="2" value="25" />
-        </attvalues>
-      </edge>
-      <edge source="abcusa" target="national_baptist_convention_usa" id="2425" weight="0.17457373334357323">
-        <attvalues>
-          <attvalue for="2" value="25" />
-        </attvalues>
-      </edge>
-      <edge source="abcusa" target="progressive_national_baptist_convention" id="2426" weight="0.16078409812521915">
+      <edge source="abcusa" target="methodist_church_of_nigeria" id="2426" weight="0.16262875285092276">
         <attvalues>
           <attvalue for="2" value="25" />
         </attvalues>

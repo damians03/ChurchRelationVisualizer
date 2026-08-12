@@ -6047,6 +6047,51 @@
       "strength": 100
     },
     {
+      "source": "brazilian_baptist_convention",
+      "target": "abcusa",
+      "strength": 100
+    },
+    {
+      "source": "abcusa",
+      "target": "baptist_community_of_the_congo_river",
+      "strength": 100
+    },
+    {
+      "source": "abcusa",
+      "target": "kenya_baptist_convention",
+      "strength": 100
+    },
+    {
+      "source": "abcusa",
+      "target": "myanmar_baptist_convention",
+      "strength": 100
+    },
+    {
+      "source": "abcusa",
+      "target": "nigerian_baptist_convention",
+      "strength": 100
+    },
+    {
+      "source": "abcusa",
+      "target": "baptist_church_of_tanzania",
+      "strength": 100
+    },
+    {
+      "source": "abcusa",
+      "target": "national_baptist_convention_international",
+      "strength": 100
+    },
+    {
+      "source": "abcusa",
+      "target": "national_baptist_convention_usa",
+      "strength": 100
+    },
+    {
+      "source": "abcusa",
+      "target": "progressive_national_baptist_convention",
+      "strength": 100
+    },
+    {
       "source": "baptist_community_of_the_congo_river",
       "target": "kenya_baptist_convention",
       "strength": 100
@@ -6789,51 +6834,6 @@
     {
       "source": "abcusa",
       "target": "methodist_church_of_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "abcusa",
-      "target": "brazilian_baptist_convention",
-      "strength": 25
-    },
-    {
-      "source": "abcusa",
-      "target": "baptist_community_of_the_congo_river",
-      "strength": 25
-    },
-    {
-      "source": "abcusa",
-      "target": "kenya_baptist_convention",
-      "strength": 25
-    },
-    {
-      "source": "abcusa",
-      "target": "myanmar_baptist_convention",
-      "strength": 25
-    },
-    {
-      "source": "abcusa",
-      "target": "nigerian_baptist_convention",
-      "strength": 25
-    },
-    {
-      "source": "abcusa",
-      "target": "baptist_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "abcusa",
-      "target": "national_baptist_convention_international",
-      "strength": 25
-    },
-    {
-      "source": "abcusa",
-      "target": "national_baptist_convention_usa",
-      "strength": 25
-    },
-    {
-      "source": "abcusa",
-      "target": "progressive_national_baptist_convention",
       "strength": 25
     },
     {

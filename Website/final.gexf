@@ -20,7 +20,7 @@
           <attvalue for="1" value="1300000000"/>
         </attvalues>
         <viz:size value="60.0"/>
-        <viz:position x="-153725.61" y="-14841.458"/>
+        <viz:position x="132934.33" y="-72677.83"/>
         <viz:color r="255" g="251" b="5"/>
       </node>
       <node id="coptic_catholic_church" label="Coptic Catholic Church">
@@ -28,8 +28,8 @@
           <attvalue for="0" value="Catholic"/>
           <attvalue for="1" value="174902"/>
         </attvalues>
-        <viz:size value="10.011729"/>
-        <viz:position x="-152261.88" y="-37698.48"/>
+        <viz:size value="10.011097"/>
+        <viz:position x="140733.55" y="-54131.42"/>
         <viz:color r="255" g="251" b="5"/>
       </node>
       <node id="maronite_church" label="Maronite Church">
@@ -37,8 +37,8 @@
           <attvalue for="0" value="Catholic"/>
           <attvalue for="1" value="3537690"/>
         </attvalues>
-        <viz:size value="10.485671"/>
-        <viz:position x="-171174.17" y="-30030.67"/>
+        <viz:size value="10.461063"/>
+        <viz:position x="153255.97" y="-75191.86"/>
         <viz:color r="255" g="251" b="5"/>
       </node>
       <node id="syriac_catholic_church" label="Syriac Catholic Church">
@@ -46,8 +46,8 @@
           <attvalue for="0" value="Catholic"/>
           <attvalue for="1" value="205440"/>
         </attvalues>
-        <viz:size value="10.016146"/>
-        <viz:position x="-214994.19" y="-23567.361"/>
+        <viz:size value="10.0152445"/>
+        <viz:position x="186149.28" y="-99153.82"/>
         <viz:color r="255" g="251" b="5"/>
       </node>
       <node id="syro_malankara_catholic_church" label="Syro-Malankara Catholic Church">
@@ -55,8 +55,8 @@
           <attvalue for="0" value="Catholic"/>
           <attvalue for="1" value="450553"/>
         </attvalues>
-        <viz:size value="10.052334"/>
-        <viz:position x="-183444.23" y="7350.3047"/>
+        <viz:size value="10.0493765"/>
+        <viz:position x="147366.64" y="-126835.99"/>
         <viz:color r="255" g="251" b="5"/>
       </node>
       <node id="armenian_catholic_church" label="Armenian Catholic Church">
@@ -64,8 +64,8 @@
           <attvalue for="0" value="Catholic"/>
           <attvalue for="1" value="736134"/>
         </attvalues>
-        <viz:size value="10.094101"/>
-        <viz:position x="-204345.52" y="-2035.2285"/>
+        <viz:size value="10.088874"/>
+        <viz:position x="148660.39" y="-108313.09"/>
         <viz:color r="255" g="251" b="5"/>
       </node>
       <node id="hungarian_greek_catholic_church" label="Hungarian Greek Catholic Church">
@@ -73,8 +73,8 @@
           <attvalue for="0" value="Catholic"/>
           <attvalue for="1" value="255000"/>
         </attvalues>
-        <viz:size value="10.023434"/>
-        <viz:position x="-197615.19" y="-57192.57"/>
+        <viz:size value="10.022103"/>
+        <viz:position x="125083.305" y="-112447.72"/>
         <viz:color r="255" g="251" b="5"/>
       </node>
       <node id="melkite_greek_catholic_church" label="Melkite Greek Catholic Church">
@@ -82,8 +82,8 @@
           <attvalue for="0" value="Catholic"/>
           <attvalue for="1" value="1522802"/>
         </attvalues>
-        <viz:size value="10.206852"/>
-        <viz:position x="-159369.81" y="4913.168"/>
+        <viz:size value="10.195749"/>
+        <viz:position x="169206.12" y="-113003.125"/>
         <viz:color r="255" g="251" b="5"/>
       </node>
       <node id="romanian_greek_catholic_church" label="Romanian Greek Catholic Church">
@@ -91,8 +91,8 @@
           <attvalue for="0" value="Catholic"/>
           <attvalue for="1" value="512726"/>
         </attvalues>
-        <viz:size value="10.061475"/>
-        <viz:position x="-172815.62" y="-10665.333"/>
+        <viz:size value="10.058015"/>
+        <viz:position x="181090.38" y="-76937.11"/>
         <viz:color r="255" g="251" b="5"/>
       </node>
       <node id="ruthenian_greek_catholic_church" label="Ruthenian Greek Catholic Church">
@@ -100,8 +100,8 @@
           <attvalue for="0" value="Catholic"/>
           <attvalue for="1" value="419500"/>
         </attvalues>
-        <viz:size value="10.047758"/>
-        <viz:position x="-181068.95" y="-46687.125"/>
+        <viz:size value="10.0450535"/>
+        <viz:position x="142429.03" y="-91815.0"/>
         <viz:color r="255" g="251" b="5"/>
       </node>
       <node id="ukrainian_greek_catholic_church" label="Ukrainian Greek Catholic Church">
@@ -109,8 +109,8 @@
           <attvalue for="0" value="Catholic"/>
           <attvalue for="1" value="4636958"/>
         </attvalues>
-        <viz:size value="10.633442"/>
-        <viz:position x="-197130.92" y="-34106.65"/>
+        <viz:size value="10.602112"/>
+        <viz:position x="164307.1" y="-90804.305"/>
         <viz:color r="255" g="251" b="5"/>
       </node>
       <node id="chaldean_catholic_church" label="Chaldean Catholic Church">
@@ -118,8 +118,8 @@
           <attvalue for="0" value="Catholic"/>
           <attvalue for="1" value="640828"/>
         </attvalues>
-        <viz:size value="10.080223"/>
-        <viz:position x="-166077.66" y="-58265.25"/>
+        <viz:size value="10.075743"/>
+        <viz:position x="164376.94" y="-60761.926"/>
         <viz:color r="255" g="251" b="5"/>
       </node>
       <node id="syro_malabar_catholic_church" label="Syro-Malabar Church">
@@ -127,8 +127,8 @@
           <attvalue for="0" value="Catholic"/>
           <attvalue for="1" value="4189349"/>
         </attvalues>
-        <viz:size value="10.573585"/>
-        <viz:position x="-189862.47" y="-17097.674"/>
+        <viz:size value="10.544947"/>
+        <viz:position x="123689.61" y="-89830.055"/>
         <viz:color r="255" g="251" b="5"/>
       </node>
       <node id="non_denom" label="Non-Denominational Christianity">
@@ -136,8 +136,8 @@
           <attvalue for="0" value="Non-Denominational"/>
           <attvalue for="1" value="40000000"/>
         </attvalues>
-        <viz:size value="14.692237"/>
-        <viz:position x="-338149.84" y="181475.9"/>
+        <viz:size value="14.532531"/>
+        <viz:position x="-333957.16" y="167005.28"/>
         <viz:color r="255" g="236" b="250"/>
       </node>
       <node id="russian_orthodox_church" label="Russian Orthodox Church">
@@ -145,89 +145,89 @@
           <attvalue for="0" value="Eastern Orthodox"/>
           <attvalue for="1" value="110000000"/>
         </attvalues>
-        <viz:size value="21.008461"/>
-        <viz:position x="-120109.016" y="94361.984"/>
-        <viz:color r="255" g="188" b="96"/>
+        <viz:size value="20.758022"/>
+        <viz:position x="146063.5" y="49045.93"/>
+        <viz:color r="244" g="134" b="0"/>
       </node>
       <node id="romanian_orthodox_church" label="Romanian Orthodox Church">
         <attvalues>
           <attvalue for="0" value="Eastern Orthodox"/>
           <attvalue for="1" value="18000000"/>
         </attvalues>
-        <viz:size value="12.289167"/>
-        <viz:position x="-120892.66" y="130707.89"/>
-        <viz:color r="255" g="188" b="96"/>
+        <viz:size value="12.195078"/>
+        <viz:position x="141529.98" y="68572.11"/>
+        <viz:color r="244" g="134" b="0"/>
       </node>
       <node id="church_of_greece" label="Church of Greece">
         <attvalues>
           <attvalue for="0" value="Eastern Orthodox"/>
           <attvalue for="1" value="10000000"/>
         </attvalues>
-        <viz:size value="11.324134"/>
-        <viz:position x="-138460.77" y="114294.805"/>
-        <viz:color r="255" g="188" b="96"/>
+        <viz:size value="11.264226"/>
+        <viz:position x="174220.11" y="90769.805"/>
+        <viz:color r="244" g="134" b="0"/>
       </node>
       <node id="serbian_orthodox_church" label="Serbian Orthodox Church">
         <attvalues>
           <attvalue for="0" value="Eastern Orthodox"/>
           <attvalue for="1" value="8000000"/>
         </attvalues>
-        <viz:size value="11.071613"/>
-        <viz:position x="-98698.02" y="136034.11"/>
-        <viz:color r="255" g="188" b="96"/>
+        <viz:size value="11.021678"/>
+        <viz:position x="182058.17" y="59374.305"/>
+        <viz:color r="244" g="134" b="0"/>
       </node>
       <node id="bulgarian_orthodox_church" label="Bulgarian Orthodox Church">
         <attvalues>
           <attvalue for="0" value="Eastern Orthodox"/>
           <attvalue for="1" value="7500000"/>
         </attvalues>
-        <viz:size value="11.007619"/>
-        <viz:position x="-130599.94" y="149937.36"/>
-        <viz:color r="255" g="188" b="96"/>
+        <viz:size value="10.960292"/>
+        <viz:position x="164388.9" y="47031.305"/>
+        <viz:color r="244" g="134" b="0"/>
       </node>
       <node id="ecumenical_patriarchate_of_constantinople" label="Ecumenical Patriarchate of Constantinople">
         <attvalues>
           <attvalue for="0" value="Eastern Orthodox"/>
           <attvalue for="1" value="5450000"/>
         </attvalues>
-        <viz:size value="10.741154"/>
-        <viz:position x="-99458.445" y="114377.02"/>
-        <viz:color r="255" g="188" b="96"/>
+        <viz:size value="10.705078"/>
+        <viz:position x="164386.33" y="70296.21"/>
+        <viz:color r="244" g="134" b="0"/>
       </node>
       <node id="greek_orthodox_patriarchate_of_antioch" label="Greek Orthodox Patriarchate of Antioch">
         <attvalues>
           <attvalue for="0" value="Eastern Orthodox"/>
           <attvalue for="1" value="4300000"/>
         </attvalues>
-        <viz:size value="10.588421"/>
-        <viz:position x="-118533.41" y="112373.48"/>
-        <viz:color r="255" g="188" b="96"/>
+        <viz:size value="10.559112"/>
+        <viz:position x="190611.38" y="79418.73"/>
+        <viz:color r="244" g="134" b="0"/>
       </node>
       <node id="georgian_orthodox_church" label="Georgian Orthodox Church">
         <attvalues>
           <attvalue for="0" value="Eastern Orthodox"/>
           <attvalue for="1" value="3500000"/>
         </attvalues>
-        <viz:size value="10.4805565"/>
-        <viz:position x="-145867.36" y="136460.4"/>
-        <viz:color r="255" g="188" b="96"/>
+        <viz:size value="10.456186"/>
+        <viz:position x="149677.95" y="86589.2"/>
+        <viz:color r="244" g="134" b="0"/>
       </node>
       <node id="macedonian_orthodox_church" label="Macedonian Orthodox Church">
         <attvalues>
           <attvalue for="0" value="Eastern Orthodox"/>
           <attvalue for="1" value="2000000"/>
         </attvalues>
-        <viz:size value="10.274004"/>
-        <viz:position x="-109250.13" y="155205.88"/>
-        <viz:color r="255" g="188" b="96"/>
+        <viz:size value="10.259534"/>
+        <viz:position x="156317.38" y="104786.02"/>
+        <viz:color r="244" g="134" b="0"/>
       </node>
       <node id="coptic_orthodox" label="Coptic Orthodox Church">
         <attvalues>
           <attvalue for="0" value="Oriental Orthodox"/>
           <attvalue for="1" value="15000000"/>
         </attvalues>
-        <viz:size value="11.934743"/>
-        <viz:position x="-189132.52" y="65893.445"/>
+        <viz:size value="11.852557"/>
+        <viz:position x="209367.1" y="-7965.707"/>
         <viz:color r="170" g="255" b="96"/>
       </node>
       <node id="armenian_apostolic" label="Armenian Apostolic Church">
@@ -235,8 +235,8 @@
           <attvalue for="0" value="Oriental Orthodox"/>
           <attvalue for="1" value="9000000"/>
         </attvalues>
-        <viz:size value="11.19854"/>
-        <viz:position x="-175120.45" y="84023.42"/>
+        <viz:size value="11.143531"/>
+        <viz:position x="212939.53" y="-28649.219"/>
         <viz:color r="170" g="255" b="96"/>
       </node>
       <node id="syriac_orthodox" label="Syriac Orthodox Church">
@@ -244,8 +244,8 @@
           <attvalue for="0" value="Oriental Orthodox"/>
           <attvalue for="1" value="4000000"/>
         </attvalues>
-        <viz:size value="10.548138"/>
-        <viz:position x="-191730.88" y="95535.91"/>
+        <viz:size value="10.520657"/>
+        <viz:position x="183448.97" y="2899.4426"/>
         <viz:color r="170" g="255" b="96"/>
       </node>
       <node id="ethiopian_orthodox" label="Ethiopian Orthodox Tewahedo Church">
@@ -253,8 +253,8 @@
           <attvalue for="0" value="Oriental Orthodox"/>
           <attvalue for="1" value="50000000"/>
         </attvalues>
-        <viz:size value="15.698272"/>
-        <viz:position x="-165382.83" y="63980.93"/>
+        <viz:size value="15.517308"/>
+        <viz:position x="186992.8" y="-16446.66"/>
         <viz:color r="170" g="255" b="96"/>
       </node>
       <node id="assyrian_church" label="Assyrian Church of the East">
@@ -262,17 +262,17 @@
           <attvalue for="0" value="Church of the East"/>
           <attvalue for="1" value="400000"/>
         </attvalues>
-        <viz:size value="10.044881"/>
-        <viz:position x="50488.24" y="200465.33"/>
-        <viz:color r="245" g="101" b="255"/>
+        <viz:size value="10.042336"/>
+        <viz:position x="-5920.826" y="-202845.4"/>
+        <viz:color r="255" g="104" b="198"/>
       </node>
       <node id="lcms" label="Lutheran Church Missouri Synod">
         <attvalues>
           <attvalue for="0" value="Lutheran"/>
           <attvalue for="1" value="1800000"/>
         </attvalues>
-        <viz:size value="10.245958"/>
-        <viz:position x="159711.75" y="-1678.3264"/>
+        <viz:size value="10.232884"/>
+        <viz:position x="-150595.06" y="52271.88"/>
         <viz:color r="15" g="0" b="236"/>
       </node>
       <node id="global_methodist" label="Global Methodist Church">
@@ -281,7 +281,7 @@
           <attvalue for="1" value="100000"/>
         </attvalues>
         <viz:size value="10.0"/>
-        <viz:position x="131150.84" y="-95047.664"/>
+        <viz:position x="-55627.703" y="136132.72"/>
         <viz:color r="21" g="228" b="0"/>
       </node>
       <node id="wesleyan" label="The Wesleyan Church">
@@ -289,8 +289,8 @@
           <attvalue for="0" value="Methodist"/>
           <attvalue for="1" value="600000"/>
         </attvalues>
-        <viz:size value="10.07426"/>
-        <viz:position x="-338.293" y="93673.76"/>
+        <viz:size value="10.070103"/>
+        <viz:position x="2589.9275" y="134896.55"/>
         <viz:color r="21" g="228" b="0"/>
       </node>
       <node id="sbc" label="Southern Baptist Convention">
@@ -298,8 +298,8 @@
           <attvalue for="0" value="Baptist"/>
           <attvalue for="1" value="13000000"/>
         </attvalues>
-        <viz:size value="11.693723"/>
-        <viz:position x="134332.31" y="30719.113"/>
+        <viz:size value="11.620045"/>
+        <viz:position x="-97947.125" y="108845.43"/>
         <viz:color r="173" g="97" b="0"/>
       </node>
       <node id="abcusa" label="American Baptist Churches USA">
@@ -307,8 +307,8 @@
           <attvalue for="0" value="Baptist"/>
           <attvalue for="1" value="1200000"/>
         </attvalues>
-        <viz:size value="10.160933"/>
-        <viz:position x="-2486.6936" y="-136812.33"/>
+        <viz:size value="10.152185"/>
+        <viz:position x="-96490.5" y="-100761.78"/>
         <viz:color r="173" g="97" b="0"/>
       </node>
       <node id="rca" label="Reformed Church in America">
@@ -316,17 +316,17 @@
           <attvalue for="0" value="Dutch Reformed"/>
           <attvalue for="1" value="180000"/>
         </attvalues>
-        <viz:size value="10.01246"/>
-        <viz:position x="-29870.357" y="56952.17"/>
-        <viz:color r="255" g="192" b="80"/>
+        <viz:size value="10.011783"/>
+        <viz:position x="-138152.27" y="-42147.152"/>
+        <viz:color r="255" g="203" b="154"/>
       </node>
       <node id="pca" label="Presbyterian Church in America">
         <attvalues>
           <attvalue for="0" value="Presbyterian"/>
           <attvalue for="1" value="400000"/>
         </attvalues>
-        <viz:size value="10.044881"/>
-        <viz:position x="140075.55" y="65215.723"/>
+        <viz:size value="10.042336"/>
+        <viz:position x="-159845.3" y="-8480.427"/>
         <viz:color r="255" g="25" b="5"/>
       </node>
       <node id="ucc" label="United Church of Christ">
@@ -334,8 +334,8 @@
           <attvalue for="0" value="Congregationalist"/>
           <attvalue for="1" value="700000"/>
         </attvalues>
-        <viz:size value="10.088846"/>
-        <viz:position x="393.92734" y="-6148.6104"/>
+        <viz:size value="10.0839"/>
+        <viz:position x="-63306.375" y="-11870.162"/>
         <viz:color r="165" g="255" b="244"/>
       </node>
       <node id="united_methodist_church" label="United Methodist Church">
@@ -343,8 +343,8 @@
           <attvalue for="0" value="Methodist"/>
           <attvalue for="1" value="9984925"/>
         </attvalues>
-        <viz:size value="11.32225"/>
-        <viz:position x="114808.06" y="4850.0566"/>
+        <viz:size value="11.262415"/>
+        <viz:position x="50844.14" y="28116.701"/>
         <viz:color r="21" g="228" b="0"/>
       </node>
       <node id="church_of_south_india" label="Church of South India">
@@ -352,8 +352,8 @@
           <attvalue for="0" value="Methodist"/>
           <attvalue for="1" value="5000000"/>
         </attvalues>
-        <viz:size value="10.681694"/>
-        <viz:position x="48506.812" y="-20635.379"/>
+        <viz:size value="10.648222"/>
+        <viz:position x="-29995.543" y="41121.254"/>
         <viz:color r="21" g="228" b="0"/>
       </node>
       <node id="united_church_of_zambia" label="United Church of Zambia">
@@ -361,8 +361,8 @@
           <attvalue for="0" value="Methodist"/>
           <attvalue for="1" value="4000000"/>
         </attvalues>
-        <viz:size value="10.548138"/>
-        <viz:position x="73178.69" y="9280.744"/>
+        <viz:size value="10.520657"/>
+        <viz:position x="-51299.46" y="73242.0"/>
         <viz:color r="21" g="228" b="0"/>
       </node>
       <node id="church_of_the_nazarene" label="Church of the Nazarene">
@@ -370,8 +370,8 @@
           <attvalue for="0" value="Methodist"/>
           <attvalue for="1" value="2764205"/>
         </attvalues>
-        <viz:size value="10.38001"/>
-        <viz:position x="102447.93" y="-14526.577"/>
+        <viz:size value="10.36038"/>
+        <viz:position x="35111.04" y="17089.79"/>
         <viz:color r="21" g="228" b="0"/>
       </node>
       <node id="methodist_church_of_southern_africa" label="Methodist Church of Southern Africa">
@@ -379,8 +379,8 @@
           <attvalue for="0" value="Methodist"/>
           <attvalue for="1" value="2600000"/>
         </attvalues>
-        <viz:size value="10.357377"/>
-        <viz:position x="104349.73" y="-36944.33"/>
+        <viz:size value="10.338834"/>
+        <viz:position x="24802.36" y="32592.562"/>
         <viz:color r="21" g="228" b="0"/>
       </node>
       <node id="african_methodist_episcopal_church" label="African Methodist Episcopal Church">
@@ -388,8 +388,8 @@
           <attvalue for="0" value="Methodist"/>
           <attvalue for="1" value="2500000"/>
         </attvalues>
-        <viz:size value="10.343556"/>
-        <viz:position x="121261.234" y="-48765.52"/>
+        <viz:size value="10.325681"/>
+        <viz:position x="34727.4" y="47288.8"/>
         <viz:color r="21" g="228" b="0"/>
       </node>
       <node id="church_of_north_india" label="Church of North India">
@@ -397,8 +397,8 @@
           <attvalue for="0" value="Methodist"/>
           <attvalue for="1" value="2300000"/>
         </attvalues>
-        <viz:size value="10.315827"/>
-        <viz:position x="72092.86" y="-29032.549"/>
+        <viz:size value="10.2993"/>
+        <viz:position x="-28975.783" y="61490.402"/>
         <viz:color r="21" g="228" b="0"/>
       </node>
       <node id="methodist_church_of_nigeria" label="Methodist Church of Nigeria">
@@ -406,8 +406,8 @@
           <attvalue for="0" value="Methodist"/>
           <attvalue for="1" value="2000000"/>
         </attvalues>
-        <viz:size value="10.274004"/>
-        <viz:position x="126760.35" y="-23573.604"/>
+        <viz:size value="10.259534"/>
+        <viz:position x="38459.383" y="66617.27"/>
         <viz:color r="21" g="228" b="0"/>
       </node>
       <node id="church_of_pakistan" label="Church of Pakistan">
@@ -415,8 +415,8 @@
           <attvalue for="0" value="Methodist"/>
           <attvalue for="1" value="1900000"/>
         </attvalues>
-        <viz:size value="10.259998"/>
-        <viz:position x="53442.7" y="-40608.17"/>
+        <viz:size value="10.246223"/>
+        <viz:position x="-14147.834" y="46124.438"/>
         <viz:color r="21" g="228" b="0"/>
       </node>
       <node id="amish" label="Amish">
@@ -424,35 +424,35 @@
           <attvalue for="0" value="Anabaptist"/>
           <attvalue for="1" value="400000"/>
         </attvalues>
-        <viz:size value="10.044881"/>
-        <viz:position x="52064.312" y="1048.039"/>
-        <viz:color r="82" g="46" b="0"/>
+        <viz:size value="10.042336"/>
+        <viz:position x="-31907.928" y="-14788.038"/>
+        <viz:color r="125" g="72" b="0"/>
       </node>
       <node id="assemblies_of_god" label="Assemblies of God">
         <attvalues>
           <attvalue for="0" value="Pentecostal"/>
           <attvalue for="1" value="85000000"/>
         </attvalues>
-        <viz:size value="18.922998"/>
-        <viz:position x="31880.348" y="-19426.828"/>
-        <viz:color r="255" g="80" b="214"/>
+        <viz:size value="18.692402"/>
+        <viz:position x="-24050.45" y="9208.651"/>
+        <viz:color r="210" g="0" b="210"/>
       </node>
       <node id="church_of_god" label="Church of God (Cleveland)">
         <attvalues>
           <attvalue for="0" value="Pentecostal"/>
           <attvalue for="1" value="7000000"/>
         </attvalues>
-        <viz:size value="10.943252"/>
-        <viz:position x="63682.88" y="-8450.95"/>
-        <viz:color r="255" g="80" b="214"/>
+        <viz:size value="10.898582"/>
+        <viz:position x="-31855.566" y="-28601.889"/>
+        <viz:color r="210" g="0" b="210"/>
       </node>
       <node id="churches_of_christ" label="Churches of Christ">
         <attvalues>
           <attvalue for="0" value="Restorationist"/>
           <attvalue for="1" value="3000000"/>
         </attvalues>
-        <viz:size value="10.412382"/>
-        <viz:position x="68306.65" y="-45442.95"/>
+        <viz:size value="10.391211"/>
+        <viz:position x="-41947.703" y="-4692.8423"/>
         <viz:color r="255" g="93" b="96"/>
       </node>
       <node id="disciples_of_christ" label="Christian Church (Disciples of Christ)">
@@ -460,8 +460,8 @@
           <attvalue for="0" value="Restorationist"/>
           <attvalue for="1" value="350000"/>
         </attvalues>
-        <viz:size value="10.037493"/>
-        <viz:position x="18289.309" y="-29546.965"/>
+        <viz:size value="10.03536"/>
+        <viz:position x="-50392.0" y="-34209.457"/>
         <viz:color r="255" g="93" b="96"/>
       </node>
       <node id="calvary_chapel" label="Calvary Chapel">
@@ -469,8 +469,8 @@
           <attvalue for="0" value="Non-Denominational"/>
           <attvalue for="1" value="2000000"/>
         </attvalues>
-        <viz:size value="10.274004"/>
-        <viz:position x="40420.293" y="-76523.87"/>
+        <viz:size value="10.259534"/>
+        <viz:position x="354.12756" y="20527.46"/>
         <viz:color r="255" g="236" b="250"/>
       </node>
       <node id="vineyard" label="Vineyard Churches">
@@ -478,8 +478,8 @@
           <attvalue for="0" value="Non-Denominational"/>
           <attvalue for="1" value="240000"/>
         </attvalues>
-        <viz:size value="10.02122"/>
-        <viz:position x="37706.906" y="-77624.66"/>
+        <viz:size value="10.020019"/>
+        <viz:position x="-1638.7635" y="18706.627"/>
         <viz:color r="255" g="236" b="250"/>
       </node>
       <node id="seventh_day_adventist" label="Seventh-day Adventist Church">
@@ -487,8 +487,8 @@
           <attvalue for="0" value="Adventist"/>
           <attvalue for="1" value="22000000"/>
         </attvalues>
-        <viz:size value="12.749937"/>
-        <viz:position x="28133.97" y="-38527.754"/>
+        <viz:size value="12.641351"/>
+        <viz:position x="-48833.824" y="-20189.54"/>
         <viz:color r="207" g="210" b="255"/>
       </node>
       <node id="moravian" label="Moravian Church">
@@ -496,17 +496,17 @@
           <attvalue for="0" value="Moravian"/>
           <attvalue for="1" value="1000000"/>
         </attvalues>
-        <viz:size value="10.132252"/>
-        <viz:position x="14621.251" y="-18685.5"/>
-        <viz:color r="255" g="66" b="214"/>
+        <viz:size value="10.125001"/>
+        <viz:position x="-9054.946" y="8296.386"/>
+        <viz:color r="130" g="216" b="255"/>
       </node>
       <node id="eritrea_orthodox" label="Eritrean Orthodox Tewahedo Church">
         <attvalues>
           <attvalue for="0" value="Oriental Orthodox"/>
           <attvalue for="1" value="3000000"/>
         </attvalues>
-        <viz:size value="10.412382"/>
-        <viz:position x="-213687.27" y="81643.414"/>
+        <viz:size value="10.391211"/>
+        <viz:position x="209062.3" y="12605.16"/>
         <viz:color r="170" g="255" b="96"/>
       </node>
       <node id="evangelical_church_germany" label="Evangelical Church in Germany">
@@ -514,8 +514,8 @@
           <attvalue for="0" value="Lutheran"/>
           <attvalue for="1" value="19000000"/>
         </attvalues>
-        <viz:size value="12.405563"/>
-        <viz:position x="-16867.693" y="-6690.653"/>
+        <viz:size value="12.307712"/>
+        <viz:position x="-19017.738" y="-44337.1"/>
         <viz:color r="15" g="0" b="236"/>
       </node>
       <node id="church_of_sweden" label="Church of Sweden">
@@ -523,8 +523,8 @@
           <attvalue for="0" value="Lutheran"/>
           <attvalue for="1" value="5484000"/>
         </attvalues>
-        <viz:size value="10.745631"/>
-        <viz:position x="-397.26425" y="-51544.848"/>
+        <viz:size value="10.709361"/>
+        <viz:position x="2573.8933" y="-12170.395"/>
         <viz:color r="15" g="0" b="236"/>
       </node>
       <node id="church_of_norway" label="Church of Norway">
@@ -532,8 +532,8 @@
           <attvalue for="0" value="Lutheran"/>
           <attvalue for="1" value="3611670"/>
         </attvalues>
-        <viz:size value="10.4957"/>
-        <viz:position x="-4615.933" y="-64893.008"/>
+        <viz:size value="10.470628"/>
+        <viz:position x="-4973.2783" y="-21922.904"/>
         <viz:color r="15" g="0" b="236"/>
       </node>
       <node id="evangelical_lutheran_church_of_finland" label="Evangelical Lutheran Church of Finland">
@@ -541,8 +541,8 @@
           <attvalue for="0" value="Lutheran"/>
           <attvalue for="1" value="3579616"/>
         </attvalues>
-        <viz:size value="10.491356"/>
-        <viz:position x="-25314.29" y="-32224.143"/>
+        <viz:size value="10.466485"/>
+        <viz:position x="12568.41" y="-22756.346"/>
         <viz:color r="15" g="0" b="236"/>
       </node>
       <node id="evangelical_lutheran_church_of_hanover" label="Evangelical Lutheran Church of Hanover">
@@ -550,8 +550,8 @@
           <attvalue for="0" value="Lutheran"/>
           <attvalue for="1" value="2302547"/>
         </attvalues>
-        <viz:size value="10.316181"/>
-        <viz:position x="-44771.984" y="-17950.686"/>
+        <viz:size value="10.299637"/>
+        <viz:position x="873.9716" y="-35211.52"/>
         <viz:color r="15" g="0" b="236"/>
       </node>
       <node id="mekane_yesus" label="Ethiopian Evangelical Church Mekane Yesus">
@@ -559,8 +559,8 @@
           <attvalue for="0" value="Lutheran"/>
           <attvalue for="1" value="12000000"/>
         </attvalues>
-        <viz:size value="11.571656"/>
-        <viz:position x="-3997.8345" y="-17719.582"/>
+        <viz:size value="11.502426"/>
+        <viz:position x="-7796.9434" y="-2947.4692"/>
         <viz:color r="15" g="0" b="236"/>
       </node>
       <node id="malankara_orthodox" label="Malankara Orthodox Syrian Church">
@@ -568,8 +568,8 @@
           <attvalue for="0" value="Oriental Orthodox"/>
           <attvalue for="1" value="2500000"/>
         </attvalues>
-        <viz:size value="10.343556"/>
-        <viz:position x="-213372.17" y="58528.97"/>
+        <viz:size value="10.325681"/>
+        <viz:position x="234510.2" y="-16480.29"/>
         <viz:color r="170" g="255" b="96"/>
       </node>
       <node id="malankara_jacobite" label="Malankara Jacobite Syrian Orthodox Church">
@@ -577,8 +577,8 @@
           <attvalue for="0" value="Oriental Orthodox"/>
           <attvalue for="1" value="1000000"/>
         </attvalues>
-        <viz:size value="10.132252"/>
-        <viz:position x="-207000.89" y="111208.125"/>
+        <viz:size value="10.125001"/>
+        <viz:position x="230213.28" y="19638.826"/>
         <viz:color r="170" g="255" b="96"/>
       </node>
       <node id="church_of_england" label="Church of England">
@@ -586,8 +586,8 @@
           <attvalue for="0" value="Anglican"/>
           <attvalue for="1" value="22000000"/>
         </attvalues>
-        <viz:size value="12.749937"/>
-        <viz:position x="34114.305" y="-65954.27"/>
+        <viz:size value="12.641351"/>
+        <viz:position x="-2112.2424" y="28254.854"/>
         <viz:color r="236" g="0" b="225"/>
       </node>
       <node id="church_of_nigeria" label="Church of Nigeria">
@@ -595,8 +595,8 @@
           <attvalue for="0" value="Anglican"/>
           <attvalue for="1" value="25000000"/>
         </attvalues>
-        <viz:size value="13.087613"/>
-        <viz:position x="58416.52" y="-71499.46"/>
+        <viz:size value="12.969043"/>
+        <viz:position x="-4204.0576" y="64604.25"/>
         <viz:color r="236" g="0" b="225"/>
       </node>
       <node id="anglican_church_of_kenya" label="Anglican Church of Kenya">
@@ -604,8 +604,8 @@
           <attvalue for="0" value="Anglican"/>
           <attvalue for="1" value="5860000"/>
         </attvalues>
-        <viz:size value="10.795009"/>
-        <viz:position x="77745.76" y="-74821.97"/>
+        <viz:size value="10.756605"/>
+        <viz:position x="-1532.5812" y="90003.89"/>
         <viz:color r="236" g="0" b="225"/>
       </node>
       <node id="anglican_church_of_southern_africa" label="Anglican Church of Southern Africa">
@@ -613,8 +613,8 @@
           <attvalue for="0" value="Anglican"/>
           <attvalue for="1" value="1750000"/>
         </attvalues>
-        <viz:size value="10.238925"/>
-        <viz:position x="59979.836" y="-97492.6"/>
+        <viz:size value="10.226204"/>
+        <viz:position x="9948.959" y="57229.62"/>
         <viz:color r="236" g="0" b="225"/>
       </node>
       <node id="anglican_church_of_tanzania" label="Anglican Church of Tanzania">
@@ -622,8 +622,8 @@
           <attvalue for="0" value="Anglican"/>
           <attvalue for="1" value="2000000"/>
         </attvalues>
-        <viz:size value="10.274004"/>
-        <viz:position x="60828.92" y="-115169.9"/>
+        <viz:size value="10.259534"/>
+        <viz:position x="13747.826" y="82775.61"/>
         <viz:color r="236" g="0" b="225"/>
       </node>
       <node id="church_of_the_province_of_uganda" label="Church of the Province of Uganda">
@@ -631,8 +631,8 @@
           <attvalue for="0" value="Anglican"/>
           <attvalue for="1" value="13311801"/>
         </attvalues>
-        <viz:size value="11.7315645"/>
-        <viz:position x="79509.875" y="-92027.9"/>
+        <viz:size value="11.656528"/>
+        <viz:position x="-18482.281" y="80946.95"/>
         <viz:color r="236" g="0" b="225"/>
       </node>
       <node id="anglican_church_of_rwanda" label="Anglican Church of Rwanda">
@@ -640,8 +640,8 @@
           <attvalue for="0" value="Anglican"/>
           <attvalue for="1" value="1200000"/>
         </attvalues>
-        <viz:size value="10.160933"/>
-        <viz:position x="35635.363" y="-104378.625"/>
+        <viz:size value="10.152185"/>
+        <viz:position x="-24569.56" y="100621.29"/>
         <viz:color r="236" g="0" b="225"/>
       </node>
       <node id="episcopal" label="The Episcopal Church">
@@ -649,8 +649,8 @@
           <attvalue for="0" value="Anglican"/>
           <attvalue for="1" value="1800000"/>
         </attvalues>
-        <viz:size value="10.245958"/>
-        <viz:position x="32131.111" y="-85668.01"/>
+        <viz:size value="10.232884"/>
+        <viz:position x="7341.5107" y="18095.287"/>
         <viz:color r="236" g="0" b="225"/>
       </node>
       <node id="andhra_evangelical_lutheran_church" label="Andhra Evangelical Lutheran Church">
@@ -658,8 +658,8 @@
           <attvalue for="0" value="Lutheran"/>
           <attvalue for="1" value="3000000"/>
         </attvalues>
-        <viz:size value="10.412382"/>
-        <viz:position x="-15726.52" y="-84046.97"/>
+        <viz:size value="10.391211"/>
+        <viz:position x="29336.533" y="-12409.082"/>
         <viz:color r="15" g="0" b="236"/>
       </node>
       <node id="elca" label="Evangelical Lutheran Church in America">
@@ -667,8 +667,8 @@
           <attvalue for="0" value="Lutheran"/>
           <attvalue for="1" value="2904686"/>
         </attvalues>
-        <viz:size value="10.399314"/>
-        <viz:position x="-27589.56" y="-14957.146"/>
+        <viz:size value="10.378763"/>
+        <viz:position x="5986.4526" y="-1285.0482"/>
         <viz:color r="15" g="0" b="236"/>
       </node>
       <node id="evangelical_lutheran_church_in_denmark" label="Evangelical Lutheran Church in Denmark">
@@ -676,8 +676,8 @@
           <attvalue for="0" value="Lutheran"/>
           <attvalue for="1" value="4253575"/>
         </attvalues>
-        <viz:size value="10.582199"/>
-        <viz:position x="-11298.3" y="-38734.8"/>
+        <viz:size value="10.553171"/>
+        <viz:position x="16553.936" y="-5774.799"/>
         <viz:color r="15" g="0" b="236"/>
       </node>
       <node id="evangelical_lutheran_church_in_tanzania" label="Evangelical Lutheran Church in Tanzania">
@@ -685,8 +685,8 @@
           <attvalue for="0" value="Lutheran"/>
           <attvalue for="1" value="8500000"/>
         </attvalues>
-        <viz:size value="11.135249"/>
-        <viz:position x="-43529.35" y="-53584.094"/>
+        <viz:size value="11.082754"/>
+        <viz:position x="29162.65" y="-28571.002"/>
         <viz:color r="15" g="0" b="236"/>
       </node>
       <node id="evangelical_lutheran_church_of_papua_new_guinea" label="Evangelical Lutheran Church of Papua New Guinea">
@@ -694,8 +694,8 @@
           <attvalue for="0" value="Lutheran"/>
           <attvalue for="1" value="1500000"/>
         </attvalues>
-        <viz:size value="10.203622"/>
-        <viz:position x="-25601.996" y="-51600.46"/>
+        <viz:size value="10.192684"/>
+        <viz:position x="-0.02887412" y="-0.028933326"/>
         <viz:color r="15" g="0" b="236"/>
       </node>
       <node id="malagasy_lutheran_church" label="Malagasy Lutheran Church">
@@ -703,8 +703,8 @@
           <attvalue for="0" value="Lutheran"/>
           <attvalue for="1" value="4000000"/>
         </attvalues>
-        <viz:size value="10.548138"/>
-        <viz:position x="-26086.312" y="-67145.086"/>
+        <viz:size value="10.520657"/>
+        <viz:position x="19457.418" y="-41152.676"/>
         <viz:color r="15" g="0" b="236"/>
       </node>
       <node id="protestant_christian_batak_church_hkbp" label="Protestant Christian Batak Church (HKBP)">
@@ -712,8 +712,8 @@
           <attvalue for="0" value="Lutheran"/>
           <attvalue for="1" value="6333000"/>
         </attvalues>
-        <viz:size value="10.856776"/>
-        <viz:position x="-44191.086" y="-36934.332"/>
+        <viz:size value="10.815737"/>
+        <viz:position x="4250.112" y="-53122.51"/>
         <viz:color r="15" g="0" b="236"/>
       </node>
       <node id="the_lutheran_church_of_christ_in_nigeria" label="The Lutheran Church of Christ in Nigeria">
@@ -721,8 +721,8 @@
           <attvalue for="0" value="Lutheran"/>
           <attvalue for="1" value="2200000"/>
         </attvalues>
-        <viz:size value="10.301918"/>
-        <viz:position x="-39930.277" y="-78703.61"/>
+        <viz:size value="10.286071"/>
+        <viz:position x="20271.998" y="-57942.62"/>
         <viz:color r="15" g="0" b="236"/>
       </node>
       <node id="brazilian_baptist_convention" label="Brazilian Baptist Convention">
@@ -730,8 +730,8 @@
           <attvalue for="0" value="Baptist"/>
           <attvalue for="1" value="1814158"/>
         </attvalues>
-        <viz:size value="10.247948"/>
-        <viz:position x="93413.195" y="85761.61"/>
+        <viz:size value="10.234775"/>
+        <viz:position x="-49948.594" y="-97044.77"/>
         <viz:color r="173" g="97" b="0"/>
       </node>
       <node id="baptist_community_of_the_congo_river" label="Baptist Community of the Congo River (CBFC)">
@@ -739,8 +739,8 @@
           <attvalue for="0" value="Baptist"/>
           <attvalue for="1" value="1769444"/>
         </attvalues>
-        <viz:size value="10.241661"/>
-        <viz:position x="35386.918" y="87159.31"/>
+        <viz:size value="10.228803"/>
+        <viz:position x="-31382.883" y="-105814.38"/>
         <viz:color r="173" g="97" b="0"/>
       </node>
       <node id="kenya_baptist_convention" label="Kenya Baptist Convention">
@@ -748,8 +748,8 @@
           <attvalue for="0" value="Baptist"/>
           <attvalue for="1" value="2000000"/>
         </attvalues>
-        <viz:size value="10.274004"/>
-        <viz:position x="53373.152" y="96984.29"/>
+        <viz:size value="10.259534"/>
+        <viz:position x="-95796.37" y="-78325.51"/>
         <viz:color r="173" g="97" b="0"/>
       </node>
       <node id="myanmar_baptist_convention" label="Myanmar Baptist Convention">
@@ -757,8 +757,8 @@
           <attvalue for="0" value="Baptist"/>
           <attvalue for="1" value="1723500"/>
         </attvalues>
-        <viz:size value="10.235194"/>
-        <viz:position x="47198.195" y="70042.95"/>
+        <viz:size value="10.22266"/>
+        <viz:position x="-74062.04" y="-89627.984"/>
         <viz:color r="173" g="97" b="0"/>
       </node>
       <node id="nigerian_baptist_convention" label="Nigerian Baptist Convention">
@@ -766,8 +766,8 @@
           <attvalue for="0" value="Baptist"/>
           <attvalue for="1" value="9015000"/>
         </attvalues>
-        <viz:size value="11.200434"/>
-        <viz:position x="68433.37" y="73981.46"/>
+        <viz:size value="11.1453495"/>
+        <viz:position x="-96967.47" y="-57586.98"/>
         <viz:color r="173" g="97" b="0"/>
       </node>
       <node id="baptist_church_of_tanzania" label="Baptist Church of Tanzania">
@@ -775,8 +775,8 @@
           <attvalue for="0" value="Baptist"/>
           <attvalue for="1" value="2692179"/>
         </attvalues>
-        <viz:size value="10.370091"/>
-        <viz:position x="92610.35" y="64771.227"/>
+        <viz:size value="10.350937"/>
+        <viz:position x="-31326.758" y="-83170.73"/>
         <viz:color r="173" g="97" b="0"/>
       </node>
       <node id="national_baptist_convention_international" label="National Baptist Convention International, Inc.">
@@ -784,8 +784,8 @@
           <attvalue for="0" value="Baptist"/>
           <attvalue for="1" value="3500000"/>
         </attvalues>
-        <viz:size value="10.4805565"/>
-        <viz:position x="65059.09" y="54695.098"/>
+        <viz:size value="10.456186"/>
+        <viz:position x="-70308.59" y="-68933.01"/>
         <viz:color r="173" g="97" b="0"/>
       </node>
       <node id="national_baptist_convention_usa" label="National Baptist Convention, USA, Inc.">
@@ -793,8 +793,8 @@
           <attvalue for="0" value="Baptist"/>
           <attvalue for="1" value="8415000"/>
         </attvalues>
-        <viz:size value="11.124455"/>
-        <viz:position x="84666.06" y="46767.17"/>
+        <viz:size value="11.072392"/>
+        <viz:position x="-50740.03" y="-72978.75"/>
         <viz:color r="173" g="97" b="0"/>
       </node>
       <node id="progressive_national_baptist_convention" label="Progressive National Baptist Convention, Inc.">
@@ -802,8 +802,8 @@
           <attvalue for="0" value="Baptist"/>
           <attvalue for="1" value="1500000"/>
         </attvalues>
-        <viz:size value="10.203622"/>
-        <viz:position x="74860.625" y="98781.97"/>
+        <viz:size value="10.192684"/>
+        <viz:position x="-65672.89" y="-111609.29"/>
         <viz:color r="173" g="97" b="0"/>
       </node>
       <node id="reformed_church_hungary" label="Reformed Church in Hungary">
@@ -811,8 +811,8 @@
           <attvalue for="0" value="Presbyterian"/>
           <attvalue for="1" value="1623991"/>
         </attvalues>
-        <viz:size value="10.22116"/>
-        <viz:position x="-33517.316" y="13547.121"/>
+        <viz:size value="10.209333"/>
+        <viz:position x="-74721.625" y="-30294.658"/>
         <viz:color r="255" g="25" b="5"/>
       </node>
       <node id="protestant_church_switzerland" label="Protestant Church in Switzerland">
@@ -820,8 +820,8 @@
           <attvalue for="0" value="Presbyterian"/>
           <attvalue for="1" value="1782513"/>
         </attvalues>
-        <viz:size value="10.2435"/>
-        <viz:position x="-12706.411" y="13595.5625"/>
+        <viz:size value="10.230549"/>
+        <viz:position x="-85756.984" y="-4996.858"/>
         <viz:color r="255" g="25" b="5"/>
       </node>
       <node id="presbyterian_church_korea" label="Presbyterian Church of Korea">
@@ -829,8 +829,8 @@
           <attvalue for="0" value="Presbyterian"/>
           <attvalue for="1" value="2190919"/>
         </attvalues>
-        <viz:size value="10.300653"/>
-        <viz:position x="2509.4988" y="42269.71"/>
+        <viz:size value="10.284868"/>
+        <viz:position x="-93784.68" y="10939.883"/>
         <viz:color r="255" g="25" b="5"/>
       </node>
       <node id="evangelical_church_of_cameroon" label="Evangelical Church of Cameroon">
@@ -838,8 +838,8 @@
           <attvalue for="0" value="Reformed"/>
           <attvalue for="1" value="2500000"/>
         </attvalues>
-        <viz:size value="10.343556"/>
-        <viz:position x="6340.16" y="10692.55"/>
+        <viz:size value="10.325681"/>
+        <viz:position x="-92053.305" y="58193.453"/>
         <viz:color r="255" g="0" b="40"/>
       </node>
       <node id="presbyterian_church_of_cameroon" label="Presbyterian Church of Cameroon">
@@ -847,8 +847,8 @@
           <attvalue for="0" value="Presbyterian"/>
           <attvalue for="1" value="4000000"/>
         </attvalues>
-        <viz:size value="10.548138"/>
-        <viz:position x="9355.9" y="-1833.935"/>
+        <viz:size value="10.520657"/>
+        <viz:position x="-57887.188" y="49273.92"/>
         <viz:color r="255" g="25" b="5"/>
       </node>
       <node id="presbyterian_community_in_congo" label="Presbyterian Community in Congo">
@@ -856,8 +856,8 @@
           <attvalue for="0" value="Presbyterian"/>
           <attvalue for="1" value="2500000"/>
         </attvalues>
-        <viz:size value="10.343556"/>
-        <viz:position x="-2432.0261" y="5330.22"/>
+        <viz:size value="10.325681"/>
+        <viz:position x="-79618.29" y="25427.541"/>
         <viz:color r="255" g="25" b="5"/>
       </node>
       <node id="protestant_church_in_indonesia" label="Protestant Church in Indonesia">
@@ -865,8 +865,8 @@
           <attvalue for="0" value="Reformed"/>
           <attvalue for="1" value="3399976"/>
         </attvalues>
-        <viz:size value="10.466968"/>
-        <viz:position x="22121.74" y="36686.086"/>
+        <viz:size value="10.443231"/>
+        <viz:position x="-91579.945" y="40571.836"/>
         <viz:color r="255" g="0" b="40"/>
       </node>
       <node id="presbyterian_church_east_africa" label="Presbyterian Church of East Africa">
@@ -874,8 +874,8 @@
           <attvalue for="0" value="Presbyterian"/>
           <attvalue for="1" value="4000000"/>
         </attvalues>
-        <viz:size value="10.548138"/>
-        <viz:position x="-3668.3662" y="24432.99"/>
+        <viz:size value="10.520657"/>
+        <viz:position x="-108068.38" y="26350.857"/>
         <viz:color r="255" g="25" b="5"/>
       </node>
       <node id="church_of_jesus_christ_in_madagascar" label="Church of Jesus Christ in Madagascar">
@@ -883,8 +883,8 @@
           <attvalue for="0" value="Reformed"/>
           <attvalue for="1" value="6000000"/>
         </attvalues>
-        <viz:size value="10.813331"/>
-        <viz:position x="34942.12" y="8053.2114"/>
+        <viz:size value="10.774141"/>
+        <viz:position x="-49139.297" y="33589.758"/>
         <viz:color r="255" g="0" b="40"/>
       </node>
       <node id="national_presbyterian_church_in_mexico" label="National Presbyterian Church in Mexico">
@@ -892,8 +892,8 @@
           <attvalue for="0" value="Presbyterian"/>
           <attvalue for="1" value="2800000"/>
         </attvalues>
-        <viz:size value="10.384933"/>
-        <viz:position x="39665.31" y="24942.365"/>
+        <viz:size value="10.365068"/>
+        <viz:position x="-65794.13" y="11087.752"/>
         <viz:color r="255" g="25" b="5"/>
       </node>
       <node id="protestant_church_netherlands" label="Protestant Church in the Netherlands">
@@ -901,17 +901,17 @@
           <attvalue for="0" value="Dutch Reformed"/>
           <attvalue for="1" value="1425000"/>
         </attvalues>
-        <viz:size value="10.192985"/>
-        <viz:position x="0.0087702675" y="0.010143573"/>
-        <viz:color r="255" g="192" b="80"/>
+        <viz:size value="10.182589"/>
+        <viz:position x="-20511.934" y="-5029.72"/>
+        <viz:color r="255" g="203" b="154"/>
       </node>
       <node id="presbyterian_church_of_nigeria" label="Presbyterian Church of Nigeria">
         <attvalues>
           <attvalue for="0" value="Presbyterian"/>
           <attvalue for="1" value="5800000"/>
         </attvalues>
-        <viz:size value="10.787146"/>
-        <viz:position x="11405.0205" y="23664.055"/>
+        <viz:size value="10.74908"/>
+        <viz:position x="-71204.72" y="39920.51"/>
         <viz:color r="255" g="25" b="5"/>
       </node>
       <node id="presbyterian_church_of_africa" label="Presbyterian Church of Africa">
@@ -919,8 +919,8 @@
           <attvalue for="0" value="Presbyterian"/>
           <attvalue for="1" value="3381000"/>
         </attvalues>
-        <viz:size value="10.464387"/>
-        <viz:position x="24876.244" y="20142.219"/>
+        <viz:size value="10.44077"/>
+        <viz:position x="-73702.914" y="61474.312"/>
         <viz:color r="255" g="25" b="5"/>
       </node>
       <node id="united_congregational_church_of_southern_africa" label="United Congregational Church of Southern Africa">
@@ -928,8 +928,8 @@
           <attvalue for="0" value="Congregationalist"/>
           <attvalue for="1" value="1500000"/>
         </attvalues>
-        <viz:size value="10.203622"/>
-        <viz:position x="25444.396" y="-2087.473"/>
+        <viz:size value="10.192684"/>
+        <viz:position x="-60783.684" y="23970.576"/>
         <viz:color r="165" g="255" b="244"/>
       </node>
       <node id="presbyterian_church_usa" label="Presbyterian Church USA">
@@ -937,8 +937,8 @@
           <attvalue for="0" value="Presbyterian"/>
           <attvalue for="1" value="1045848"/>
         </attvalues>
-        <viz:size value="10.138843"/>
-        <viz:position x="-17119.328" y="33395.51"/>
+        <viz:size value="10.131247"/>
+        <viz:position x="-110756.75" y="13.096625"/>
         <viz:color r="255" g="25" b="5"/>
       </node>
       <node id="china_christian_council" label="China Christian Council">
@@ -946,8 +946,8 @@
           <attvalue for="0" value="Presbyterian"/>
           <attvalue for="1" value="38000000"/>
         </attvalues>
-        <viz:size value="14.485418"/>
-        <viz:position x="18258.096" y="6113.833"/>
+        <viz:size value="14.330484"/>
+        <viz:position x="-46116.64" y="17994.371"/>
         <viz:color r="255" g="25" b="5"/>
       </node>
     </nodes>
@@ -13017,72 +13017,72 @@
           <attvalue for="2" value="25"/>
         </attvalues>
       </edge>
-      <edge id="2413" source="abcusa" target="united_church_of_zambia" weight="0.16790008544921875">
+      <edge id="2413" source="abcusa" target="brazilian_baptist_convention" weight="0.6479166150093079">
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="2414" source="abcusa" target="baptist_community_of_the_congo_river" weight="0.6472675204277039">
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="2415" source="abcusa" target="kenya_baptist_convention" weight="0.6505150198936462">
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="2416" source="abcusa" target="myanmar_baptist_convention" weight="0.6465903520584106">
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="2417" source="abcusa" target="nigerian_baptist_convention" weight="0.7009238600730896">
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="2418" source="abcusa" target="baptist_church_of_tanzania" weight="0.6590192914009094">
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="2419" source="abcusa" target="national_baptist_convention_international" weight="0.667209804058075">
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="2420" source="abcusa" target="national_baptist_convention_usa" weight="0.6982949376106262">
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="2421" source="abcusa" target="progressive_national_baptist_convention" weight="0.6431363821029663">
+        <attvalues>
+          <attvalue for="2" value="100"/>
+        </attvalues>
+      </edge>
+      <edge id="2422" source="abcusa" target="united_church_of_zambia" weight="0.16790008544921875">
         <attvalues>
           <attvalue for="2" value="25"/>
         </attvalues>
       </edge>
-      <edge id="2414" source="abcusa" target="church_of_the_nazarene" weight="0.16495390236377716">
+      <edge id="2423" source="abcusa" target="church_of_the_nazarene" weight="0.16495390236377716">
         <attvalues>
           <attvalue for="2" value="25"/>
         </attvalues>
       </edge>
-      <edge id="2415" source="abcusa" target="methodist_church_of_southern_africa" weight="0.164494588971138">
+      <edge id="2424" source="abcusa" target="methodist_church_of_southern_africa" weight="0.164494588971138">
         <attvalues>
           <attvalue for="2" value="25"/>
         </attvalues>
       </edge>
-      <edge id="2416" source="abcusa" target="african_methodist_episcopal_church" weight="0.16420504450798035">
+      <edge id="2425" source="abcusa" target="african_methodist_episcopal_church" weight="0.16420504450798035">
         <attvalues>
           <attvalue for="2" value="25"/>
         </attvalues>
       </edge>
-      <edge id="2417" source="abcusa" target="methodist_church_of_nigeria" weight="0.16262875497341156">
-        <attvalues>
-          <attvalue for="2" value="25"/>
-        </attvalues>
-      </edge>
-      <edge id="2418" source="abcusa" target="brazilian_baptist_convention" weight="0.16197915375232697">
-        <attvalues>
-          <attvalue for="2" value="25"/>
-        </attvalues>
-      </edge>
-      <edge id="2419" source="abcusa" target="baptist_community_of_the_congo_river" weight="0.16181688010692596">
-        <attvalues>
-          <attvalue for="2" value="25"/>
-        </attvalues>
-      </edge>
-      <edge id="2420" source="abcusa" target="kenya_baptist_convention" weight="0.16262875497341156">
-        <attvalues>
-          <attvalue for="2" value="25"/>
-        </attvalues>
-      </edge>
-      <edge id="2421" source="abcusa" target="myanmar_baptist_convention" weight="0.16164758801460266">
-        <attvalues>
-          <attvalue for="2" value="25"/>
-        </attvalues>
-      </edge>
-      <edge id="2422" source="abcusa" target="nigerian_baptist_convention" weight="0.1752309650182724">
-        <attvalues>
-          <attvalue for="2" value="25"/>
-        </attvalues>
-      </edge>
-      <edge id="2423" source="abcusa" target="baptist_church_of_tanzania" weight="0.16475482285022736">
-        <attvalues>
-          <attvalue for="2" value="25"/>
-        </attvalues>
-      </edge>
-      <edge id="2424" source="abcusa" target="national_baptist_convention_international" weight="0.16680245101451874">
-        <attvalues>
-          <attvalue for="2" value="25"/>
-        </attvalues>
-      </edge>
-      <edge id="2425" source="abcusa" target="national_baptist_convention_usa" weight="0.17457373440265656">
-        <attvalues>
-          <attvalue for="2" value="25"/>
-        </attvalues>
-      </edge>
-      <edge id="2426" source="abcusa" target="progressive_national_baptist_convention" weight="0.16078409552574158">
+      <edge id="2426" source="abcusa" target="methodist_church_of_nigeria" weight="0.16262875497341156">
         <attvalues>
           <attvalue for="2" value="25"/>
         </attvalues>
