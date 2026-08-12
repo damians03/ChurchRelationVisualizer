@@ -1,142 +1,182 @@
 [
   {
-    "source": "reformed_church_hungary",
-    "target": "protestant_church_switzerland",
-    "strength": 100
-  },
-  {
-    "source": "reformed_church_hungary",
-    "target": "pcusa",
-    "strength": 100
-  },
-  {
-    "source": "reformed_church_hungary",
-    "target": "ucc",
-    "strength": 100
-  },
-  {
-    "source": "reformed_church_hungary",
-    "target": "protestant_church_netherlands",
-    "strength": 100
-  },
-  {
-    "source": "reformed_church_hungary",
-    "target": "presbyterian_church_korea",
-    "strength": 100
-  },
-  {
-    "source": "reformed_church_hungary",
-    "target": "presbyterian_church_east_africa",
-    "strength": 100
-  },
-  {
-    "source": "reformed_church_hungary",
+    "source": "united_methodist_church",
     "target": "church_of_south_india",
     "strength": 100
   },
   {
-    "source": "protestant_church_switzerland",
-    "target": "pcusa",
+    "source": "united_methodist_church",
+    "target": "united_church_of_zambia",
     "strength": 100
   },
   {
-    "source": "protestant_church_switzerland",
-    "target": "ucc",
+    "source": "united_methodist_church",
+    "target": "church_of_the_nazarene",
     "strength": 100
   },
   {
-    "source": "protestant_church_switzerland",
-    "target": "protestant_church_netherlands",
+    "source": "united_methodist_church",
+    "target": "methodist_church_of_southern_africa",
     "strength": 100
   },
   {
-    "source": "protestant_church_switzerland",
-    "target": "presbyterian_church_korea",
+    "source": "united_methodist_church",
+    "target": "african_methodist_episcopal_church",
     "strength": 100
   },
   {
-    "source": "protestant_church_switzerland",
-    "target": "presbyterian_church_east_africa",
+    "source": "united_methodist_church",
+    "target": "church_of_north_india",
     "strength": 100
   },
   {
-    "source": "protestant_church_switzerland",
-    "target": "church_of_south_india",
+    "source": "united_methodist_church",
+    "target": "methodist_church_of_nigeria",
     "strength": 100
   },
   {
-    "source": "pcusa",
-    "target": "ucc",
+    "source": "united_methodist_church",
+    "target": "church_of_pakistan",
     "strength": 100
   },
   {
-    "source": "pcusa",
-    "target": "protestant_church_netherlands",
+    "source": "church_of_south_india",
+    "target": "united_church_of_zambia",
     "strength": 100
   },
   {
-    "source": "pcusa",
-    "target": "presbyterian_church_korea",
+    "source": "church_of_south_india",
+    "target": "church_of_the_nazarene",
     "strength": 100
   },
   {
-    "source": "pcusa",
-    "target": "presbyterian_church_east_africa",
+    "source": "church_of_south_india",
+    "target": "methodist_church_of_southern_africa",
     "strength": 100
   },
   {
-    "source": "pcusa",
-    "target": "church_of_south_india",
+    "source": "church_of_south_india",
+    "target": "african_methodist_episcopal_church",
     "strength": 100
   },
   {
-    "source": "ucc",
-    "target": "protestant_church_netherlands",
+    "source": "church_of_south_india",
+    "target": "church_of_north_india",
     "strength": 100
   },
   {
-    "source": "ucc",
-    "target": "presbyterian_church_korea",
+    "source": "church_of_south_india",
+    "target": "methodist_church_of_nigeria",
     "strength": 100
   },
   {
-    "source": "ucc",
-    "target": "presbyterian_church_east_africa",
+    "source": "church_of_south_india",
+    "target": "church_of_pakistan",
     "strength": 100
   },
   {
-    "source": "ucc",
-    "target": "church_of_south_india",
+    "source": "united_church_of_zambia",
+    "target": "church_of_the_nazarene",
     "strength": 100
   },
   {
-    "source": "protestant_church_netherlands",
-    "target": "presbyterian_church_korea",
+    "source": "united_church_of_zambia",
+    "target": "methodist_church_of_southern_africa",
     "strength": 100
   },
   {
-    "source": "protestant_church_netherlands",
-    "target": "presbyterian_church_east_africa",
+    "source": "united_church_of_zambia",
+    "target": "african_methodist_episcopal_church",
     "strength": 100
   },
   {
-    "source": "protestant_church_netherlands",
-    "target": "church_of_south_india",
+    "source": "united_church_of_zambia",
+    "target": "church_of_north_india",
     "strength": 100
   },
   {
-    "source": "presbyterian_church_korea",
-    "target": "presbyterian_church_east_africa",
+    "source": "united_church_of_zambia",
+    "target": "methodist_church_of_nigeria",
     "strength": 100
   },
   {
-    "source": "presbyterian_church_korea",
-    "target": "church_of_south_india",
+    "source": "united_church_of_zambia",
+    "target": "church_of_pakistan",
     "strength": 100
   },
   {
-    "source": "presbyterian_church_east_africa",
-    "target": "church_of_south_india",
+    "source": "church_of_the_nazarene",
+    "target": "methodist_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_nazarene",
+    "target": "african_methodist_episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_nazarene",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_nazarene",
+    "target": "methodist_church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_the_nazarene",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "methodist_church_of_southern_africa",
+    "target": "african_methodist_episcopal_church",
+    "strength": 100
+  },
+  {
+    "source": "methodist_church_of_southern_africa",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "methodist_church_of_southern_africa",
+    "target": "methodist_church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "methodist_church_of_southern_africa",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "african_methodist_episcopal_church",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "african_methodist_episcopal_church",
+    "target": "methodist_church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "african_methodist_episcopal_church",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "methodist_church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "methodist_church_of_nigeria",
+    "target": "church_of_pakistan",
     "strength": 100
   }
 ]

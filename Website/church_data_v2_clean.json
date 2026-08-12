@@ -139,24 +139,6 @@
       "members": 400000
     },
     {
-      "id": "episcopal",
-      "name": "The Episcopal Church",
-      "tradition": "Anglican",
-      "members": 1800000
-    },
-    {
-      "id": "anglican_canada",
-      "name": "Anglican Church of Canada",
-      "tradition": "Anglican",
-      "members": 500000
-    },
-    {
-      "id": "elca",
-      "name": "Evangelical Lutheran Church in America",
-      "tradition": "Lutheran",
-      "members": 2800000
-    },
-    {
       "id": "lcms",
       "name": "Lutheran Church Missouri Synod",
       "tradition": "Lutheran",
@@ -277,12 +259,6 @@
       "members": 3000000
     },
     {
-      "id": "church_of_nigeria",
-      "name": "Church of Nigeria",
-      "tradition": "Anglican",
-      "members": 25000000
-    },
-    {
       "id": "evangelical_church_germany",
       "name": "Evangelical Church in Germany",
       "tradition": "Lutheran",
@@ -301,28 +277,16 @@
       "members": 3611670
     },
     {
-      "id": "church_of_england",
-      "name": "Church of England",
-      "tradition": "Anglican",
-      "members": 22000000
-    },
-    {
       "id": "evangelical_lutheran_church_of_finland",
       "name": "Evangelical Lutheran Church of Finland",
       "tradition": "Lutheran",
       "members": 3579616
     },
     {
-      "id": "evangelical_lutheran_church_of_denmark",
-      "name": "Evangelical Lutheran Church of Denmark",
+      "id": "evangelical_lutheran_church_of_hanover",
+      "name": "Evangelical Lutheran Church of Hanover",
       "tradition": "Lutheran",
-      "members": 4400000
-    },
-    {
-      "id": "evangelical_lutheran_church_tanzania",
-      "name": "Evangelical Lutheran Church in Tanzania",
-      "tradition": "Lutheran",
-      "members": 8000000
+      "members": 2302547
     },
     {
       "id": "mekane_yesus",
@@ -343,10 +307,16 @@
       "members": 1000000
     },
     {
-      "id": "anglican_church_of_burundi",
-      "name": "Anglican Church of Burundi",
+      "id": "church_of_england",
+      "name": "Church of England",
       "tradition": "Anglican",
-      "members": 1000000
+      "members": 22000000
+    },
+    {
+      "id": "church_of_nigeria",
+      "name": "Church of Nigeria",
+      "tradition": "Anglican",
+      "members": 25000000
     },
     {
       "id": "anglican_church_of_kenya",
@@ -391,13 +361,25 @@
       "members": 1200000
     },
     {
+      "id": "episcopal",
+      "name": "The Episcopal Church",
+      "tradition": "Anglican",
+      "members": 1800000
+    },
+    {
+      "id": "anglican_canada",
+      "name": "Anglican Church of Canada",
+      "tradition": "Anglican",
+      "members": 500000
+    },
+    {
       "id": "andhra_evangelical_lutheran_church",
       "name": "Andhra Evangelical Lutheran Church",
       "tradition": "Lutheran",
       "members": 3000000
     },
     {
-      "id": "evangelical_lutheran_church_in_america",
+      "id": "elca",
       "name": "Evangelical Lutheran Church in America",
       "tradition": "Lutheran",
       "members": 2904686
@@ -433,7 +415,7 @@
       "members": 6333000
     },
     {
-      "id": "protestant_church_in_the_netherlands",
+      "id": "protestant_church_netherlands",
       "name": "Protestant Church in the Netherlands",
       "tradition": "Lutheran",
       "members": 1425000
@@ -443,6 +425,30 @@
       "name": "The Lutheran Church of Christ in Nigeria",
       "tradition": "Lutheran",
       "members": 2200000
+    },
+    {
+      "id": "reformed_church_hungary",
+      "name": "Reformed Church in Hungary",
+      "tradition": "Presbyterian",
+      "members": 1623991
+    },
+    {
+      "id": "protestant_church_switzerland",
+      "name": "Protestant Church in Switzerland",
+      "tradition": "Presbyterian",
+      "members": 1782513
+    },
+    {
+      "id": "presbyterian_church_korea",
+      "name": "Presbyterian Church of Korea",
+      "tradition": "Presbyterian",
+      "members": 2190919
+    },
+    {
+      "id": "presbyterian_church_east_africa",
+      "name": "Presbyterian Church of East Africa",
+      "tradition": "Presbyterian",
+      "members": 4000000
     }
   ],
   "relationships": [
@@ -1018,11 +1024,6 @@
     },
     {
       "source": "sbc",
-      "target": "cbf",
-      "strength": 25
-    },
-    {
-      "source": "sbc",
       "target": "disciples_of_christ",
       "strength": 25
     },
@@ -1197,27 +1198,27 @@
       "strength": 5
     },
     {
-      "source": "evangelical_lutheran_church_tanzania",
+      "source": "evangelical_lutheran_church_in_tanzania",
       "target": "elca",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_tanzania",
+      "source": "evangelical_lutheran_church_in_tanzania",
       "target": "church_of_sweden",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_tanzania",
+      "source": "evangelical_lutheran_church_in_tanzania",
       "target": "church_of_norway",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_tanzania",
+      "source": "evangelical_lutheran_church_in_tanzania",
       "target": "evangelical_church_germany",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_tanzania",
+      "source": "evangelical_lutheran_church_in_tanzania",
       "target": "lcms",
       "strength": 25
     },
@@ -1493,7 +1494,7 @@
     },
     {
       "source": "church_of_sweden",
-      "target": "evangelical_lutheran_church_of_denmark",
+      "target": "evangelical_lutheran_church_in_denmark",
       "strength": 100
     },
     {
@@ -1503,7 +1504,7 @@
     },
     {
       "source": "church_of_norway",
-      "target": "evangelical_lutheran_church_of_denmark",
+      "target": "evangelical_lutheran_church_in_denmark",
       "strength": 100
     },
     {
@@ -1513,62 +1514,12 @@
     },
     {
       "source": "church_of_england",
-      "target": "evangelical_lutheran_church_of_denmark",
+      "target": "evangelical_lutheran_church_in_denmark",
       "strength": 100
     },
     {
       "source": "evangelical_lutheran_church_of_finland",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 100
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "anglican_church_of_kenya",
-      "strength": 100
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 100
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "anglican_church_of_tanzania",
-      "strength": 100
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "church_of_england",
-      "strength": 100
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "church_of_nigeria",
-      "strength": 100
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "church_of_north_india",
-      "strength": 100
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "church_of_south_india",
-      "strength": 100
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 100
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "episcopal",
-      "strength": 100
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "anglican_church_of_rwanda",
+      "target": "evangelical_lutheran_church_in_denmark",
       "strength": 100
     },
     {
@@ -1793,7 +1744,7 @@
     },
     {
       "source": "andhra_evangelical_lutheran_church",
-      "target": "evangelical_lutheran_church_in_america",
+      "target": "elca",
       "strength": 100
     },
     {
@@ -1813,6 +1764,11 @@
     },
     {
       "source": "andhra_evangelical_lutheran_church",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 100
+    },
+    {
+      "source": "andhra_evangelical_lutheran_church",
       "target": "evangelical_lutheran_church_of_papua_new_guinea",
       "strength": 100
     },
@@ -1828,7 +1784,7 @@
     },
     {
       "source": "andhra_evangelical_lutheran_church",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 100
     },
     {
@@ -1843,17 +1799,7 @@
     },
     {
       "source": "church_of_norway",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 100
-    },
-    {
-      "source": "church_of_norway",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 100
-    },
-    {
-      "source": "church_of_norway",
-      "target": "evangelical_lutheran_church_in_tanzania",
+      "target": "evangelical_lutheran_church_of_hanover",
       "strength": 100
     },
     {
@@ -1873,7 +1819,7 @@
     },
     {
       "source": "church_of_norway",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 100
     },
     {
@@ -1883,17 +1829,7 @@
     },
     {
       "source": "church_of_sweden",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 100
-    },
-    {
-      "source": "church_of_sweden",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 100
-    },
-    {
-      "source": "church_of_sweden",
-      "target": "evangelical_lutheran_church_in_tanzania",
+      "target": "evangelical_lutheran_church_of_hanover",
       "strength": 100
     },
     {
@@ -1913,7 +1849,7 @@
     },
     {
       "source": "church_of_sweden",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 100
     },
     {
@@ -1922,47 +1858,42 @@
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_america",
+      "source": "elca",
       "target": "evangelical_lutheran_church_in_denmark",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_america",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 100
-    },
-    {
-      "source": "evangelical_lutheran_church_in_america",
+      "source": "elca",
       "target": "evangelical_lutheran_church_of_finland",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_america",
+      "source": "elca",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 100
+    },
+    {
+      "source": "elca",
       "target": "evangelical_lutheran_church_of_papua_new_guinea",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_america",
+      "source": "elca",
       "target": "malagasy_lutheran_church",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_america",
+      "source": "elca",
       "target": "protestant_christian_batak_church_hkbp",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_america",
-      "target": "protestant_church_in_the_netherlands",
+      "source": "elca",
+      "target": "protestant_church_netherlands",
       "strength": 100
     },
     {
-      "source": "evangelical_lutheran_church_in_america",
-      "target": "mekane_yesus",
-      "strength": 100
-    },
-    {
-      "source": "evangelical_lutheran_church_in_america",
+      "source": "elca",
       "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
@@ -1973,7 +1904,7 @@
     },
     {
       "source": "evangelical_lutheran_church_in_denmark",
-      "target": "evangelical_lutheran_church_of_finland",
+      "target": "evangelical_lutheran_church_of_hanover",
       "strength": 100
     },
     {
@@ -1993,7 +1924,7 @@
     },
     {
       "source": "evangelical_lutheran_church_in_denmark",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 100
     },
     {
@@ -2013,6 +1944,11 @@
     },
     {
       "source": "evangelical_lutheran_church_in_tanzania",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 100
+    },
+    {
+      "source": "evangelical_lutheran_church_in_tanzania",
       "target": "evangelical_lutheran_church_of_papua_new_guinea",
       "strength": 100
     },
@@ -2028,7 +1964,7 @@
     },
     {
       "source": "evangelical_lutheran_church_in_tanzania",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 100
     },
     {
@@ -2043,6 +1979,11 @@
     },
     {
       "source": "evangelical_lutheran_church_of_finland",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 100
+    },
+    {
+      "source": "evangelical_lutheran_church_of_finland",
       "target": "evangelical_lutheran_church_of_papua_new_guinea",
       "strength": 100
     },
@@ -2058,7 +1999,7 @@
     },
     {
       "source": "evangelical_lutheran_church_of_finland",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 100
     },
     {
@@ -2068,6 +2009,36 @@
     },
     {
       "source": "evangelical_lutheran_church_of_finland",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 100
+    },
+    {
+      "source": "evangelical_lutheran_church_of_hanover",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 100
+    },
+    {
+      "source": "evangelical_lutheran_church_of_hanover",
+      "target": "malagasy_lutheran_church",
+      "strength": 100
+    },
+    {
+      "source": "evangelical_lutheran_church_of_hanover",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 100
+    },
+    {
+      "source": "evangelical_lutheran_church_of_hanover",
+      "target": "protestant_church_netherlands",
+      "strength": 100
+    },
+    {
+      "source": "evangelical_lutheran_church_of_hanover",
+      "target": "mekane_yesus",
+      "strength": 100
+    },
+    {
+      "source": "evangelical_lutheran_church_of_hanover",
       "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
@@ -2083,7 +2054,7 @@
     },
     {
       "source": "evangelical_lutheran_church_of_papua_new_guinea",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 100
     },
     {
@@ -2103,7 +2074,7 @@
     },
     {
       "source": "malagasy_lutheran_church",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 100
     },
     {
@@ -2118,7 +2089,7 @@
     },
     {
       "source": "protestant_christian_batak_church_hkbp",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 100
     },
     {
@@ -2132,12 +2103,12 @@
       "strength": 100
     },
     {
-      "source": "protestant_church_in_the_netherlands",
+      "source": "protestant_church_netherlands",
       "target": "mekane_yesus",
       "strength": 100
     },
     {
-      "source": "protestant_church_in_the_netherlands",
+      "source": "protestant_church_netherlands",
       "target": "the_lutheran_church_of_christ_in_nigeria",
       "strength": 100
     },
@@ -2558,11 +2529,6 @@
     },
     {
       "source": "episcopal",
-      "target": "cbf",
-      "strength": 25
-    },
-    {
-      "source": "episcopal",
       "target": "rca",
       "strength": 25
     },
@@ -2603,12 +2569,12 @@
     },
     {
       "source": "episcopal",
-      "target": "evangelical_lutheran_church_of_denmark",
+      "target": "evangelical_lutheran_church_in_denmark",
       "strength": 25
     },
     {
       "source": "episcopal",
-      "target": "evangelical_lutheran_church_tanzania",
+      "target": "evangelical_lutheran_church_in_tanzania",
       "strength": 25
     },
     {
@@ -2628,17 +2594,7 @@
     },
     {
       "source": "episcopal",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "episcopal",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "episcopal",
-      "target": "evangelical_lutheran_church_in_tanzania",
+      "target": "evangelical_lutheran_church_of_hanover",
       "strength": 25
     },
     {
@@ -2658,7 +2614,7 @@
     },
     {
       "source": "episcopal",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 25
     },
     {
@@ -2689,11 +2645,6 @@
     {
       "source": "anglican_canada",
       "target": "abcusa",
-      "strength": 25
-    },
-    {
-      "source": "anglican_canada",
-      "target": "cbf",
       "strength": 25
     },
     {
@@ -2768,22 +2719,17 @@
     },
     {
       "source": "anglican_canada",
-      "target": "evangelical_lutheran_church_of_denmark",
+      "target": "evangelical_lutheran_church_in_denmark",
       "strength": 25
     },
     {
       "source": "anglican_canada",
-      "target": "evangelical_lutheran_church_tanzania",
+      "target": "evangelical_lutheran_church_in_tanzania",
       "strength": 25
     },
     {
       "source": "anglican_canada",
       "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "anglican_canada",
-      "target": "anglican_church_of_burundi",
       "strength": 25
     },
     {
@@ -2828,17 +2774,7 @@
     },
     {
       "source": "anglican_canada",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "anglican_canada",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "anglican_canada",
-      "target": "evangelical_lutheran_church_in_tanzania",
+      "target": "evangelical_lutheran_church_of_hanover",
       "strength": 25
     },
     {
@@ -2858,7 +2794,7 @@
     },
     {
       "source": "anglican_canada",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 25
     },
     {
@@ -2883,11 +2819,6 @@
     },
     {
       "source": "elca",
-      "target": "cbf",
-      "strength": 25
-    },
-    {
-      "source": "elca",
       "target": "pca",
       "strength": 25
     },
@@ -2899,21 +2830,6 @@
     {
       "source": "elca",
       "target": "church_of_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "elca",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 25
-    },
-    {
-      "source": "elca",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "elca",
-      "target": "anglican_church_of_burundi",
       "strength": 25
     },
     {
@@ -2953,47 +2869,7 @@
     },
     {
       "source": "elca",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "elca",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "elca",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "elca",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "elca",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "elca",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "elca",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "elca",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "elca",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "target": "elca",
       "strength": 25
     },
     {
@@ -3023,11 +2899,6 @@
     },
     {
       "source": "lcms",
-      "target": "cbf",
-      "strength": 25
-    },
-    {
-      "source": "lcms",
       "target": "rca",
       "strength": 25
     },
@@ -3113,12 +2984,7 @@
     },
     {
       "source": "lcms",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "lcms",
-      "target": "anglican_church_of_burundi",
+      "target": "evangelical_lutheran_church_in_denmark",
       "strength": 25
     },
     {
@@ -3163,17 +3029,7 @@
     },
     {
       "source": "lcms",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "lcms",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "lcms",
-      "target": "evangelical_lutheran_church_in_tanzania",
+      "target": "evangelical_lutheran_church_of_hanover",
       "strength": 25
     },
     {
@@ -3193,7 +3049,7 @@
     },
     {
       "source": "lcms",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 25
     },
     {
@@ -3213,11 +3069,6 @@
     },
     {
       "source": "umc",
-      "target": "cbf",
-      "strength": 25
-    },
-    {
-      "source": "umc",
       "target": "pca",
       "strength": 25
     },
@@ -3258,22 +3109,17 @@
     },
     {
       "source": "umc",
-      "target": "evangelical_lutheran_church_of_denmark",
+      "target": "evangelical_lutheran_church_in_denmark",
       "strength": 25
     },
     {
       "source": "umc",
-      "target": "evangelical_lutheran_church_tanzania",
+      "target": "evangelical_lutheran_church_in_tanzania",
       "strength": 25
     },
     {
       "source": "umc",
       "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "umc",
-      "target": "anglican_church_of_burundi",
       "strength": 25
     },
     {
@@ -3318,17 +3164,7 @@
     },
     {
       "source": "umc",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "umc",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "umc",
-      "target": "evangelical_lutheran_church_in_tanzania",
+      "target": "evangelical_lutheran_church_of_hanover",
       "strength": 25
     },
     {
@@ -3348,7 +3184,7 @@
     },
     {
       "source": "umc",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 25
     },
     {
@@ -3368,11 +3204,6 @@
     },
     {
       "source": "global_methodist",
-      "target": "cbf",
-      "strength": 25
-    },
-    {
-      "source": "global_methodist",
       "target": "rca",
       "strength": 25
     },
@@ -3458,22 +3289,17 @@
     },
     {
       "source": "global_methodist",
-      "target": "evangelical_lutheran_church_of_denmark",
+      "target": "evangelical_lutheran_church_in_denmark",
       "strength": 25
     },
     {
       "source": "global_methodist",
-      "target": "evangelical_lutheran_church_tanzania",
+      "target": "evangelical_lutheran_church_in_tanzania",
       "strength": 25
     },
     {
       "source": "global_methodist",
       "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "global_methodist",
-      "target": "anglican_church_of_burundi",
       "strength": 25
     },
     {
@@ -3518,17 +3344,7 @@
     },
     {
       "source": "global_methodist",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "global_methodist",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "global_methodist",
-      "target": "evangelical_lutheran_church_in_tanzania",
+      "target": "evangelical_lutheran_church_of_hanover",
       "strength": 25
     },
     {
@@ -3548,7 +3364,7 @@
     },
     {
       "source": "global_methodist",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 25
     },
     {
@@ -3568,11 +3384,6 @@
     },
     {
       "source": "wesleyan",
-      "target": "cbf",
-      "strength": 25
-    },
-    {
-      "source": "wesleyan",
       "target": "rca",
       "strength": 25
     },
@@ -3658,22 +3469,17 @@
     },
     {
       "source": "wesleyan",
-      "target": "evangelical_lutheran_church_of_denmark",
+      "target": "evangelical_lutheran_church_in_denmark",
       "strength": 25
     },
     {
       "source": "wesleyan",
-      "target": "evangelical_lutheran_church_tanzania",
+      "target": "evangelical_lutheran_church_in_tanzania",
       "strength": 25
     },
     {
       "source": "wesleyan",
       "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "wesleyan",
-      "target": "anglican_church_of_burundi",
       "strength": 25
     },
     {
@@ -3718,17 +3524,7 @@
     },
     {
       "source": "wesleyan",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "wesleyan",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "wesleyan",
-      "target": "evangelical_lutheran_church_in_tanzania",
+      "target": "evangelical_lutheran_church_of_hanover",
       "strength": 25
     },
     {
@@ -3748,7 +3544,7 @@
     },
     {
       "source": "wesleyan",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 25
     },
     {
@@ -3808,22 +3604,17 @@
     },
     {
       "source": "sbc",
-      "target": "evangelical_lutheran_church_of_denmark",
+      "target": "evangelical_lutheran_church_in_denmark",
       "strength": 25
     },
     {
       "source": "sbc",
-      "target": "evangelical_lutheran_church_tanzania",
+      "target": "evangelical_lutheran_church_in_tanzania",
       "strength": 25
     },
     {
       "source": "sbc",
       "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "sbc",
-      "target": "anglican_church_of_burundi",
       "strength": 25
     },
     {
@@ -3868,17 +3659,7 @@
     },
     {
       "source": "sbc",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "sbc",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "sbc",
-      "target": "evangelical_lutheran_church_in_tanzania",
+      "target": "evangelical_lutheran_church_of_hanover",
       "strength": 25
     },
     {
@@ -3898,17 +3679,12 @@
     },
     {
       "source": "sbc",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 25
     },
     {
       "source": "sbc",
       "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "abcusa",
-      "target": "cbf",
       "strength": 25
     },
     {
@@ -3983,22 +3759,17 @@
     },
     {
       "source": "abcusa",
-      "target": "evangelical_lutheran_church_of_denmark",
+      "target": "evangelical_lutheran_church_in_denmark",
       "strength": 25
     },
     {
       "source": "abcusa",
-      "target": "evangelical_lutheran_church_tanzania",
+      "target": "evangelical_lutheran_church_in_tanzania",
       "strength": 25
     },
     {
       "source": "abcusa",
       "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "abcusa",
-      "target": "anglican_church_of_burundi",
       "strength": 25
     },
     {
@@ -4043,17 +3814,7 @@
     },
     {
       "source": "abcusa",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "abcusa",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "abcusa",
-      "target": "evangelical_lutheran_church_in_tanzania",
+      "target": "evangelical_lutheran_church_of_hanover",
       "strength": 25
     },
     {
@@ -4073,7 +3834,7 @@
     },
     {
       "source": "abcusa",
-      "target": "protestant_church_in_the_netherlands",
+      "target": "protestant_church_netherlands",
       "strength": 25
     },
     {
@@ -4082,2734 +3843,2234 @@
       "strength": 25
     },
     {
-      "source": "cbf",
-      "target": "rca",
+      "source": "rca",
+      "target": "amish",
       "strength": 25
     },
     {
-      "source": "cbf",
+      "source": "rca",
+      "target": "assemblies_of_god",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "church_of_god",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "churches_of_christ",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "disciples_of_christ",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "seventh_day_adventist",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "moravian",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "church_of_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "church_of_sweden",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "church_of_norway",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "church_of_england",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "evangelical_lutheran_church_of_finland",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "evangelical_lutheran_church_in_denmark",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "evangelical_lutheran_church_in_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "mekane_yesus",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "rca",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "amish",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "moravian",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "church_of_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "church_of_sweden",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "church_of_norway",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "church_of_england",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "evangelical_lutheran_church_of_finland",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "evangelical_lutheran_church_in_denmark",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "evangelical_lutheran_church_in_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "mekane_yesus",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "pcusa",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "ucc",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "amish",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "assemblies_of_god",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "church_of_god",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "churches_of_christ",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "disciples_of_christ",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "seventh_day_adventist",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "moravian",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "church_of_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "evangelical_church_germany",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "church_of_sweden",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "church_of_norway",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "church_of_england",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "evangelical_lutheran_church_of_finland",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "evangelical_lutheran_church_in_denmark",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "evangelical_lutheran_church_in_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "mekane_yesus",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "pca",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "amish",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "assemblies_of_god",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "church_of_god",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "churches_of_christ",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "seventh_day_adventist",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "church_of_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "evangelical_church_germany",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "church_of_sweden",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "church_of_norway",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "church_of_england",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "evangelical_lutheran_church_of_finland",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "evangelical_lutheran_church_in_denmark",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "evangelical_lutheran_church_in_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "mekane_yesus",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "ucc",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "assemblies_of_god",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "church_of_god",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "churches_of_christ",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "disciples_of_christ",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "seventh_day_adventist",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "moravian",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "church_of_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "evangelical_church_germany",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "church_of_sweden",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "church_of_norway",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "church_of_england",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "evangelical_lutheran_church_of_finland",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "evangelical_lutheran_church_in_denmark",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "evangelical_lutheran_church_in_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "mekane_yesus",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "amish",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "disciples_of_christ",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "moravian",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "church_of_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "evangelical_church_germany",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "church_of_sweden",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "church_of_norway",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "evangelical_lutheran_church_of_finland",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "evangelical_lutheran_church_in_denmark",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "evangelical_lutheran_church_in_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "mekane_yesus",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "assemblies_of_god",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "disciples_of_christ",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "moravian",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "church_of_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "evangelical_church_germany",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "church_of_sweden",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "church_of_norway",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "church_of_england",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "evangelical_lutheran_church_of_finland",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "evangelical_lutheran_church_in_denmark",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "evangelical_lutheran_church_in_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "mekane_yesus",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "church_of_god",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "seventh_day_adventist",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "moravian",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "church_of_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "evangelical_church_germany",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "church_of_sweden",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "church_of_norway",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "church_of_england",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "evangelical_lutheran_church_of_finland",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "evangelical_lutheran_church_in_denmark",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "evangelical_lutheran_church_in_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "mekane_yesus",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "churches_of_christ",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "seventh_day_adventist",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "moravian",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "church_of_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "evangelical_church_germany",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "church_of_sweden",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "church_of_norway",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "church_of_england",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "evangelical_lutheran_church_of_finland",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "evangelical_lutheran_church_in_denmark",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "evangelical_lutheran_church_in_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "mekane_yesus",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "disciples_of_christ",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "moravian",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "church_of_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "evangelical_church_germany",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "church_of_sweden",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "church_of_norway",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "church_of_england",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "evangelical_lutheran_church_of_finland",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "evangelical_lutheran_church_in_denmark",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "evangelical_lutheran_church_in_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "mekane_yesus",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "seventh_day_adventist",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "church_of_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "evangelical_church_germany",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "church_of_sweden",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "church_of_norway",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "church_of_england",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "evangelical_lutheran_church_of_finland",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "evangelical_lutheran_church_in_denmark",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "evangelical_lutheran_church_in_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "mekane_yesus",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "moravian",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "church_of_nigeria",
+      "target": "evangelical_church_germany",
+      "strength": 25
+    },
+    {
+      "source": "church_of_nigeria",
+      "target": "church_of_sweden",
+      "strength": 25
+    },
+    {
+      "source": "church_of_nigeria",
+      "target": "church_of_norway",
+      "strength": 25
+    },
+    {
+      "source": "church_of_nigeria",
+      "target": "evangelical_lutheran_church_of_finland",
+      "strength": 25
+    },
+    {
+      "source": "church_of_nigeria",
+      "target": "evangelical_lutheran_church_in_denmark",
+      "strength": 25
+    },
+    {
+      "source": "church_of_nigeria",
+      "target": "evangelical_lutheran_church_in_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "church_of_nigeria",
+      "target": "mekane_yesus",
+      "strength": 25
+    },
+    {
+      "source": "church_of_nigeria",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "church_of_nigeria",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "church_of_nigeria",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "church_of_nigeria",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "church_of_nigeria",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "church_of_nigeria",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "church_of_nigeria",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "evangelical_lutheran_church_of_finland",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "evangelical_lutheran_church_in_denmark",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_church_germany",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "church_of_sweden",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "church_of_sweden",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "church_of_sweden",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "church_of_sweden",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "church_of_sweden",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "church_of_sweden",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "church_of_sweden",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "church_of_norway",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "church_of_norway",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "church_of_norway",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "church_of_norway",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "church_of_norway",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "church_of_norway",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "church_of_norway",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "church_of_england",
+      "target": "evangelical_lutheran_church_in_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "church_of_england",
+      "target": "mekane_yesus",
+      "strength": 25
+    },
+    {
+      "source": "church_of_england",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "church_of_england",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "church_of_england",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "church_of_england",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "church_of_england",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "church_of_england",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "church_of_england",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_of_finland",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_of_finland",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_of_finland",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_of_finland",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_of_finland",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_of_finland",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_of_finland",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_denmark",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_denmark",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_denmark",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_denmark",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_denmark",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_denmark",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_denmark",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_denmark",
+      "target": "evangelical_lutheran_church_in_denmark",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_tanzania",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_tanzania",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_tanzania",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_tanzania",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_tanzania",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_tanzania",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_tanzania",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "evangelical_lutheran_church_in_tanzania",
+      "target": "evangelical_lutheran_church_in_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "mekane_yesus",
+      "target": "anglican_church_of_kenya",
+      "strength": 25
+    },
+    {
+      "source": "mekane_yesus",
+      "target": "anglican_church_of_southern_africa",
+      "strength": 25
+    },
+    {
+      "source": "mekane_yesus",
+      "target": "anglican_church_of_tanzania",
+      "strength": 25
+    },
+    {
+      "source": "mekane_yesus",
+      "target": "church_of_north_india",
+      "strength": 25
+    },
+    {
+      "source": "mekane_yesus",
+      "target": "church_of_south_india",
+      "strength": 25
+    },
+    {
+      "source": "mekane_yesus",
+      "target": "church_of_the_province_of_uganda",
+      "strength": 25
+    },
+    {
+      "source": "mekane_yesus",
+      "target": "anglican_church_of_rwanda",
+      "strength": 25
+    },
+    {
+      "source": "mekane_yesus",
+      "target": "mekane_yesus",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_kenya",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_kenya",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_kenya",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_kenya",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_kenya",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_kenya",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_kenya",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_southern_africa",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_southern_africa",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_southern_africa",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_southern_africa",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_southern_africa",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_southern_africa",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_southern_africa",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_tanzania",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_tanzania",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_tanzania",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_tanzania",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_tanzania",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_tanzania",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_tanzania",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "church_of_north_india",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "church_of_north_india",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "church_of_north_india",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "church_of_north_india",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "church_of_north_india",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "church_of_north_india",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "church_of_north_india",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "church_of_south_india",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "church_of_south_india",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "church_of_south_india",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "church_of_south_india",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "church_of_south_india",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "church_of_south_india",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "church_of_south_india",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "church_of_the_province_of_uganda",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "church_of_the_province_of_uganda",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "church_of_the_province_of_uganda",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "church_of_the_province_of_uganda",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "church_of_the_province_of_uganda",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "church_of_the_province_of_uganda",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "church_of_the_province_of_uganda",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_rwanda",
+      "target": "andhra_evangelical_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_rwanda",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_rwanda",
+      "target": "evangelical_lutheran_church_of_papua_new_guinea",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_rwanda",
+      "target": "malagasy_lutheran_church",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_rwanda",
+      "target": "protestant_christian_batak_church_hkbp",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_rwanda",
+      "target": "protestant_church_netherlands",
+      "strength": 25
+    },
+    {
+      "source": "anglican_church_of_rwanda",
+      "target": "the_lutheran_church_of_christ_in_nigeria",
+      "strength": 25
+    },
+    {
+      "source": "reformed_church_hungary",
+      "target": "protestant_church_switzerland",
+      "strength": 100
+    },
+    {
+      "source": "reformed_church_hungary",
       "target": "pcusa",
-      "strength": 25
+      "strength": 100
     },
     {
-      "source": "cbf",
-      "target": "pca",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
+      "source": "reformed_church_hungary",
       "target": "ucc",
-      "strength": 25
+      "strength": 100
     },
     {
-      "source": "cbf",
-      "target": "amish",
-      "strength": 25
+      "source": "reformed_church_hungary",
+      "target": "protestant_church_netherlands",
+      "strength": 100
     },
     {
-      "source": "cbf",
-      "target": "assemblies_of_god",
-      "strength": 25
+      "source": "reformed_church_hungary",
+      "target": "presbyterian_church_korea",
+      "strength": 100
     },
     {
-      "source": "cbf",
-      "target": "church_of_god",
-      "strength": 25
+      "source": "reformed_church_hungary",
+      "target": "presbyterian_church_east_africa",
+      "strength": 100
     },
     {
-      "source": "cbf",
-      "target": "churches_of_christ",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "disciples_of_christ",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "seventh_day_adventist",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "moravian",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "church_of_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "evangelical_church_germany",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "church_of_sweden",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "church_of_norway",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "church_of_england",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
+      "source": "reformed_church_hungary",
       "target": "church_of_south_india",
-      "strength": 25
+      "strength": 100
     },
     {
-      "source": "cbf",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
+      "source": "protestant_church_switzerland",
+      "target": "pcusa",
+      "strength": 100
     },
     {
-      "source": "cbf",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
+      "source": "protestant_church_switzerland",
+      "target": "ucc",
+      "strength": 100
     },
     {
-      "source": "cbf",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
+      "source": "protestant_church_switzerland",
+      "target": "protestant_church_netherlands",
+      "strength": 100
     },
     {
-      "source": "cbf",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
+      "source": "protestant_church_switzerland",
+      "target": "presbyterian_church_korea",
+      "strength": 100
     },
     {
-      "source": "cbf",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
+      "source": "protestant_church_switzerland",
+      "target": "presbyterian_church_east_africa",
+      "strength": 100
     },
     {
-      "source": "cbf",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "cbf",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "amish",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "assemblies_of_god",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "church_of_god",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "churches_of_christ",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "disciples_of_christ",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "seventh_day_adventist",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "moravian",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "church_of_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "church_of_sweden",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "church_of_norway",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "church_of_england",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "rca",
+      "source": "protestant_church_switzerland",
       "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "rca",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "amish",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "moravian",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "church_of_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "church_of_sweden",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "church_of_norway",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "church_of_england",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "pcusa",
-      "target": "evangelical_lutheran_church_in_america",
       "strength": 100
     },
     {
       "source": "pcusa",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
+      "target": "presbyterian_church_korea",
+      "strength": 100
     },
     {
       "source": "pcusa",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
+      "target": "presbyterian_church_east_africa",
+      "strength": 100
     },
     {
-      "source": "pcusa",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
+      "source": "ucc",
+      "target": "presbyterian_church_korea",
+      "strength": 100
     },
     {
-      "source": "pcusa",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
+      "source": "ucc",
+      "target": "presbyterian_church_east_africa",
+      "strength": 100
     },
     {
-      "source": "pcusa",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
+      "source": "protestant_church_netherlands",
+      "target": "presbyterian_church_korea",
+      "strength": 100
     },
     {
-      "source": "pcusa",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
+      "source": "protestant_church_netherlands",
+      "target": "presbyterian_church_east_africa",
+      "strength": 100
     },
     {
-      "source": "pcusa",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
+      "source": "presbyterian_church_korea",
+      "target": "presbyterian_church_east_africa",
+      "strength": 100
     },
     {
-      "source": "pca",
-      "target": "ucc",
-      "strength": 25
+      "source": "presbyterian_church_korea",
+      "target": "church_of_south_india",
+      "strength": 100
     },
     {
-      "source": "pca",
-      "target": "amish",
-      "strength": 25
+      "source": "presbyterian_church_east_africa",
+      "target": "church_of_south_india",
+      "strength": 100
     },
     {
-      "source": "pca",
-      "target": "assemblies_of_god",
-      "strength": 25
+      "source": "evangelical_church_germany",
+      "target": "reformed_church_hungary",
+      "strength": 100
     },
     {
-      "source": "pca",
-      "target": "church_of_god",
-      "strength": 25
+      "source": "reformed_church_hungary",
+      "target": "evangelical_lutheran_church_in_denmark",
+      "strength": 100
     },
     {
-      "source": "pca",
-      "target": "churches_of_christ",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "disciples_of_christ",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "seventh_day_adventist",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "moravian",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "church_of_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "evangelical_church_germany",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "church_of_sweden",
-      "strength": 25
-    },
-    {
-      "source": "pca",
+      "source": "reformed_church_hungary",
       "target": "church_of_norway",
-      "strength": 25
+      "strength": 100
     },
     {
-      "source": "pca",
-      "target": "church_of_england",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "pca",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "amish",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "assemblies_of_god",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "church_of_god",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "churches_of_christ",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "seventh_day_adventist",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "church_of_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "evangelical_church_germany",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "church_of_sweden",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "church_of_norway",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "church_of_england",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "ucc",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "assemblies_of_god",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "church_of_god",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "churches_of_christ",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "disciples_of_christ",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "seventh_day_adventist",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "moravian",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "church_of_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "evangelical_church_germany",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "church_of_sweden",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "church_of_norway",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "church_of_england",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "amish",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "disciples_of_christ",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "moravian",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "church_of_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "evangelical_church_germany",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "church_of_sweden",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "church_of_norway",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "assemblies_of_god",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "disciples_of_christ",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "moravian",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "church_of_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "evangelical_church_germany",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "church_of_sweden",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "church_of_norway",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "church_of_england",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "church_of_god",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "seventh_day_adventist",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "moravian",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "church_of_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "evangelical_church_germany",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "church_of_sweden",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "church_of_norway",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "church_of_england",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "churches_of_christ",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "seventh_day_adventist",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "moravian",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "church_of_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "evangelical_church_germany",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "church_of_sweden",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "church_of_norway",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "church_of_england",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "disciples_of_christ",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "moravian",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "church_of_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "evangelical_church_germany",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "church_of_sweden",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "church_of_norway",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "church_of_england",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "seventh_day_adventist",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "church_of_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "evangelical_church_germany",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "church_of_sweden",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "church_of_norway",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "church_of_england",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "moravian",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "evangelical_church_germany",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "church_of_sweden",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "church_of_norway",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "church_of_nigeria",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "evangelical_lutheran_church_of_finland",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "evangelical_lutheran_church_of_denmark",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_church_germany",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "church_of_sweden",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "church_of_sweden",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "church_of_sweden",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "church_of_sweden",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "church_of_sweden",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "church_of_sweden",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "church_of_sweden",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "church_of_sweden",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "church_of_norway",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "church_of_norway",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "church_of_norway",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "church_of_norway",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "church_of_norway",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "church_of_norway",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "church_of_norway",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "church_of_norway",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "church_of_england",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "church_of_england",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "church_of_england",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "church_of_england",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "church_of_england",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "church_of_england",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "church_of_england",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "church_of_england",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "church_of_england",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "church_of_england",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "church_of_england",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_finland",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_finland",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_finland",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_finland",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_finland",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_finland",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_finland",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_finland",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_finland",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "evangelical_lutheran_church_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_of_denmark",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "evangelical_lutheran_church_tanzania",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "mekane_yesus",
-      "target": "anglican_church_of_burundi",
-      "strength": 25
-    },
-    {
-      "source": "mekane_yesus",
-      "target": "anglican_church_of_kenya",
-      "strength": 25
-    },
-    {
-      "source": "mekane_yesus",
-      "target": "anglican_church_of_southern_africa",
-      "strength": 25
-    },
-    {
-      "source": "mekane_yesus",
-      "target": "anglican_church_of_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "mekane_yesus",
-      "target": "church_of_north_india",
-      "strength": 25
-    },
-    {
-      "source": "mekane_yesus",
-      "target": "church_of_south_india",
-      "strength": 25
-    },
-    {
-      "source": "mekane_yesus",
-      "target": "church_of_the_province_of_uganda",
-      "strength": 25
-    },
-    {
-      "source": "mekane_yesus",
-      "target": "anglican_church_of_rwanda",
-      "strength": 25
-    },
-    {
-      "source": "mekane_yesus",
-      "target": "mekane_yesus",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_burundi",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_kenya",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_kenya",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_kenya",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_kenya",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_kenya",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_kenya",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_kenya",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_kenya",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_kenya",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_southern_africa",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_southern_africa",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_southern_africa",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_southern_africa",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_southern_africa",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_southern_africa",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_southern_africa",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_southern_africa",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_southern_africa",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_tanzania",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_tanzania",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_tanzania",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_tanzania",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_tanzania",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_tanzania",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_tanzania",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_tanzania",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_tanzania",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "church_of_north_india",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "church_of_north_india",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "church_of_north_india",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "church_of_north_india",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "church_of_north_india",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "church_of_north_india",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "church_of_north_india",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "church_of_north_india",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "church_of_north_india",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "church_of_south_india",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "church_of_south_india",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "church_of_south_india",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "church_of_south_india",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "church_of_south_india",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "church_of_south_india",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "church_of_south_india",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "church_of_south_india",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "church_of_south_india",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "church_of_the_province_of_uganda",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "church_of_the_province_of_uganda",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "church_of_the_province_of_uganda",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "church_of_the_province_of_uganda",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "church_of_the_province_of_uganda",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "church_of_the_province_of_uganda",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "church_of_the_province_of_uganda",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "church_of_the_province_of_uganda",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "church_of_the_province_of_uganda",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_rwanda",
-      "target": "andhra_evangelical_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_rwanda",
-      "target": "evangelical_lutheran_church_in_america",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_rwanda",
-      "target": "evangelical_lutheran_church_in_denmark",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_rwanda",
-      "target": "evangelical_lutheran_church_in_tanzania",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_rwanda",
-      "target": "evangelical_lutheran_church_of_papua_new_guinea",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_rwanda",
-      "target": "malagasy_lutheran_church",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_rwanda",
-      "target": "protestant_christian_batak_church_hkbp",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_rwanda",
-      "target": "protestant_church_in_the_netherlands",
-      "strength": 25
-    },
-    {
-      "source": "anglican_church_of_rwanda",
-      "target": "the_lutheran_church_of_christ_in_nigeria",
-      "strength": 25
+      "source": "reformed_church_hungary",
+      "target": "evangelical_lutheran_church_of_hanover",
+      "strength": 100
     }
   ]
 }

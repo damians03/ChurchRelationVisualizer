@@ -1,50 +1,57 @@
 [
   
-{
-  "id": "reformed_church_hungary",
-  "name": "Reformed Church in Hungary",
-  "tradition": "Reformed",
-  "members": 1623991
-},
-{
-  "id": "protestant_church_switzerland",
-  "name": "Protestant Church in Switzerland",
-  "tradition": "Reformed",
-  "members": 1782513
-},
-{
-  "id": "pcusa",
-  "name": "Presbyterian Church (USA)",
-  "tradition": "Reformed",
-  "members": 1230000
-},
-{
-  "id": "ucc",
-  "name": "United Church of Christ",
-  "tradition": "Congregationalist",
-  "members": 1180000
-},
-{
-  "id": "protestant_church_netherlands",
-  "name": "Protestant Church in the Netherlands",
-  "tradition": "Dutch_Reformed",
-  "members": 1400000
-},
-{
-  "id": "presbyterian_church_korea",
-  "name": "Presbyterian Church of Korea",
-  "tradition": "Reformed",
-  "members": 2190919
-},{
-  "id": "presbyterian_church_east_africa",
-  "name": "Presbyterian Church of East Africa",
-  "tradition": "Reformed",
-  "members": 4000000
+    {
+  "id": "united_methodist_church",
+  "name": "United Methodist Church",
+  "tradition": "Methodist",
+  "members": 9984925
 },
 {
   "id": "church_of_south_india",
   "name": "Church of South India",
-  "tradition": "United Protestant",
+  "tradition": "Methodist",
+  "members": 5000000
+},
+{
+  "id": "united_church_of_zambia",
+  "name": "United Church of Zambia",
+  "tradition": "Methodist",
   "members": 4000000
+},
+{
+  "id": "church_of_the_nazarene",
+  "name": "Church of the Nazarene",
+  "tradition": "Methodist",
+  "members": 2764205
+},
+{
+  "id": "methodist_church_of_southern_africa",
+  "name": "Methodist Church of Southern Africa",
+  "tradition": "Methodist",
+  "members": 2600000
+},
+{
+  "id": "african_methodist_episcopal_church",
+  "name": "African Methodist Episcopal Church",
+  "tradition": "Methodist",
+  "members": 2500000
+},
+{
+  "id": "church_of_north_india",
+  "name": "Church of North India",
+  "tradition": "Methodist",
+  "members": 2300000
+},
+{
+  "id": "methodist_church_of_nigeria",
+  "name": "Methodist Church of Nigeria",
+  "tradition": "Methodist",
+  "members": 2000000
+},
+{
+  "id": "church_of_pakistan",
+  "name": "Church of Pakistan",
+  "tradition": "Methodist",
+  "members": 1900000
 }
 ]

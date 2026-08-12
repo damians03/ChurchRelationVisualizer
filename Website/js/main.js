@@ -1,5 +1,17 @@
 var sigInst, canvas, $GP
 
+var fullCommunionOnly = false;
+
+function isFullCommunion(edge) {
+    var strength = parseFloat(edge.attr.attributes.strength);
+    return !isNaN(strength) && strength >= 100;
+}
+
+function applyEdgeFilter() {
+    if (!sigInst) return;
+
+}
+
 //Load configuration file
 var config={};
 
@@ -110,6 +122,21 @@ function initSigma(config) {
 
 		a.draw();
 		configSigmaElements(config);
+        $("#fullCommunionOnly").change(function () {
+            fullCommunionOnly = $(this).is(":checked");
+
+            sigInst.iterEdges(function (e) {
+                var strength = parseFloat(e.attr.attributes.strength);
+
+                if (fullCommunionOnly && strength < 100) {
+                    e.hidden = true;
+                } else {
+                    e.hidden = false;
+                }
+            });
+
+            sigInst.draw();
+        });
 	}
     console.log(a)
     if (data.indexOf("gexf")>0 || data.indexOf("xml")>0){
@@ -308,6 +335,9 @@ function configSigmaElements(config) {
 		});
 
     }
+
+
+    
     $GP.bg = $(sigInst._core.domElements.bg);
     $GP.bg2 = $(sigInst._core.domElements.bg2);
     var a = [],
@@ -463,6 +493,9 @@ function nodeNormal() {
     !0 != $GP.calculating && !1 != sigInst.detail && (showGroups(!1), $GP.calculating = !0, sigInst.detail = !0, $GP.info.delay(400).animate({width:'hide'},350),$GP.cluster.hide(), sigInst.iterEdges(function (a) {
         
         a.attr.color = !1;
+        if (fullCommunionOnly && parseFloat(a.attr.attributes.strength) < 100) {
+            return;
+        }
         a.hidden = !1
     }), sigInst.iterNodes(function (a) {
         a.hidden = !1;
@@ -476,6 +509,7 @@ function nodeNormal() {
             a.active = false;
             a.forceLabel = false;
         }
+        
         
     }), sigInst.draw(2, 2, 2, 2), sigInst.neighbors = {}, sigInst.active = !1, $GP.calculating = !1, window.location.hash = "")
 }
@@ -526,11 +560,13 @@ function nodeActive(a) {
             colour: b.color,
             relation: getRelationType(b.attr.attributes.strength)
         };
-        
+        if (fullCommunionOnly && parseFloat(b.attr.attributes.strength) < 100) {
+            return;
+        }
    	   if (a==b.source) outgoing[b.target]=n;		//SAH
 	   else if (a==b.target) incoming[b.source]=n;		//SAH
        if (a == b.source || a == b.target) sigInst.neighbors[a == b.target ? b.source : b.target] = n;
-       b.hidden = !1, b.attr.color = "rgba(0, 0, 0, 1)";
+        b.hidden = !1, b.attr.color = "rgba(0, 0, 0, 1)";
     });
     var f = [];
     sigInst.iterNodes(function (a) {

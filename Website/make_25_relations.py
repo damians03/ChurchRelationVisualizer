@@ -1,8 +1,8 @@
 import json
 from itertools import combinations
 
-INPUT_FILE = "church_data_clean.json"
-OUTPUT_FILE = "church_data_protestant_25.json"
+INPUT_FILE = "church_data_25.json"
+OUTPUT_FILE = "church_data_25.json"
 
 # --------------------------------------------------
 # Protestant traditions to include
