@@ -1,182 +1,1157 @@
 [
   {
-    "source": "united_methodist_church",
+    "source": "evangelical_church_of_cameroon",
+    "target": "presbyterian_church_of_cameroon",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
+    "target": "presbyterian_community_in_congo",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
+    "target": "ethiopian_evangelical_church_mekane_yesus",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
+    "target": "church_of_north_india",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
     "target": "church_of_south_india",
     "strength": 100
   },
   {
-    "source": "united_methodist_church",
+    "source": "evangelical_church_of_cameroon",
+    "target": "protestant_church_in_indonesia",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
+    "target": "presbyterian_church_of_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
+    "target": "church_of_jesus_christ_in_madagascar",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
+    "target": "national_presbyterian_church_in_mexico",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
+    "target": "protestant_church_netherlands",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
+    "target": "presbyterian_church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
+    "target": "presbyterian_church_of_africa",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
+    "target": "united_congregational_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
+    "target": "presbyterian_church_korea",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
+    "target": "protestant_church_of_switzerland",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "evangelical_church_of_cameroon",
     "target": "united_church_of_zambia",
     "strength": 100
   },
   {
-    "source": "united_methodist_church",
-    "target": "church_of_the_nazarene",
+    "source": "evangelical_church_of_cameroon",
+    "target": "china_christian_council",
     "strength": 100
   },
   {
-    "source": "united_methodist_church",
-    "target": "methodist_church_of_southern_africa",
+    "source": "evangelical_church_of_cameroon",
+    "target": "reformed_church_hungary",
     "strength": 100
   },
   {
-    "source": "united_methodist_church",
-    "target": "african_methodist_episcopal_church",
+    "source": "evangelical_church_of_cameroon",
+    "target": "presbyterian_church_east_africa",
     "strength": 100
   },
   {
-    "source": "united_methodist_church",
+    "source": "presbyterian_church_of_cameroon",
+    "target": "presbyterian_community_in_congo",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_cameroon",
+    "target": "ethiopian_evangelical_church_mekane_yesus",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_cameroon",
     "target": "church_of_north_india",
     "strength": 100
   },
   {
-    "source": "united_methodist_church",
-    "target": "methodist_church_of_nigeria",
+    "source": "presbyterian_church_of_cameroon",
+    "target": "church_of_south_india",
     "strength": 100
   },
   {
-    "source": "united_methodist_church",
+    "source": "presbyterian_church_of_cameroon",
+    "target": "protestant_church_in_indonesia",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_cameroon",
+    "target": "presbyterian_church_of_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_cameroon",
+    "target": "church_of_jesus_christ_in_madagascar",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_cameroon",
+    "target": "national_presbyterian_church_in_mexico",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_cameroon",
+    "target": "protestant_church_netherlands",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_cameroon",
+    "target": "presbyterian_church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_cameroon",
     "target": "church_of_pakistan",
     "strength": 100
   },
   {
-    "source": "church_of_south_india",
+    "source": "presbyterian_church_of_cameroon",
+    "target": "presbyterian_church_of_africa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_cameroon",
+    "target": "united_congregational_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_cameroon",
+    "target": "presbyterian_church_korea",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_cameroon",
+    "target": "protestant_church_of_switzerland",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_cameroon",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_cameroon",
     "target": "united_church_of_zambia",
     "strength": 100
   },
   {
-    "source": "church_of_south_india",
-    "target": "church_of_the_nazarene",
+    "source": "presbyterian_church_of_cameroon",
+    "target": "china_christian_council",
     "strength": 100
   },
   {
-    "source": "church_of_south_india",
-    "target": "methodist_church_of_southern_africa",
+    "source": "presbyterian_church_of_cameroon",
+    "target": "reformed_church_hungary",
     "strength": 100
   },
   {
-    "source": "church_of_south_india",
-    "target": "african_methodist_episcopal_church",
+    "source": "presbyterian_church_of_cameroon",
+    "target": "presbyterian_church_east_africa",
     "strength": 100
   },
   {
-    "source": "church_of_south_india",
+    "source": "presbyterian_community_in_congo",
+    "target": "ethiopian_evangelical_church_mekane_yesus",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_community_in_congo",
     "target": "church_of_north_india",
     "strength": 100
   },
   {
-    "source": "church_of_south_india",
-    "target": "methodist_church_of_nigeria",
+    "source": "presbyterian_community_in_congo",
+    "target": "church_of_south_india",
     "strength": 100
   },
   {
-    "source": "church_of_south_india",
+    "source": "presbyterian_community_in_congo",
+    "target": "protestant_church_in_indonesia",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_community_in_congo",
+    "target": "presbyterian_church_of_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_community_in_congo",
+    "target": "church_of_jesus_christ_in_madagascar",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_community_in_congo",
+    "target": "national_presbyterian_church_in_mexico",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_community_in_congo",
+    "target": "protestant_church_netherlands",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_community_in_congo",
+    "target": "presbyterian_church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_community_in_congo",
     "target": "church_of_pakistan",
     "strength": 100
   },
   {
-    "source": "united_church_of_zambia",
-    "target": "church_of_the_nazarene",
+    "source": "presbyterian_community_in_congo",
+    "target": "presbyterian_church_of_africa",
     "strength": 100
   },
   {
-    "source": "united_church_of_zambia",
-    "target": "methodist_church_of_southern_africa",
+    "source": "presbyterian_community_in_congo",
+    "target": "united_congregational_church_of_southern_africa",
     "strength": 100
   },
   {
-    "source": "united_church_of_zambia",
-    "target": "african_methodist_episcopal_church",
+    "source": "presbyterian_community_in_congo",
+    "target": "presbyterian_church_korea",
     "strength": 100
   },
   {
-    "source": "united_church_of_zambia",
+    "source": "presbyterian_community_in_congo",
+    "target": "protestant_church_of_switzerland",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_community_in_congo",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_community_in_congo",
+    "target": "united_church_of_zambia",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_community_in_congo",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_community_in_congo",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_community_in_congo",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "ethiopian_evangelical_church_mekane_yesus",
     "target": "church_of_north_india",
     "strength": 100
   },
   {
-    "source": "united_church_of_zambia",
-    "target": "methodist_church_of_nigeria",
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "church_of_south_india",
     "strength": 100
   },
   {
-    "source": "united_church_of_zambia",
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "protestant_church_in_indonesia",
+    "strength": 100
+  },
+  {
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "presbyterian_church_of_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "church_of_jesus_christ_in_madagascar",
+    "strength": 100
+  },
+  {
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "national_presbyterian_church_in_mexico",
+    "strength": 100
+  },
+  {
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "protestant_church_netherlands",
+    "strength": 100
+  },
+  {
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "presbyterian_church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "ethiopian_evangelical_church_mekane_yesus",
     "target": "church_of_pakistan",
     "strength": 100
   },
   {
-    "source": "church_of_the_nazarene",
-    "target": "methodist_church_of_southern_africa",
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "presbyterian_church_of_africa",
     "strength": 100
   },
   {
-    "source": "church_of_the_nazarene",
-    "target": "african_methodist_episcopal_church",
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "united_congregational_church_of_southern_africa",
     "strength": 100
   },
   {
-    "source": "church_of_the_nazarene",
-    "target": "church_of_north_india",
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "presbyterian_church_korea",
     "strength": 100
   },
   {
-    "source": "church_of_the_nazarene",
-    "target": "methodist_church_of_nigeria",
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "protestant_church_of_switzerland",
     "strength": 100
   },
   {
-    "source": "church_of_the_nazarene",
-    "target": "church_of_pakistan",
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "presbyterian_church_usa",
     "strength": 100
   },
   {
-    "source": "methodist_church_of_southern_africa",
-    "target": "african_methodist_episcopal_church",
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "united_church_of_zambia",
     "strength": 100
   },
   {
-    "source": "methodist_church_of_southern_africa",
-    "target": "church_of_north_india",
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "china_christian_council",
     "strength": 100
   },
   {
-    "source": "methodist_church_of_southern_africa",
-    "target": "methodist_church_of_nigeria",
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "reformed_church_hungary",
     "strength": 100
   },
   {
-    "source": "methodist_church_of_southern_africa",
-    "target": "church_of_pakistan",
+    "source": "ethiopian_evangelical_church_mekane_yesus",
+    "target": "presbyterian_church_east_africa",
     "strength": 100
   },
   {
-    "source": "african_methodist_episcopal_church",
-    "target": "church_of_north_india",
+    "source": "church_of_north_india",
+    "target": "church_of_south_india",
     "strength": 100
   },
   {
-    "source": "african_methodist_episcopal_church",
-    "target": "methodist_church_of_nigeria",
+    "source": "church_of_north_india",
+    "target": "protestant_church_in_indonesia",
     "strength": 100
   },
   {
-    "source": "african_methodist_episcopal_church",
+    "source": "church_of_north_india",
+    "target": "presbyterian_church_of_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "church_of_jesus_christ_in_madagascar",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "national_presbyterian_church_in_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "protestant_church_netherlands",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "presbyterian_church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
     "target": "church_of_pakistan",
     "strength": 100
   },
   {
     "source": "church_of_north_india",
-    "target": "methodist_church_of_nigeria",
+    "target": "presbyterian_church_of_africa",
     "strength": 100
   },
   {
     "source": "church_of_north_india",
+    "target": "united_congregational_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "presbyterian_church_korea",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "protestant_church_of_switzerland",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "united_church_of_zambia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "church_of_north_india",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "protestant_church_in_indonesia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "presbyterian_church_of_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "church_of_jesus_christ_in_madagascar",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "national_presbyterian_church_in_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "protestant_church_netherlands",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "presbyterian_church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
     "target": "church_of_pakistan",
     "strength": 100
   },
   {
-    "source": "methodist_church_of_nigeria",
+    "source": "church_of_south_india",
+    "target": "presbyterian_church_of_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "united_congregational_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "presbyterian_church_korea",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "protestant_church_of_switzerland",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "united_church_of_zambia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "church_of_south_india",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_in_indonesia",
+    "target": "presbyterian_church_of_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_in_indonesia",
+    "target": "church_of_jesus_christ_in_madagascar",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_in_indonesia",
+    "target": "national_presbyterian_church_in_mexico",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_in_indonesia",
+    "target": "protestant_church_netherlands",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_in_indonesia",
+    "target": "presbyterian_church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_in_indonesia",
     "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_in_indonesia",
+    "target": "presbyterian_church_of_africa",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_in_indonesia",
+    "target": "united_congregational_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_in_indonesia",
+    "target": "presbyterian_church_korea",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_in_indonesia",
+    "target": "protestant_church_of_switzerland",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_in_indonesia",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_in_indonesia",
+    "target": "united_church_of_zambia",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_in_indonesia",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_in_indonesia",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_in_indonesia",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_east_africa",
+    "target": "church_of_jesus_christ_in_madagascar",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_east_africa",
+    "target": "national_presbyterian_church_in_mexico",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_east_africa",
+    "target": "protestant_church_netherlands",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_east_africa",
+    "target": "presbyterian_church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_east_africa",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_east_africa",
+    "target": "presbyterian_church_of_africa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_east_africa",
+    "target": "united_congregational_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_east_africa",
+    "target": "presbyterian_church_korea",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_east_africa",
+    "target": "protestant_church_of_switzerland",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_east_africa",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_east_africa",
+    "target": "united_church_of_zambia",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_east_africa",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_east_africa",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_east_africa",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_jesus_christ_in_madagascar",
+    "target": "national_presbyterian_church_in_mexico",
+    "strength": 100
+  },
+  {
+    "source": "church_of_jesus_christ_in_madagascar",
+    "target": "protestant_church_netherlands",
+    "strength": 100
+  },
+  {
+    "source": "church_of_jesus_christ_in_madagascar",
+    "target": "presbyterian_church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "church_of_jesus_christ_in_madagascar",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "church_of_jesus_christ_in_madagascar",
+    "target": "presbyterian_church_of_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_jesus_christ_in_madagascar",
+    "target": "united_congregational_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_jesus_christ_in_madagascar",
+    "target": "presbyterian_church_korea",
+    "strength": 100
+  },
+  {
+    "source": "church_of_jesus_christ_in_madagascar",
+    "target": "protestant_church_of_switzerland",
+    "strength": 100
+  },
+  {
+    "source": "church_of_jesus_christ_in_madagascar",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_jesus_christ_in_madagascar",
+    "target": "united_church_of_zambia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_jesus_christ_in_madagascar",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "church_of_jesus_christ_in_madagascar",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "church_of_jesus_christ_in_madagascar",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "national_presbyterian_church_in_mexico",
+    "target": "protestant_church_netherlands",
+    "strength": 100
+  },
+  {
+    "source": "national_presbyterian_church_in_mexico",
+    "target": "presbyterian_church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "national_presbyterian_church_in_mexico",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "national_presbyterian_church_in_mexico",
+    "target": "presbyterian_church_of_africa",
+    "strength": 100
+  },
+  {
+    "source": "national_presbyterian_church_in_mexico",
+    "target": "united_congregational_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "national_presbyterian_church_in_mexico",
+    "target": "presbyterian_church_korea",
+    "strength": 100
+  },
+  {
+    "source": "national_presbyterian_church_in_mexico",
+    "target": "protestant_church_of_switzerland",
+    "strength": 100
+  },
+  {
+    "source": "national_presbyterian_church_in_mexico",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "national_presbyterian_church_in_mexico",
+    "target": "united_church_of_zambia",
+    "strength": 100
+  },
+  {
+    "source": "national_presbyterian_church_in_mexico",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "national_presbyterian_church_in_mexico",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "national_presbyterian_church_in_mexico",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_netherlands",
+    "target": "presbyterian_church_of_nigeria",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_netherlands",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_netherlands",
+    "target": "presbyterian_church_of_africa",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_netherlands",
+    "target": "united_congregational_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_netherlands",
+    "target": "presbyterian_church_korea",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_netherlands",
+    "target": "protestant_church_of_switzerland",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_netherlands",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_netherlands",
+    "target": "united_church_of_zambia",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_netherlands",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_netherlands",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_netherlands",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_nigeria",
+    "target": "church_of_pakistan",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_nigeria",
+    "target": "presbyterian_church_of_africa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_nigeria",
+    "target": "united_congregational_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_nigeria",
+    "target": "presbyterian_church_korea",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_nigeria",
+    "target": "protestant_church_of_switzerland",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_nigeria",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_nigeria",
+    "target": "united_church_of_zambia",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_nigeria",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_nigeria",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_nigeria",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "presbyterian_church_of_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "united_congregational_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "presbyterian_church_korea",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "protestant_church_of_switzerland",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "united_church_of_zambia",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "church_of_pakistan",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_africa",
+    "target": "united_congregational_church_of_southern_africa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_africa",
+    "target": "presbyterian_church_korea",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_africa",
+    "target": "protestant_church_of_switzerland",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_africa",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_africa",
+    "target": "united_church_of_zambia",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_africa",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_africa",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_of_africa",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "united_congregational_church_of_southern_africa",
+    "target": "presbyterian_church_korea",
+    "strength": 100
+  },
+  {
+    "source": "united_congregational_church_of_southern_africa",
+    "target": "protestant_church_of_switzerland",
+    "strength": 100
+  },
+  {
+    "source": "united_congregational_church_of_southern_africa",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "united_congregational_church_of_southern_africa",
+    "target": "united_church_of_zambia",
+    "strength": 100
+  },
+  {
+    "source": "united_congregational_church_of_southern_africa",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "united_congregational_church_of_southern_africa",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "united_congregational_church_of_southern_africa",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_korea",
+    "target": "protestant_church_of_switzerland",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_korea",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_korea",
+    "target": "united_church_of_zambia",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_korea",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_korea",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_korea",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_of_switzerland",
+    "target": "presbyterian_church_usa",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_of_switzerland",
+    "target": "united_church_of_zambia",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_of_switzerland",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_of_switzerland",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "protestant_church_of_switzerland",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_usa",
+    "target": "united_church_of_zambia",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_usa",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_usa",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "presbyterian_church_usa",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "united_church_of_zambia",
+    "target": "china_christian_council",
+    "strength": 100
+  },
+  {
+    "source": "united_church_of_zambia",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "united_church_of_zambia",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "china_christian_council",
+    "target": "reformed_church_hungary",
+    "strength": 100
+  },
+  {
+    "source": "china_christian_council",
+    "target": "presbyterian_church_east_africa",
+    "strength": 100
+  },
+  {
+    "source": "reformed_church_hungary",
+    "target": "presbyterian_church_east_africa",
     "strength": 100
   }
 ]

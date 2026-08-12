@@ -154,7 +154,7 @@ function initSigma(config) {
                 }
 
                 // 0.25 at strength 0, 1.0 at strength 100
-                var scale = 0.05 + (strength / 100) * 0.95;
+                var scale = 0.1 + (strength / 100) * 0.90;
 
                 // Convert #RRGGBB to RGB
                 var hex = sourceNode.color.replace('#', '');
